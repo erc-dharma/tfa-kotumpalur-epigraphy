@@ -76,6 +76,7 @@
         
         <body>
             <div type="edition" xml:lang="tam-Tam">
+                <!--Add milestone as this is fragment block-->
                 <p>
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </p> 
