@@ -88,12 +88,12 @@
                     <lb n="2"/><supplied reason="lost">koṭumpā</supplied>‡ḷūr <choice><orig>Añ</orig><reg>Ain</reg></choice>taḷi ma<hi rend="grantha">hāde</hi>varkku Oru noṉtā‡<supplied reason="lost">viḷakku</supplied> <gap reason="lost" extent="unknown" unit="character"/>                                        
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> ‡ cilat tirumeṟṟaḷi mātaṉ ca<choice><orig>ṉ</orig><reg>n</reg></choice>ti<unclear>kku</unclear>m ti‡<supplied reason="lost">ruviḷakku</supplied> <gap reason="lost" extent="unknown" unit="character"/>
                     
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>  ‡ kaḻañcu ca<choice><orig>ṉ</orig><reg>n</reg></choice>tirāti<choice><sic>tava</sic><corr>ttavat</corr></choice> pakal no<choice><orig>ṉ</orig><reg>n</reg></choice>t‡<supplied reason="lost">ā viḷakku</supplied><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5" break="no"/><gap reason="lost" extent="unknown" unit="character"/>  ‡ t<unclear>arku</unclear> nakkaṉ <gap reason="lost" quantity="2" unit="character"/> <unclear>ce</unclear>ti <gap reason="lost" quantity="1" unit="character"/>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>vata</unclear> poṉ <gap reason="lost" extent="unknown" unit="character"/> ‡ <gap reason="lost" extent="unknown" unit="character"/>  ‡ kaḻañcu ca<choice><orig>ṉ</orig><reg>n</reg></choice>tirāti<choice><sic>tava</sic><corr>ttavat</corr></choice> pakal no<choice><orig>ṉ</orig><reg>n</reg></choice>t‡<supplied reason="lost">ā viḷakku</supplied><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5" break="no"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>mārāṉ</unclear> pāṇṭa <gap reason="lost" quantity="2" unit="character"/> ṟi <gap reason="lost" quantity="2" unit="character"/> ḷakku Eri <gap reason="lost" quantity="2" unit="character"/>  <gap reason="lost" extent="unknown" unit="character"/> ‡ <gap reason="lost" extent="unknown" unit="character"/>  ‡ t<unclear>arku</unclear> nakkaṉ <gap reason="lost" quantity="2" unit="character"/> <unclear>ce</unclear>ti <gap reason="lost" quantity="1" unit="character"/>
                 </p>
                 <p>
                     Ik-<unclear>k</unclear>aḻañcum kai <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">Ai <!--A=Ai in fact--></supplied>‡<choice><orig>ñ</orig><reg>n</reg></choice>-taḷi <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="6"/> <gap reason="lost" extent="unknown" unit="character"/> koṇṭom <gap reason="lost" quantity="2" unit="character"/>  <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">A</supplied> ‡ <choice><orig>ñ</orig><reg>n</reg></choice>-taḷi <gap reason="lost" extent="unknown" unit="character"/>
                 </p>
                 <p>
                     <supplied reason="lost">Itu</supplied> paṉmā‡<hi rend="grantha">he</hi>cuvara-<unclear>ra</unclear><hi rend="grantha"><unclear>kṣai</unclear></hi>
@@ -103,9 +103,9 @@
             
          <div type="apparatus">
              <listApp>
-                 <app loc="1">
-                     <lem></lem>
-                     <note></note>
+                 <app loc="6">
+                     <lem><supplied reason="lost">A</supplied> ‡ <choice><orig>ñ</orig><reg>n</reg></choice>-taḷi</lem>
+                     <note>The restoration is made consistent with the rest of the inscription. The recontructed original has to be fully normalised to <foreign>Aintaḷi</foreign>. </note>
                  </app>                 
              </listApp>
          </div>
@@ -143,3 +143,7 @@
       </body>
   </text>
 </TEI>
+
+<!--
+    The beginning of lines 4-6 between the first two milestones, might in fact be part of another inscription.
+-->
