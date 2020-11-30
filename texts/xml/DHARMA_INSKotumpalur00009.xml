@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Koṭumpāḷūr, Aivarkōyil, inscription of the time of unknown king, year unknown</title>
+                <title>Koṭumpāḷūr, Aivarkōyil, inscription of the time of <gap reason="lost"/><!--implement display??-->varman, year unknown</title>
                 <respStmt>
                     <resp>EpiDoc encoding</resp>
                     <persName ref="part:emfr">
@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Incomplete inscription recording a donation of gold for the upkeep of a perpetual lamp.</summary>
+                        <summary>Incomplete inscription recording a donation.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -80,37 +80,21 @@
                 <!--Add milestone as this is fragment block.--> 
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">s<unclear>va</unclear>s<unclear>ti</unclear> <supplied reason="lost">śrī</supplied></hi>
+                    <lb n="1"/><hi rend="grantha">svas<unclear>ti</unclear> śrī</hi>
+                </p>
+                <p>
+                    <gap reason="lost" quantity="8" unit="character" precision="low"/><choice><unclear>v</unclear><unclear>p</unclear></choice>a<unclear>r</unclear>k=ku ‡ <gap reason="lost" extent="unknown" unit="character"/>
                 </p>
                 <p>
                     <gap reason="lost" extent="unknown" unit="character"/>
-                    ‡
-                    <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/>
-                    <gap reason="lost" quantity="2" unit="character" precision="low"/>
-                    <unclear>vaṉ</unclear>
-                    <gap reason="lost" quantity="2" unit="character" precision="low"/>
-                    varkku
-                    <gap reason="lost" extent="unknown" unit="character"/>
-                    ‡
-                    <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><hi rend="grantha">māheśva<unclear>ra</unclear></hi> Oru nontā viḷak=ku <unclear>cātti tta</unclear> ‡ kal <!--candrādittaval?--> Erippataṟkkum poṉ pattu                    
-                </p>
-                <p>
-                    <lb n="4"/>
-                    <gap reason="lost" extent="unknown" unit="character"/>
-                    p
-                    <gap reason="lost" extent="unknown" unit="character"/>
-                    p
-                    <gap reason="lost" extent="unknown" unit="character"/>
-                    ‡
-                    <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/>
-                    <gap reason="lost" extent="unknown" unit="character"/>
-                    ‡
-                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2" break="no"/>Il E<unclear>ḻu</unclear>vaṉ m<unclear>ai</unclear><choice><unclear>t=ta</unclear><unclear>cū</unclear></choice>ri Iṭṭa c <choice><unclear>a</unclear><unclear>e</unclear></choice>CiCi <!--update C=consonant--> <choice><unclear>j</unclear><unclear>b<!--grantha!--></unclear></choice>i kaiy k<choice><unclear>o</unclear><unclear>ō</unclear></choice>ṭṭu ‡ <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3" break="no"/>vārk=ku vai<unclear>t</unclear>ta nilam ko<unclear>ṇṭu E</unclear>ṉ <gap reason="lost" quantity="4" unit="character" precision="low"/> kku vaṭa ‡ <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/>vāy c-ce<unclear>y</unclear>
                 </p>  
-               
+                <p>
+                    Itu paṉmā<hi rend="grantha">heśvara</hi> <supplied reason="lost"><hi rend="grantha">rakṣai</hi></supplied>                    
+                </p>
+                
             </div>
             
          <div type="apparatus">
@@ -124,15 +108,17 @@
             
             <div type="translation" xml:lang="eng" resp="part:emfr">
                 <p n="1">
-                    Prosperity! <supplied reason="lost">Fortune!</supplied>
+                    Prosperity! Fortune!
                 </p>
-                <p n="1-3">
-                    <supplied reason="subaudible">There are</supplied> ten <foreign>poṉ</foreign>s for burning <seg cert="low">as long as the moon and the sun</seg> one perpetual lamp <seg cert="low">for</seg> the <hi rend="grantha">Māheśvara</hi>s <gap reason="lost"/> 
+                <p n="1">
+                    <gap reason="lost"/> <supplied reason="lost">year of</supplied> <gap reason="lost"/>varman.
                 </p>
-                <p n="4-5">
-                   <gap reason="lost"/>
+                <p n="2-4">
+                   ADD Translation
                 </p>
-               
+                <p n="4">
+                    This <supplied reason="subaudible">donation is under</supplied> the protection of the Paṉmā<hi rend="grantha">heśvara</hi>s.
+                </p>
             </div>
             
          <div type="commentary">
