@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Gift of gold by Kaṇṭaṉ Kaṟṟaḷi, a <foreign>tēvaputtira</foreign> of the Aintaḷi, and by another donor (name lost), for the upkeep of  perpetual lamps, in honour, respectively, of the Mahādeva of the Aintaḷi of Koṭumpāḷūr and of another deity (name lost).</summary>
+                        <summary>Gifts of gold by Kaṇṭaṉ Kaṟṟaḷi, a <foreign>tēvaputtira</foreign> of the Aintaḷi, and by another donor (name lost), for the upkeep of two perpetual lamps, in honour, respectively, of the Mahādeva of the Aintaḷi of Koṭumpāḷūr and of another deity (name lost) of the Aintaḷi.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -84,13 +84,13 @@
                 </p> 
                 
                 <p>
-                    kāntaḷūr-c cālai kalam aṟuttu-k kaṅka-pāṭ<unclear>i</unclear>‡<supplied reason="lost">um nu</supplied><unclear>ḷam</unclear>pa-pāṭiyum taṭikai-vaḻiyum koṇṭa kō-v-irā<hi rend="grantha">ja</hi>‡rā<hi rend="grantha">ja</hi>kēcari-paṉmarkku
-                    <lb n="2"/>yāṇṭu 10 <unclear>4</unclear><!--update-->-Āvatu
+                    kāntaḷūr-c cālai kalam aṟuttu-k kaṅka-pāṭ<unclear>i</unclear>‡<supplied reason="lost">yum nu</supplied><unclear>ḷam</unclear>pa-pāṭiyum taṭikai-vaḻiyum koṇṭa kō-v-irā<hi rend="grantha">ja</hi>‡rā<hi rend="grantha">ja</hi>kēcari-paṉmarkku
+                    <lb n="2"/>yāṇṭu <num value="14"><g type="numeral">10</g><!--displayed as double daṇḍa!!--> <unclear>4</unclear></num>-Āvatu
                 </p> 
                 
                 <p>
                     Uṟattūr-k-kūṟṟattu-k koṭump‡<supplied reason="lost">āḷūr</supplied>-<unclear>t</unclear> tiru-v-ai<choice><orig>ṉ</orig><reg>n</reg></choice>-taḷi mahādevaṟku it-taḷi-t tēvaputtiraṉ‡māṟ kaṇṭaṉ kaṟṟaḷi O
-                    <lb n="3" break="no"/>ru noṉtā viḷakkukkku vaitta poṉ patiṉ<unclear>ā</unclear> kaḻañc<unclear>u</unclear> ‡
+                    <lb n="3" break="no"/>ru no<choice><orig>ṉ</orig><reg>n</reg></choice>tā viḷakkukkku vaitta poṉ patiṉ<unclear>ā</unclear> kaḻañc<unclear>u</unclear> ‡
                 </p> 
                 
                 <p>
@@ -98,8 +98,8 @@
                 </p> 
                 
                 <p>
-                    <unclear>I</unclear>t-taḷi va<unclear>ṉ</unclear>
-                    <lb n="4" break="no"/>ṇ <gap reason="lost" quantity="2" unit="character" precision="low"/> koṇṭa po<unclear>ṉ</unclear> kaḻañcu<unclear>m Āka</unclear><supplied reason="lost">vum</supplied>
+                    <unclear>I</unclear>t-taḷi va<unclear>ṇ</unclear>
+                    <lb n="4" break="no"/>ṇa<unclear>kka</unclear>ṉ koṇṭa po<unclear>ṉ</unclear> kaḻañcu<unclear>m Āka</unclear><supplied reason="lost">vum</supplied>
                 </p> 
                 
                 <p>                   
@@ -117,20 +117,31 @@
              </listApp>
          </div>
             
-            <div type="translation" xml:lang="eng" resp="part:emfr"><!--UPDATE!-->
-                <p n="1">Prosperity! Fortune!</p>
-                <p n="1-2">14th year of the king Rājakesarivarman, who ... <!--ADD translation--></p>
-                <p n="2-3"><supplied reason="subaudible">There are</supplied> ten <foreign>kaḻañcu</foreign>s of gold that ... of this temple gave ...</p>
-                <p n="3"><supplied reason="subaudible">There are also</supplied> nine <foreign>kaḻañcu</foreign>s of gold that <gap reason="lost"/> <supplied reason="lost">gave in honour of</supplied> <gap reason="lost"/> <supplied reason="subaudible">of</supplied> the glorious temple <supplied reason="explanation"><foreign>kōyil</foreign></supplied> <supplied reason="subaudible">of</supplied> this temple <supplied reason="explanation"><foreign>it-taḷi</foreign></supplied>.</p>
+            <div type="translation" xml:lang="eng" resp="part:emfr">
+                <p n="1">
+                    Prosperity! Fortune!
+                </p>
+                <p n="1-2">
+                    14th year of the king Rājakesarivarman, who, after having distributed pots in the <foreign>cālai</foreign> of Kantaḷūr, took the country of the Gaṅga, the country of the Nuḷampa (that is "Noḷamba") and the Taṭikaivaḻi.
+                </p>
+                <p n="2-3">
+                    <supplied reason="subaudible">There are</supplied> ten <foreign>kaḻañcu</foreign>s of gold that Kantaṉ Kaṟṟaḷi, <supplied reason="subaudible">one among</supplied> the <foreign>tēvaputtira</foreign>s of this temple, gave for one perpetual lamp for the Mahādeva of the glorious Aintaḷi of Kotumpāḷūr in the Uṟattūr-k-kūṟṟam.
+                </p>
+                <p n="3">
+                    <supplied reason="subaudible">There are also</supplied> nine <foreign>kaḻañcu</foreign>s of gold that <gap reason="lost"/> <supplied reason="lost">gave for</supplied> <gap reason="lost"/> <supplied reason="subaudible">of</supplied> the glorious temple (alternatively, "shrine") <supplied reason="explanation"><foreign>kōyil</foreign></supplied> <supplied reason="subaudible">of</supplied> this temple <supplied reason="explanation"><foreign>it-taḷi</foreign></supplied>.
+                </p>
                 <p n="3-4">
+                    Let <supplied reason="subaudible">these</supplied> be <foreign>kaḻañcu</foreign>s of gold that the coin-tester of this temple takes (that is, "manages"). 
                 </p>
                 <p n="4">
-                    
+                    This <supplied reason="subaudible">donation is under</supplied> the protection of the Paṉ<hi rend="grantha">māheśva</hi>rars.
                 </p>
             </div>
             
          <div type="commentary">
-          
+          <p n="3">
+              <foreign><unclear>I</unclear>t-taḷi-t tiru-k-kōyil</foreign>. Note the use of the synonyms taḷi and kōyil, the first to designate the entire complex made of five temples and the secon to designate one of these five temples.
+          </p>
          </div>
             
           <div type="bibliography">	
