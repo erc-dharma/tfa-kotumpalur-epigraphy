@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Koṭumpāḷūr, Aivarkōyil, inscription of the time of Rājakesarivarman, year 15</title>
+                <title>Koṭumpāḷūr, Aivarkōyil, fragment of the time of Rājakesarivarman, year 15</title>
                 <respStmt>
                     <resp>EpiDoc encoding</resp>
                     <persName ref="part:emfr">
@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Incomplete inscription mentioning Naṅkaiyār Aṉantam Paḻiyili.</summary>
+                        <summary>Fragment mentioning Naṅkaiyār Aṉantam Paḻiyili.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -76,28 +76,40 @@
         
         <body>
             <div type="edition" xml:lang="tam-Tam">
-                <!--Add milestone as this is fragment block--> 
+                                
                 <p>
-                    <lb n="1"/><hi rend="grantha">sva<supplied reason="omitted">sti</supplied> śrī</hi>
+                    <lb n="1"/><hi rend="grantha">s<unclear reason="eccentric_ductus">va</unclear><supplied reason="omitted">sti</supplied> śrī</hi>
                 </p> 
                 <p>
-                    kō-v-irācak<choice><sic>ora</sic><corr>ēca</corr></choice>ri-paruma<choice><orig>k=ku</orig><reg>rk=ku</reg></choice> yāṇṭu pati<choice><orig>n</orig><reg>ṉ</reg></choice><choice><sic>a</sic><corr>ai</corr></choice>ñc-āvatu
+                    kō-v-irācak<choice><sic>o</sic><corr>ē</corr></choice>cari-paruma<choice><orig>k=ku</orig><reg>rk=ku</reg></choice> yāṇṭu pati<choice><orig>n</orig><reg>ṉ</reg></choice><choice><sic>a</sic><corr>ai</corr></choice>ñc-āvatu
                 </p> 
                 <p>                    
-                    Uṟattūr-kūṟṟat<gap reason="lost" extent="unknown" unit="character"/> 
+                    Uṟattūr-kūṟṟat 
                 </p>
                 <p>                   
-                    <lb n="2"/>naṅkaiyār Aṉantam paḻiyili vaḻiyu 
+                    <lb n="2" style="text-align: left"/>naṅkaiyār Aṉantam paḻiyili vaḻiyu 
                 </p>
             </div>
             
          <div type="apparatus">
              <listApp>
+                
+                 <app loc="1">
+                     <lem><hi rend="grantha">s<unclear reason="eccentric_ductus">va</unclear><supplied reason="omitted">sti</supplied></hi></lem>
+                     <note>The letter <foreign>va</foreign> looks like <foreign>pa</foreign>.</note>                     
+                 </app>
+                 
+                 <app loc="1">
+                     <lem>-paruma<choice><orig>k=ku</orig><reg>rk=ku</reg></choice></lem>
+                     <note>It seems that the engraver first wrote <foreign>kora</foreign> and, realising his mistake, transformed the <foreign>ra</foreign> into <foreign>ca</foreign>.</note>                     
+                 </app>
+                 
                  <app loc="1">
                      <lem>Uṟattūr-kūṟṟat<gap reason="lost" extent="unknown" unit="character"/>
                      </lem>
-                     <note>Restore most probably <foreign>Uṟattūr-k-kūṟṟattu</foreign>.</note>
-                 </app>                 
+                     <note>Restore most probably <foreign>Uṟattūr-kūṟṟattu</foreign>.</note>
+                 </app>
+                 
              </listApp>
          </div>
             
@@ -105,17 +117,17 @@
                 <p n="1">Prosperity! Fortune!</p>
                 <p n="1">Fifteenth year of the king Rājakesarivarman.</p>
                 <p n="1"><gap reason="lost"/> <supplied reason="lost">in the</supplied> Uṟattūrkkūṟṟam <gap reason="lost"/></p>
-                <p n="2">Naṅkaiyār Aṉantam Paḻiyili <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>valiyu</foreign></supplied></p>
+                <p n="2">Naṅkaiyār Aṉantam Paḻiyili <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>vaḻiyu</foreign></supplied></p>
             </div>
             
          <div type="commentary">
-            <p>The inscription seems to have been left unfinished.</p>
+            <p>The inscription stops short in line 2 after <foreign>vaḻiyu</foreign> and seems to have been left unfinished.</p>
              <p n="2">Naṅkaiyār Aṉantam Paḻiyili ("our unbounded and irreproachable lady"?) is possibly the donor.</p>
          </div>
           
             <div type="bibliography">	
                 
-                <p>First edited and translated here by Emmanuel Francis (2020).</p>
+                <p>Reported in ARIE. First edited and translated here by Emmanuel Francis (2020).</p>
                 
                 <listBibl type="primary">
                     <bibl n="siglum"/>

@@ -5,7 +5,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Koṭumpāḷūr, Aivarkōyil, inscription of the time of Parakesarivarman, year
+				<title>Koṭumpāḷūr, Aivarkōyil, fragment of the time of Parakesarivarman, year
 					10</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
@@ -45,7 +45,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Incomplete inscription recording the gift of one
+						<summary>Fragment recording the gift of one
 								<foreign>kaḻañcu</foreign> of gold.</summary>
 					</msContents>
 					<physDesc>
