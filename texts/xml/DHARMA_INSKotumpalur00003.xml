@@ -50,7 +50,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>Interesting serif, which looks like medial <foreign>e</foreign>.</p>
+							<p>Most letters have a serif on the left top part, which looks like a medial <foreign>e</foreign>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -87,20 +87,22 @@
         
         <body>
             <div type="edition" xml:lang="tam-Tam">
-                <!--Add milestone as this is fragment block-->
+            	
+                <!--Add milestone as this is fragment block. Check EGD-->
+            	
                 <p>
                     <lb n="1"/><hi rend="grantha">s<unclear reason="eccentric_ductus">va</unclear>sti śrī</hi>
                 </p> 
                 <p>
-                    kō-p-parakēcari-paṉmaṟkku yāṇṭu <num value="10"><g type="numeral">10</g></num> <!--displayed as double daṇḍa!!--> Ēḻ-āvatu
+                    kō-p-parakēcari-paṉma<choice><orig>ṟ</orig><reg>r</reg></choice>kku yāṇṭu <num value="10"><g type="numeral">10</g></num> <!--display issue: displayed as double daṇḍa!!--> Ēḻ-āvatu
                 </p>
                 
                 <p>
-                    Iv-vāṇṭu Uṟattū<supplied reason="lost">rk-kūṟṟattu</supplied><gap reason="lost" extent="unknown" unit="character"/>
+                    Iv-vāṇṭu Uṟattū‡<supplied reason="lost">r-k-kūṟṟattu</supplied> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/>cattaṇattukk<unclear>u</unclear> vai<choice><orig>cc</orig><reg>tt</reg></choice>a poṉ kaḻañcu 
                 </p>
                 <p>
-                    Ip-poṉ cantirāti<choice><orig>cc</orig><reg>tt</reg></choice>ava<supplied reason="lost">t</supplied><gap reason="lost" extent="unknown" unit="character"/>
+                    Ip-poṉ cantirāti<choice><orig>cc</orig><reg>tt</reg></choice>ava<supplied reason="lost">t</supplied> <gap reason="lost" extent="unknown" unit="character"/>
                 </p>
             </div>
             
@@ -110,7 +112,7 @@
          		
          		<app loc="1">
          			<lem><hi rend="grantha">s<unclear reason="eccentric_ductus">va</unclear>sti</hi></lem>
-         			<note>The <foreign>va</foreign> in <foreign>sva</foreign> looks like <foreign>pa</foreign>.</note>                     
+         			<note>The letter <foreign>va</foreign> looks like <foreign>pa</foreign>.</note>                     
          		</app>
          		         		
          	</listApp>
@@ -120,14 +122,14 @@
                 <p n="1">Prosperity! Fortune!</p>
                 <p n="1">Seventeenth year of the king Parakesarivarman.</p>
                 <p>In this year <gap reason="lost"/> <supplied reason="lost">in the</supplied> Uṟattū<supplied reason="lost">rkkūṟṟam</supplied> <gap reason="lost"/> <supplied reason="subaudible">there is</supplied> one <foreign>kaḻañcu</foreign> of gold that <gap reason="lost"/> gave for the <seg cert="low">Cattaṇam</seg>.</p>
-                <p n="2">This gold, as long as the moon and the sun <gap reason="lost"/></p>
+                <p n="2">This gold, as long as the moon and the sun, <gap reason="lost"/></p>
             </div>
             
          <div type="commentary">
-            
+            <p n="2"><foreign>cattaṇattukk<unclear>u</unclear></foreign>. The meaning of this word is unclear. It appears to be a dative and to designate the beneficiary of the gift.</p>
          </div>
           <div type="bibliography">	
-              <p>Unnoticed so far? First edited and translated here by Emmanuel Francis (2020).</p>
+              <p>Unnoticed and unreported so far. First edited and translated here by Emmanuel Francis (2020).</p>
               <listBibl type="primary">
                   <bibl n="siglum"/>
               </listBibl>
