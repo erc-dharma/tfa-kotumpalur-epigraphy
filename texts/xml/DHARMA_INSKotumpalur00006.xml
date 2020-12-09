@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Koṭumpāḷūr, Aivarkōyil, inscription of the time of <gap reason="lost"/><!--implement display??-->kesarivarman, year unknown</title>
+                <title>Koṭumpāḷūr, Aivarkōyil, inscription of the time of <gap reason="illegible"/><!--implement display??-->kesarivarman, year unknown</title>
                 <respStmt>
                     <resp>EpiDoc encoding</resp>
                     <persName ref="part:emfr">
@@ -78,29 +78,43 @@
             <div type="edition" xml:lang="tam-Tam">
                 
                 <p>
-                    <!--Add milestone as this is fragment block.--> 
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">kē</supplied>carip=pa <gap reason="lost" extent="unknown" unit="character"/> ‡ <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">Uṟattūr-k-kūṟṟat</supplied>
-                    <lb n="2" break="no"/>ttu k<unclear>oṭumpā</unclear>ḷūr Aiñtaḷi māt<unclear>ēvarkku</unclear> ‡ <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>varkku</unclear> ‡ <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> e <gap reason="lost" extent="unknown" unit="character"/> c <gap reason="lost" extent="unknown" unit="character"/> ‡ <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5" break="no"/><gap reason="lost" quantity="1" unit="character"/> ṅk <gap reason="lost" extent="unknown" unit="character"/> poṉ Iru kaḻañcā <gap reason="lost" quantity="1" unit="character"/> m ‡ <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> ṭṭu<unclear>varma</unclear>kku poṉ <gap reason="lost" extent="unknown" unit="character"/> ‡ <gap reason="lost" extent="unknown" unit="character"/>
+                    <!--Estimate gap extent-->
+                    <!--Add milestone, i.e. replace ‡ by milestone. NB: fragment block. Check EGD-->
+                    <!--gap reason = systematically "illegible" even when "lost" so as not to have sequence of gaps with different reasons.-->
+                    
+                    <lb n="1"/><gap reason="illegible" extent="unknown" unit="character"/> <unclear>kēcarip=p</unclear>  <gap reason="illegible" extent="unknown" unit="character"/> ‡ <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">Uṟattūr-k-kūṟṟa</supplied>
+                    <lb n="2" break="no"/><unclear>t</unclear>tu k<unclear>oṭumpā</unclear>ḷūr Aiñtaḷi mā<unclear>t</unclear>ē<unclear>va</unclear>rkku ‡ <gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="3"/><gap reason="illegible" extent="unknown" unit="character"/> <unclear>varkku</unclear> <gap reason="illegible" extent="unknown" unit="character"/> ‡ <gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="4"/><unclear>t t</unclear>ē<unclear>var</unclear> <gap reason="illegible" extent="unknown" unit="character"/> c <gap reason="illegible" extent="unknown" unit="character"/> ‡ <gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="5" break="no"/><gap reason="illegible" quantity="1" unit="character"/> ṅka <unclear>koṇṭuriyāka</unclear>  poṉ Iru kaḻañcā <gap reason="illegible" quantity="1" unit="character"/> m<unclear>a</unclear> ‡ <gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="6"/><gap reason="illegible" extent="unknown" unit="character"/> <unclear>yō</unclear>ṭṭuva<unclear>r</unclear>kku poṉ <gap reason="illegible" extent="unknown" unit="character"/> ‡ <gap reason="lost" extent="unknown" unit="character"/> 
                 </p> 
             </div>
             
          <div type="apparatus">
-             <listApp>
-                 <app loc="1">
-                     <lem></lem>
-                     <note></note>
-                 </app>                 
-             </listApp>
+             
          </div>
             
             <div type="translation" xml:lang="eng" resp="part:emfr">
-                <p n="1"><gap reason="lost"/> kecari<supplied reason="lost">varman</supplied> <gap reason="lost"/></p>
-                <p n="1-5"><supplied reason="subaudible">There are</supplied> two <foreign>poṉ</foreign>s <supplied reason="lost">that</supplied> <gap reason="lost"/> <supplied reason="lost">gave</supplied> for the Mahādeva of the Aintaḷi at Koṭumpāḷūr in the Uṟattūrkkūṟṟam.</p>
-                <p n="5-6"><gap reason="lost"/> <foreign>kaḻañcu</foreign> <gap reason="lost"/> gold <gap reason="lost"/>.</p>
+                <!--what about a word supplied in translation not because lost because illegible? <supplied> does not accept reason = "illegible"-->
+                <p n="1">
+                    <gap reason="illegible"/> kecari<supplied reason="lost">varman</supplied> <gap reason="illegible"/>
+                </p>
+                <p n="1-2">
+                    for the Mahādeva of the Aintaḷi at Koṭumpāḷūr <supplied reason="lost">in the Uṟattūrkkūṟṟam</supplied>
+                </p> 
+                <p n="3">
+                    <gap reason="illegible"/>
+                </p>
+                <p n="4">
+                    god <gap reason="illegible"/>
+                </p>
+                <p n="5">
+                    <gap reason="illegible"/> two <foreign>kaḻañcu</foreign>s of gold <gap reason="illegible"/>
+                </p>
+                <p n="6">
+                    <gap reason="illegible"/> gold <gap reason="illegible"/>
+                </p>
             </div>
             
          <div type="commentary">

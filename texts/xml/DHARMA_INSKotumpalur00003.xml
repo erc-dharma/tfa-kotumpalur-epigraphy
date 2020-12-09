@@ -88,21 +88,21 @@
         <body>
             <div type="edition" xml:lang="tam-Tam">
             	
-                <!--Add milestone as this is fragment block. Check EGD-->
+            	<!--milestone display not satisfactory! NB: fragment block with lacuna of unknown blocks, treated not as a massive lacuna so as to retain the <p> segmentation-->
             	
                 <p>
-                    <lb n="1"/><hi rend="grantha">s<unclear reason="eccentric_ductus">va</unclear>sti śrī</hi>
+                    <lb n="1"/><milestone unit="block" n="a"/> <hi rend="grantha">s<unclear reason="eccentric_ductus">va</unclear>sti śrī</hi>
                 </p> 
                 <p>
                     kō-p-parakēcari-paṉma<choice><orig>ṟ</orig><reg>r</reg></choice>kku yāṇṭu <num value="10"><g type="numeral">10</g></num> <!--display issue: displayed as double daṇḍa!!--> Ēḻ-āvatu
                 </p>
                 
                 <p>
-                    Iv-vāṇṭu Uṟattū‡<supplied reason="lost">r-k-kūṟṟattu</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/>cattaṇattukk<unclear>u</unclear> vai<choice><orig>cc</orig><reg>tt</reg></choice>a poṉ kaḻañcu 
+                    Iv-vāṇṭu Uṟattū<milestone unit="block" n="b" break="no"/><supplied reason="lost">r-k-kūṟṟattu</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><milestone unit="block" n="a"/> cattaṇattukk<unclear>u</unclear> vai<choice><orig>cc</orig><reg>tt</reg></choice>a poṉ kaḻañcu 
                 </p>
                 <p>
-                    Ip-poṉ cantirāti<choice><orig>cc</orig><reg>tt</reg></choice>ava<supplied reason="lost">t</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+                    Ip-poṉ cantirāti<choice><orig>cc</orig><reg>tt</reg></choice>ava<milestone unit="block" n="b" break="no"/><supplied reason="lost">t</supplied> <gap reason="lost" extent="unknown" unit="character"/>
                 </p>
             </div>
             

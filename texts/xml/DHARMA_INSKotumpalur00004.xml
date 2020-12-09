@@ -76,7 +76,8 @@
         
         <body>
             <div type="edition" xml:lang="tam-Tam">
-                                
+            	<!--Add milestone, i.e. replace ‡ by milestone. NB: fragment block. Check EGD-->
+
                 <p>
                     <lb n="1"/><hi rend="grantha">s<unclear reason="eccentric_ductus">va</unclear><supplied reason="omitted">sti</supplied> śrī</hi>
                 </p> 
@@ -84,7 +85,7 @@
                     kō-v-irācak<choice><sic>o</sic><corr>ē</corr></choice>cari-paruma<choice><orig>k=ku</orig><reg>rk=ku</reg></choice> yāṇṭu pati<choice><orig>n</orig><reg>ṉ</reg></choice><choice><sic>a</sic><corr>ai</corr></choice>ñc-āvatu
                 </p> 
                 <p>                    
-                    Uṟattūr-<supplied reason="omitted">k</supplied>-kūṟṟat 
+                    Uṟattūr-<supplied reason="omitted">k</supplied>-kūṟṟat‡<supplied reason="lost">tu</supplied> <gap reason="lost" extent="unknown" unit="character"></gap>
                 </p>
                 <p>                   
                     <lb n="2" style="text-align: left"/>naṅkaiyār Aṉantam paḻiyili vaḻiyu 
@@ -102,13 +103,7 @@
                  <app loc="1">
                      <lem>-paruma<choice><orig>k=ku</orig><reg>rk=ku</reg></choice></lem>
                      <note>It seems that the engraver first wrote <foreign>kora</foreign> and, realising his mistake, transformed the <foreign>ra</foreign> into <foreign>ca</foreign>.</note>                     
-                 </app>
-                 
-                 <app loc="1">
-                     <lem>Uṟattūr-kūṟṟat<gap reason="lost" extent="unknown" unit="character"/>
-                     </lem>
-                     <note>Restore most probably <foreign>Uṟattūr-kūṟṟattu</foreign>.</note>
-                 </app>
+                 </app>                               
                  
              </listApp>
          </div>
