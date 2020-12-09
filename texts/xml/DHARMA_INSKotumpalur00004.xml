@@ -76,19 +76,18 @@
         
         <body>
             <div type="edition" xml:lang="tam-Tam">
-            	<!--Add milestone, i.e. replace ‡ by milestone. NB: fragment block. Check EGD-->
-
+            	
                 <p>
-                    <lb n="1"/><hi rend="grantha">s<unclear reason="eccentric_ductus">va</unclear><supplied reason="omitted">sti</supplied> śrī</hi>
+                    <lb n="1"/><milestone unit="block" n="a"/><hi rend="grantha">s<unclear reason="eccentric_ductus">va</unclear><supplied reason="omitted">sti</supplied> śrī</hi>
                 </p> 
                 <p>
                     kō-v-irācak<choice><sic>o</sic><corr>ē</corr></choice>cari-paruma<choice><orig>k=ku</orig><reg>rk=ku</reg></choice> yāṇṭu pati<choice><orig>n</orig><reg>ṉ</reg></choice><choice><sic>a</sic><corr>ai</corr></choice>ñc-āvatu
                 </p> 
                 <p>                    
-                    Uṟattūr-<supplied reason="omitted">k</supplied>-kūṟṟat‡<supplied reason="lost">tu</supplied> <gap reason="lost" extent="unknown" unit="character"></gap>
+                    Uṟattūr-<supplied reason="omitted">k</supplied>-kūṟṟat<milestone unit="block" n="b" break="no"/><supplied reason="lost">tu</supplied> <gap reason="lost" extent="unknown" unit="character"></gap>
                 </p>
                 <p>                   
-                    <lb n="2" style="text-align: left"/>naṅkaiyār Aṉantam paḻiyili vaḻiyu 
+                    <lb n="2" style="text-align: left"/><milestone unit="block" n="a"/>naṅkaiyār Aṉantam paḻiyili vaḻiyu 
                 </p>
             </div>
             

@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Incomplete inscription. Possibly a fragment of another one (beginning of lines 4-6 of DHARMA_INSKotumpalur00008 <!--Update cross-ref-->?).</summary>
+                        <summary>Incomplete inscription. Possibly a fragment of one of the incomplete preserved inscriptions at the site (beginning of lines 4-6 of DHARMA_INSKotumpalur00008 <!--Update cross-ref-->?).</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -84,7 +84,7 @@
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>vata</unclear> poṉ <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>mārāṉ</unclear> pāṇṭa <gap reason="lost" quantity="2" unit="character"/> ṟi <gap reason="lost" quantity="2" unit="character"/> ḷakku Eri <gap reason="lost" quantity="2" unit="character"/>
                 
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> koṇṭom <gap reason="lost" quantity="3" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> koṇṭōm <gap reason="lost" quantity="3" unit="character"/>
                 </p>
                 
                 
@@ -108,7 +108,7 @@
          </div>
             
           <div type="bibliography">	
-              <p>First edited here by Emmanuel Francis (2020).</p>
+              <p>Unreported. First edited here by Emmanuel Francis (2020).</p>
               <listBibl type="primary">
                   <bibl n="siglum"/>
               </listBibl>

@@ -79,15 +79,14 @@
                 
                 <p>
                     <!--Estimate gap extent-->
-                    <!--Add milestone, i.e. replace ‡ by milestone. NB: fragment block. Check EGD-->
-                    <!--gap reason = systematically "illegible" even when "lost" so as not to have sequence of gaps with different reasons.-->
+                   <!--gap reason = systematically "illegible" even when "lost" so as not to have sequence of gaps with different reasons.-->
                     
-                    <lb n="1"/><gap reason="illegible" extent="unknown" unit="character"/> <unclear>kēcarip=p</unclear>  <gap reason="illegible" extent="unknown" unit="character"/> ‡ <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">Uṟattūr-k-kūṟṟa</supplied>
-                    <lb n="2" break="no"/><unclear>t</unclear>tu k<unclear>oṭumpā</unclear>ḷūr Aiñtaḷi mā<unclear>t</unclear>ē<unclear>va</unclear>rkku ‡ <gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="3"/><gap reason="illegible" extent="unknown" unit="character"/> <unclear>varkku</unclear> <gap reason="illegible" extent="unknown" unit="character"/> ‡ <gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="4"/><unclear>t t</unclear>ē<unclear>var</unclear> <gap reason="illegible" extent="unknown" unit="character"/> c <gap reason="illegible" extent="unknown" unit="character"/> ‡ <gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="5" break="no"/><gap reason="illegible" quantity="1" unit="character"/> ṅka <unclear>koṇṭuriyāka</unclear>  poṉ Iru kaḻañcā <gap reason="illegible" quantity="1" unit="character"/> m<unclear>a</unclear> ‡ <gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="6"/><gap reason="illegible" extent="unknown" unit="character"/> <unclear>yō</unclear>ṭṭuva<unclear>r</unclear>kku poṉ <gap reason="illegible" extent="unknown" unit="character"/> ‡ <gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="1"/><milestone unit="block" n="a"/><gap reason="illegible" extent="unknown" unit="character"/> <unclear>kēcarip=p</unclear>  <gap reason="illegible" extent="unknown" unit="character"/><milestone unit="block" n="b"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">Uṟattūr-k-kūṟṟa</supplied>
+                    <lb n="2" break="no"/><milestone unit="block" n="a" break="no"/><unclear>t</unclear>tu k<unclear>oṭumpā</unclear>ḷūr Aiñtaḷi mā<unclear>t</unclear>ē<unclear>va</unclear>rkku<milestone unit="block" n="b"/><gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="3"/><milestone unit="block" n="a"/><gap reason="illegible" extent="unknown" unit="character"/> <unclear>varkku</unclear> <gap reason="illegible" extent="unknown" unit="character"/><milestone unit="block" n="b"/><gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="4" break="no"/><milestone unit="block" n="a" break="no"/><unclear>t t</unclear>ē<unclear>var</unclear> <gap reason="illegible" extent="unknown" unit="character"/> c <gap reason="illegible" extent="unknown" unit="character"/><milestone unit="block" n="b"/><gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="5" break="no"/><milestone unit="block" n="a" break="no"/><gap reason="illegible" quantity="1" unit="character"/> ṅka <unclear>koṇṭuriyāka</unclear>  poṉ Iru kaḻañcā <gap reason="illegible" quantity="1" unit="character"/> m<unclear>a</unclear><milestone unit="block" n="b" break="no"/><gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="6"/><milestone unit="block" n="a"/><gap reason="illegible" extent="unknown" unit="character"/> <unclear>yō</unclear>ṭṭuva<unclear>r</unclear>kku poṉ <gap reason="illegible" extent="unknown" unit="character"/><milestone unit="block" n="b"/><gap reason="lost" extent="unknown" unit="character"/> 
                 </p> 
             </div>
             
