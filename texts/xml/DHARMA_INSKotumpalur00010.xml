@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Koṭumpāḷūr, Aivarkōyil, inscription of the time of unknown king, year unknown</title>
+                <title>Koṭumpāḷūr, Aivarkōyil, fragment of the time of an unknown king, year unknown</title>
                 <respStmt>
                     <resp>EpiDoc encoding</resp>
                     <persName ref="part:emfr">
@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Incomplete inscription recording a donation of gold for the upkeep of a perpetual lamp.</summary>
+                        <summary>Fragment on two consecutive blocks. Donation of gold for the upkeep of a perpetual lamp.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -76,50 +76,61 @@
         
         <body>
             <div type="edition" xml:lang="tam-Tam">
-                
-                <!--Add milestone as this is fragment block.--> 
-                
+                                
                 <p>
-                    <lb n="1"/><hi rend="grantha">s<unclear>va</unclear>s<unclear>ti</unclear> <supplied reason="lost">śrī</supplied></hi>
+                    <lb n="1"/>
+                    <milestone unit="block" n="a"/>
+                    <hi rend="grantha">s<unclear>va</unclear>s<unclear>ti</unclear> <supplied reason="lost">śrī</supplied></hi>
                 </p>
                 <p>
                     <gap reason="lost" extent="unknown" unit="character"/>
-                    ‡
+                    <milestone unit="block" n="b"/>
                     <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/>
+                    <milestone unit="block" n="a"/>
                     <gap reason="lost" quantity="2" unit="character" precision="low"/>
                     <unclear>vaṉ</unclear>
                     <gap reason="lost" quantity="2" unit="character" precision="low"/>
                     varkku
                     <gap reason="lost" extent="unknown" unit="character"/>
-                    ‡
+                    <milestone unit="block" n="b"/>
                     <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><hi rend="grantha">māheśva<unclear>ra</unclear></hi> Oru nontā viḷak=ku <unclear>cātti tta</unclear> ‡ kal <!--candrādittaval?--> Erippataṟkkum poṉ pattu                    
+                    <lb n="3"/>
+                    <milestone unit="block" n="a"/>
+                    <hi rend="grantha">māheśva<unclear>ra</unclear></hi> Oru nontā viḷak=ku <unclear>cātti tta</unclear>
+                    <milestone unit="block" n="b"/>
+                    kal Erippataṟkkum poṉ pattu                    
                 </p>
                 <p>
                     <lb n="4"/>
+                    <milestone unit="block" n="a"/>
                     <gap reason="lost" extent="unknown" unit="character"/>
                     p
                     <gap reason="lost" extent="unknown" unit="character"/>
                     p
                     <gap reason="lost" extent="unknown" unit="character"/>
-                    ‡
+                    <milestone unit="block" n="b"/>
                     <gap reason="lost" extent="unknown" unit="character"/>
+                    
                     <lb n="5"/>
+                    <milestone unit="block" n="a"/>
                     <gap reason="lost" extent="unknown" unit="character"/>
-                    ‡
+                    <milestone unit="block" n="b"/>
                     <gap reason="lost" extent="unknown" unit="character"/>
                 </p>  
                
             </div>
             
          <div type="apparatus">
+             
              <listApp>
-                 <app loc="1">
-                     <lem></lem>
-                     <note></note>
+                 <app loc="3">
+                     <lem><unclear>cātti tta</unclear>
+                    <milestone unit="block" n="b"/> kal</lem>
+                     <note>Read <foreign>cantirātittaval</foreign>?</note>
                  </app>                 
              </listApp>
+             
          </div>
             
             <div type="translation" xml:lang="eng" resp="part:emfr">

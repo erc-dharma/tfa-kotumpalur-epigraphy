@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Koṭumpāḷūr, Aivarkōyil, inscription of the time of <gap reason="lost"/><!--implement display??-->varman, year unknown</title>
+                <title>Koṭumpāḷūr, Aivarkōyil, fragment of the time of <gap reason="lost"/><!--implement display??-->varman, year unknown</title>
                 <respStmt>
                     <resp>EpiDoc encoding</resp>
                     <persName ref="part:emfr">
@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Incomplete inscription recording a donation.</summary>
+                        <summary>Fragment (one block) recording a donation. Lines 1-3 incomplete.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -77,18 +77,15 @@
         <body>
             <div type="edition" xml:lang="tam-Tam">
                 
-                <!--Add milestone as this is fragment block.--> 
-                
                 <p>
                     <lb n="1"/><hi rend="grantha">svas<unclear>ti</unclear> śrī</hi>
                 </p>
                 <p>
-                    <gap reason="lost" quantity="8" unit="character" precision="low"/><choice><unclear>v</unclear><unclear>p</unclear></choice>a<unclear>r</unclear>k=ku ‡ <gap reason="lost" extent="unknown" unit="character"/>
+                    <gap reason="lost" quantity="8" unit="character" precision="low"/><choice><unclear>v</unclear><unclear>p</unclear></choice>a<unclear>r</unclear>k=ku
                 </p>
-                <p>
-                    <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2" break="no"/>Il E<unclear>ḻu</unclear>vaṉ m<unclear>ai</unclear><choice><unclear>t=ta</unclear><unclear>cū</unclear></choice>ri Iṭṭa c <choice><unclear>a</unclear><unclear>e</unclear></choice>CiCi <!--update C=consonant--> <choice><unclear>j</unclear><unclear>b<!--grantha!--></unclear></choice>i kaiy k<choice><unclear>o</unclear><unclear>ō</unclear></choice>ṭṭu ‡ <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3" break="no"/>vārk=ku vai<unclear>t</unclear>ta nilam ko<unclear>ṇṭu E</unclear>ṉ <gap reason="lost" quantity="4" unit="character" precision="low"/> kku vaṭa ‡ <gap reason="lost" extent="unknown" unit="character"/>
+                <p>                    
+                    <lb n="2"/>Il E<unclear>ḻu</unclear>vaṉ m<unclear>ai</unclear><choice><unclear>t=ta</unclear><unclear>cū</unclear></choice>ri Iṭṭa c<choice><unclear>a</unclear><unclear>e</unclear></choice><gap reason="illegible" quantity="1" unit="component"/>i<gap reason="illegible" quantity="1" unit="component"/>i <!--check encoding: use <seg> in addition to <gap> or not. See EGD 5.4.5--> <choice><unclear>j</unclear><unclear>b<!--Grantha! How to mark it up? <hi> not allowed in <unclear>, nor in <choice>--></unclear></choice>ikaiy k<choice><unclear>o</unclear><unclear>ō</unclear></choice>ṭṭu
+                    <lb n="3"/>vārk=ku vai<unclear>t</unclear>ta nilam ko<unclear>ṇṭu E</unclear>ṉ <gap reason="lost" quantity="4" unit="character" precision="low"/> kku vaṭa
                     <lb n="4"/>vāy c-ce<unclear>y</unclear>
                 </p>  
                 <p>
@@ -98,12 +95,7 @@
             </div>
             
          <div type="apparatus">
-             <listApp>
-                 <app loc="1">
-                     <lem></lem>
-                     <note></note>
-                 </app>                 
-             </listApp>
+             
          </div>
             
             <div type="translation" xml:lang="eng" resp="part:emfr">
