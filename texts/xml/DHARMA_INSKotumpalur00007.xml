@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Koṭumpāḷūr, Aivarkōyil, incomplete inscription</title>
+                <title>Koṭumpāḷūr, Aivarkōyil, Fragment</title>
                 <respStmt>
                     <resp>EpiDoc encoding</resp>
                     <persName ref="part:emfr">
@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Incomplete inscription. Possibly a fragment of one of the incomplete preserved inscriptions at the site (beginning of lines 4-6 of DHARMA_INSKotumpalur00008 <!--Update cross-ref-->?).</summary>
+                        <summary>Fragment on one block, seemingly recording a gift of gold fo the upkeep of a lamp. Possibly a fragment of one of the preserved incomplete inscriptions at the site, that is, the beginning of lines 4-6 of DHARMA_INSKotumpalur00008 <!--Update cross-ref-->(?), which is on the block continuous to the right. However, it is difficult to find a continuity between the end of line 4 of DHARMA_INSKotumpalur00008<!--Update cross-ref-->, of which the following lost portion is expected to be <foreign>ā viḷakku</foreign>, while this seems not warranted at the beginning of line 2 of the present fragment. Nonetheless, it is also conceivable that DHARMA_INSKotumpalur00008 <!--Update cross-ref--> and the present inscription are two block fragments of a inscription, of hich a third fragment block is lost.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -77,30 +77,30 @@
         <body>
             <div type="edition" xml:lang="tam-Tam">
                                 
-                    <!--Add milestone as this is fragment block.--> 
-                                        
                 <p>
-                                                            
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>vata</unclear> poṉ <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>mārāṉ</unclear> pāṇṭa <gap reason="lost" quantity="2" unit="character"/> ṟi <gap reason="lost" quantity="2" unit="character"/> ḷakku Eri <gap reason="lost" quantity="2" unit="character"/>
-                
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> koṇṭōm <gap reason="lost" quantity="3" unit="character"/>
+                    <lb n="1"/>
+                    <gap reason="lost" extent="12" unit="character" precision="low"/>
+                    <unclear>vata</unclear> poṉ Ai<unclear>ṅ</unclear>
+                    <lb n="2"/>
+                    <choice><unclear>koṇṭāṭai</unclear><unclear>mārāṉ pāṇṭa</unclear></choice>
+                    <gap reason="lost" extent="2" unit="character" precision="low"/>
+                    ṟi
+                    <gap reason="lost" extent="2" unit="character" precision="low"/>
+                    ḷ<unclear>u</unclear>kku Eri<unclear>vva</unclear>
+                    <lb n="3"/>
+                    <gap reason="lost" extent="12" unit="character" precision="low"/>
+                    koṇṭōm
+                    <gap reason="lost" extent="1" unit="character" precision="low"/>
                 </p>
-                
-                
+                                
             </div>
             
          <div type="apparatus">
-             <listApp>
-                 <app loc="1">
-                     <lem></lem>
-                     <note></note>
-                 </app>                 
-             </listApp>
+            
          </div>
             
             <div type="translation" xml:lang="eng" resp="part:emfr">
-                
+                <p>Inscription to fragmentary to be translated.</p>
             </div>
             
          <div type="commentary">

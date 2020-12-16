@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Koṭumpāḷūr, Aivarkōyil, inscription of the time of <gap reason="lost"/><!--implement display??-->kesarivarman, year 13</title>
+                <title>Koṭumpāḷūr, Aivarkōyil, fragment of the time of <gap reason="lost"/><!--implement display??-->kesarivarman, year 13</title>
                 <respStmt>
                     <resp>EpiDoc encoding</resp>
                     <persName ref="part:emfr">
@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Donation of gold for the Mahādeva of the Aintaḷi at Koṭumpāḷūr for the upkeep of perpetual lamps.</summary>
+                        <summary>Fragment inscription inscribed on at least 3 blocks, the last 2 of which only remain for sure. Donation of gold for the Mahādeva of the Aintaḷi at Koṭumpāḷūr for the upkeep of perpetual lamps. DHARMA_INSKotumpalur00007 <!--Update cross-ref-->is possibly another fragment of this inscription (first block), giving the beginning of lines 4-6.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -76,37 +76,79 @@
         
         <body>
             <div type="edition" xml:lang="tam-Tam">
-                                
-                    <!--Add milestone as this is fragment block.--> 
-                                        
+                        
                 <p>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">kēcari</supplied>‡parma<choice><orig>k</orig><reg>rk</reg></choice>ku yāṇṭu  <num value="13"><g type="numeral">10</g> 3</num><unclear>Ā</unclear>vatu
+                    <lb n="1"/>
+                    <milestone unit="block" n="a"/>
+                    <!--display issue: fusion of "]" of block with "[" of following <gap>-->
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <supplied reason="lost">kēcari</supplied>
+                    <milestone unit="block" n="b" break="no"/>
+                    parma<choice><orig>k</orig><reg>rk</reg></choice>ku yāṇṭu  <num value="13"><g type="numeral">10</g> 3</num><unclear>Ā</unclear>vatu
                 </p>
                 
                 <p>
-                    I<choice><orig>v</orig><reg>vv</reg></choice>-āṇṭu <unclear>U</unclear><supplied reason="lost">ṟat</supplied>tū<supplied reason="lost">r</supplied>‡<supplied reason="lost">-k-kūṟṟattu</supplied>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">koṭumpā</supplied>‡ḷūr <choice><orig>Añ</orig><reg>Ain</reg></choice>taḷi ma<hi rend="grantha">hāde</hi>varkku Oru noṉtā‡<supplied reason="lost">viḷakku</supplied> <gap reason="lost" extent="unknown" unit="character"/>                                        
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> ‡ cilat tirumeṟṟaḷi mātaṉ ca<choice><orig>ṉ</orig><reg>n</reg></choice>ti<unclear>kku</unclear>m ti‡<supplied reason="lost">ruviḷakku</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+                    I<choice><orig>v</orig><reg>vv</reg></choice>-āṇṭu <unclear>U</unclear><supplied reason="lost">ṟat</supplied>tū<supplied reason="lost">r</supplied>
+                    <milestone unit="block" n="c" break="no"/>
+                    <supplied reason="lost">-k-kūṟṟattu</supplied>
                     
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> ‡ kaḻañcu ca<choice><orig>ṉ</orig><reg>n</reg></choice>tirāti<choice><sic>tava</sic><corr>ttavat</corr></choice> pakal no<choice><orig>ṉ</orig><reg>n</reg></choice>t‡<supplied reason="lost">ā viḷakku</supplied><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5" break="no"/><gap reason="lost" extent="unknown" unit="character"/>  ‡ t<unclear>arku</unclear> nakkaṉ <gap reason="lost" quantity="2" unit="character"/> <unclear>ce</unclear>ti <gap reason="lost" quantity="1" unit="character"/>
+                    <lb n="2"/>
+                    <milestone unit="block" n="a"/>
+                    <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">koṭumpā</supplied>
+                    <milestone unit="block" n="b" break="no"/>
+                    ḷūr <choice><orig>Añ</orig><reg>Ain</reg></choice>taḷi ma<hi rend="grantha">hāde</hi>varkku Oru noṉtā
+                    <milestone unit="block" n="c"/>
+                    <supplied reason="lost">viḷakku</supplied> <gap reason="lost" extent="unknown" unit="character"/>                                        
+                    <lb n="3"/>
+                    <milestone unit="block" n="a"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+                    <milestone unit="block" n="b"/>
+                    cilat tirumeṟṟaḷi mātaṉ ca<choice><orig>ṉ</orig><reg>n</reg></choice>ti<unclear>kku</unclear>m ti
+                    <milestone unit="block" n="c" break="no"/>
+                    <supplied reason="lost">ruviḷakku</supplied> <gap reason="lost" extent="unknown" unit="character"/>                    
+                    <lb n="4"/>
+                    <milestone unit="block" n="a"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <milestone unit="block" n="b"/>
+                    kaḻañcu ca<choice><orig>ṉ</orig><reg>n</reg></choice>tirāti<choice><sic>tava</sic><corr>ttavat</corr></choice> pakal no<choice><orig>ṉ</orig><reg>n</reg></choice>t
+                    <milestone unit="block" n="c" break="no"/>
+                    <supplied reason="lost">ā viḷakku</supplied>
+                    
+                    <lb n="5" break="no"/>
+                    <milestone unit="block" n="a"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <milestone unit="block" n="b"/>
+                    t<unclear>arku</unclear> nakkaṉ <gap reason="lost" quantity="2" unit="character"/> <unclear>ce</unclear>ti <gap reason="lost" quantity="1" unit="character"/>
                 </p>
                 <p>
                     Ik-<unclear>k</unclear>aḻañcum kai <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">A</supplied> ‡ <choice><orig>ñ</orig><reg>n</reg></choice>-taḷi <gap reason="lost" extent="unknown" unit="character"/>
+                    <milestone unit="block" n="c"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    
+                    <lb n="6"/>
+                     <milestone unit="block" n="a"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">A</supplied>
+                     <milestone unit="block" n="b" break="no"/><choice><orig>ñ</orig><reg>n</reg></choice>-taḷi <gap reason="lost" extent="unknown" unit="character"/>
                 </p>
                 <p>
-                    <supplied reason="lost">Itu</supplied> paṉmā‡<hi rend="grantha">he</hi>cuvara-<unclear>ra</unclear><hi rend="grantha"><unclear>kṣai</unclear></hi>
+                    <supplied reason="lost">Itu</supplied> paṉmā
+                     <milestone unit="block" n="c" break="no"/>
+                    <hi rend="grantha">he</hi>cuvara-<unclear>ra</unclear><hi rend="grantha"><unclear>kṣai</unclear></hi>
                 </p>
                 
             </div>
             
          <div type="apparatus">
+             
              <listApp>
                  <app loc="6">
                      <lem><supplied reason="lost">A</supplied> ‡ <choice><orig>ñ</orig><reg>n</reg></choice>-taḷi</lem>
                      <note>The restoration is made consistent with the rest of the inscription. The recontructed original has to be fully normalised to <foreign>Aintaḷi</foreign>. </note>
-                 </app>                 
+                 </app>
+                 <app loc="6">
+                     <lem><hi rend="grantha">he</hi>cuvara-<unclear>ra</unclear><hi rend="grantha"><unclear>kṣai</unclear></hi></lem>
+                     <note>These are the only letters clearly readable on the third block. One may thus wonder </note>
+                 </app>         
              </listApp>
          </div>
             
