@@ -77,8 +77,6 @@
         <body>
             <div type="edition" xml:lang="tam-Tam">
                 
-                <!--Add milestone as this is fragment block.--> 
-                
                 <p>
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </p> 
@@ -108,7 +106,7 @@
             
             <div type="translation" xml:lang="eng" resp="part:emfr"><!--UPDATE!-->
                 <p n="1">Prosperity! Fortune!</p>
-                <p n="1"><gap reason="lost"/> year of the king Rājakesarivarman</p>
+                <p n="1"><gap reason="lost"/> <supplied reason="lost">year</supplied> of the king Rājakesarivarman</p>
                 <p n="2-4">So as to burn, as long as the moon and the sun, one perpetual lamp for the Perumāṉaṭikaḷ of Koṭumpāḷūr in the Uṟattūr-k-kūṟṟām, <supplied reason="subaudible">there are</supplied> tirthy <foreign>kaḻañcu</foreign>s of gold <supplied reason="lost">that</supplied> Kōmāṉ Pūti of this temple <supplied reason="lost">gave</supplied>.</p>
                 <p>We, the chiefs of this temple <supplied reason="explanation"><foreign>pativōm</foreign></supplied>, with <supplied reason="subaudible">this gold</supplied>, as long as the moon and the sun <gap reason="illegible"/></p>
             </div>

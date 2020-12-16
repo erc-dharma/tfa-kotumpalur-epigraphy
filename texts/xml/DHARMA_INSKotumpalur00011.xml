@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Koṭumpāḷūr, Aivarkōyil, inscription of the time of unknown king, year unknown 2</title>
+                <title>Koṭumpāḷūr, Aivarkōyil, fragment, king and year unknown</title>
                 <respStmt>
                     <resp>EpiDoc encoding</resp>
                     <persName ref="part:emfr">
@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Incomplete inscription.</summary>
+                        <summary>Content unclear (incomplete inscription).</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -76,9 +76,7 @@
         
         <body>
             <div type="edition" xml:lang="tam-Tam">
-                
-                <!--Add milestone as this is fragment block.--> 
-                
+                                
                 <p>
                     <lb n="1"/>veṇṇiy<choice><unclear>u</unclear><unclear>ū</unclear></choice> <unclear>pā</unclear>ṇṭa<unclear>l</unclear> tiruma
                      <gap reason="lost" extent="unknown" unit="character"/>
@@ -116,3 +114,4 @@
       </body>
   </text>
 </TEI>
+<!--Fragment on one block.-->

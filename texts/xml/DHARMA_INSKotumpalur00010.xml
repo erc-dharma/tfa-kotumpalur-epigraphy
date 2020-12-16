@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Koṭumpāḷūr, Aivarkōyil, fragment of the time of an unknown king, year unknown</title>
+                <title>Koṭumpāḷūr, Aivarkōyil, fragment, king and year unknown</title>
                 <respStmt>
                     <resp>EpiDoc encoding</resp>
                     <persName ref="part:emfr">
@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Fragment on two consecutive blocks. Donation of gold for the upkeep of a perpetual lamp.</summary>
+                        <summary>Donation of gold for the upkeep of a perpetual lamp.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -162,3 +162,4 @@
       </body>
   </text>
 </TEI>
+<!--Fragment on two consecutive blocks.-->

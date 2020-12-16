@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Koṭumpāḷūr, Aivarkōyil, inscription of the time of Rājakesarivarman, year unknown</title>
+                <title>Koṭumpāḷūr, Aivarkōyil, fragment, time of Rājakesarivarman, year unknown</title>
                 <respStmt>
                     <resp>EpiDoc encoding</resp>
                     <persName ref="part:emfr">
@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Incomplete inscription.</summary>
+                        <summary>Content unclear (incomplete inscription).</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -82,7 +82,7 @@
                 <p>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> Irācake<unclear>ca</unclear><supplied reason="lost">ripaṉmarkku</supplied> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">koṭum</supplied><unclear>pāḷ</unclear>ūr <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>ṭum kaṇ <gap reason="lost" quantity="1" unit="character"/> <seg type="component" subtype="body"/>i <!--check encoding of lost consonant + opening parenthesis of unclear not displayed--> <unclear>paṭṭar</unclear>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>ṭum kaṇ <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="component"/>i <!--check encoding of lost consonant + opening parenthesis of unclear not displayed--> <unclear>paṭṭar</unclear>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/>ta <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/>
@@ -99,9 +99,9 @@
              </listApp>
          </div>
             
-            <div type="translation" xml:lang="eng" resp="part:emfr"><!--UPDATE!-->
-                <p n="1">year of Rājakesarivarman</p>
-                <p n="2">Koṭumpāḷūr</p>
+            <div type="translation" xml:lang="eng" resp="part:emfr">
+                <p n="1"><gap reason="lost" /> <supplied reason="lost">year</supplied> of Rājakesarivarman <gap reason="lost" /></p>
+                <p n="2"><gap reason="lost" /> Koṭumpāḷūr <gap reason="lost" /> </p>
             </div>
             
          <div type="commentary">

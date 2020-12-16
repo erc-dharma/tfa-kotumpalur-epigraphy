@@ -77,33 +77,51 @@
         <body>
             <div type="edition" xml:lang="tam-Tam">
                 
-                <!--Add milestone as this is fragment block.--> 
-                
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                    <lb n="1"/>
+                    <milestone unit="block" n="a"/>
+                    <hi rend="grantha">svasti śrī</hi>
                 </p> 
                 
                 <p>
-                    kāntaḷūr-c cālai kalam aṟuttu-k kaṅka-pāṭ<unclear>i</unclear>‡<supplied reason="lost">yum nu</supplied><unclear>ḷam</unclear>pa-pāṭiyum taṭikai-vaḻiyum koṇṭa kō-v-irā<hi rend="grantha">ja</hi>‡rā<hi rend="grantha">ja</hi>kēcari-paṉmarkku
-                    <lb n="2"/>yāṇṭu <num value="14"><g type="numeral">10</g><!--displayed as double daṇḍa!!--> <unclear>4</unclear></num>-Āvatu
+                    kāntaḷūr-c cālai kalam aṟuttu-k kaṅka-pāṭ<unclear>i</unclear>
+                    <milestone unit="block" n="b" break="no"/>
+                    <supplied reason="lost">yum nu</supplied><unclear>ḷam</unclear>pa-pāṭiyum taṭikai-vaḻiyum koṇṭa kō-v-irā<hi rend="grantha">ja</hi>
+                    <milestone unit="block" n="c" break="no"/>
+                    rā<hi rend="grantha">ja</hi>kēcari-paṉmarkku
+                    <lb n="2"/>
+                    <milestone unit="block" n="a"/>
+                    yāṇṭu <num value="14"><g type="numeral">10</g><!--displayed as double daṇḍa!!--> <unclear>4</unclear></num>-Āvatu
                 </p> 
                 
                 <p>
-                    Uṟattūr-k-kūṟṟattu-k koṭump‡<supplied reason="lost">āḷūr</supplied>-<unclear>t</unclear> tiru-v-ai<choice><orig>ṉ</orig><reg>n</reg></choice>-taḷi mahādevaṟku it-taḷi-t tēvaputtiraṉ‡māṟ kaṇṭaṉ kaṟṟaḷi O
-                    <lb n="3" break="no"/>ru no<choice><orig>ṉ</orig><reg>n</reg></choice>tā viḷakkukkku vaitta poṉ patiṉ<unclear>ā</unclear> kaḻañc<unclear>u</unclear> ‡
+                    Uṟattūr-k-kūṟṟattu-k koṭump
+                    <milestone unit="block" n="b" break="no"/>
+                    <supplied reason="lost">āḷūr</supplied>-<unclear>t</unclear> tiru-v-ai<choice><orig>ṉ</orig><reg>n</reg></choice>-taḷi mahādevaṟku it-taḷi-t tēvaputtiraṉ
+                    <milestone unit="block" n="c" break="no"/>
+                    māṟ kaṇṭaṉ kaṟṟaḷi O
+                    <lb n="3" break="no"/>
+                    <milestone unit="block" n="a" break="no"/>ru no<choice><orig>ṉ</orig><reg>n</reg></choice>tā viḷakkukkku vaitta poṉ patiṉ<unclear>ā</unclear> kaḻañc<unclear>u</unclear>
                 </p> 
                 
                 <p>
-                    <unclear>I</unclear>t-taḷi-t tiru-k-kōyil <gap reason="lost" quantity="10" unit="character" precision="low"/> <unclear>O</unclear>ṉ<unclear>pa</unclear>‡tiṉ kaḻañcu
+                    <milestone unit="block" n="b"/>
+                    <unclear>I</unclear>t-taḷi-t tiru-k-kōyil <gap reason="lost" quantity="10" unit="character" precision="low"/> <unclear>O</unclear>ṉ<unclear>pa</unclear>
+                    <milestone unit="block" n="c" break="no"/>
+                    tiṉ kaḻañcu
                 </p> 
                 
                 <p>
                     <unclear>I</unclear>t-taḷi va<unclear>ṇ</unclear>
-                    <lb n="4" break="no"/>ṇa<unclear>kka</unclear>ṉ koṇṭa po<unclear>ṉ</unclear> kaḻañcu<unclear>m Āka</unclear><supplied reason="lost">vum</supplied>
+                    <lb n="4" break="no"/>
+                    <milestone unit="block" n="a" break="no"/>
+                    ṇa<unclear>kka</unclear>ṉ koṇṭa po<unclear>ṉ</unclear> kaḻañcu<unclear>m Āka</unclear><supplied reason="lost">vum</supplied>
                 </p> 
                 
                 <p>                   
-                    Itu paṉ<hi rend="grantha">mā‡heśvara</hi>r I<hi rend="grantha">rakṣai</hi>
+                    Itu paṉ<hi rend="grantha">mā</hi>
+                    <milestone unit="block" n="b" break="no"/>
+                    <hi rend="grantha">heśvara</hi>r I<hi rend="grantha">rakṣai</hi>
                 </p>    
                 
             </div>
@@ -122,16 +140,16 @@
                     Prosperity! Fortune!
                 </p>
                 <p n="1-2">
-                    14th year of the king Rājakesarivarman, who, after having distributed pots in the <foreign>cālai</foreign> of Kantaḷūr, took the country of the Gaṅga, the country of the Nuḷampa (that is "Noḷamba") and the Taṭikaivaḻi.
+                    14th year of the king Rājakesarivarman, who, after having distributed pots in the <foreign>cālai</foreign> of Kantaḷūr, took the country of the Gaṅga, the country of the Nuḷampa<note>That is, Noḷamba.</note> and the Taṭikaivaḻi.
                 </p>
                 <p n="2-3">
                     <supplied reason="subaudible">There are</supplied> ten <foreign>kaḻañcu</foreign>s of gold that Kantaṉ Kaṟṟaḷi, <supplied reason="subaudible">one among</supplied> the <foreign>tēvaputtira</foreign>s of this temple, gave for one perpetual lamp for the Mahādeva of the glorious Aintaḷi of Kotumpāḷūr in the Uṟattūr-k-kūṟṟam.
                 </p>
                 <p n="3">
-                    <supplied reason="subaudible">There are also</supplied> nine <foreign>kaḻañcu</foreign>s of gold that <gap reason="lost"/> <supplied reason="lost">gave for</supplied> <gap reason="lost"/> <supplied reason="subaudible">of</supplied> the glorious temple (alternatively, "shrine") <supplied reason="explanation"><foreign>kōyil</foreign></supplied> <supplied reason="subaudible">of</supplied> this temple <supplied reason="explanation"><foreign>it-taḷi</foreign></supplied>.
+                    <supplied reason="subaudible">There are also</supplied> nine <foreign>kaḻañcu</foreign>s of gold that <gap reason="lost"/> <supplied reason="lost">gave for</supplied> <gap reason="lost"/> <supplied reason="subaudible">of</supplied> the glorious temple<note>Alternatively: "shrine".</note> <supplied reason="explanation"><foreign>kōyil</foreign></supplied> <supplied reason="subaudible">of</supplied> this temple <supplied reason="explanation"><foreign>it-taḷi</foreign></supplied>.
                 </p>
                 <p n="3-4">
-                    Let <supplied reason="subaudible">these</supplied> be <foreign>kaḻañcu</foreign>s of gold that the coin-tester of this temple takes (that is, "manages"). 
+                    Let <supplied reason="subaudible">these</supplied> be <foreign>kaḻañcu</foreign>s of gold that the coin-tester of this temple takes<note>That is, "manages".</note>. 
                 </p>
                 <p n="4">
                     This <supplied reason="subaudible">donation is under</supplied> the protection of the Paṉ<hi rend="grantha">māheśva</hi>rars.
@@ -140,7 +158,7 @@
             
          <div type="commentary">
           <p n="3">
-              <foreign><unclear>I</unclear>t-taḷi-t tiru-k-kōyil</foreign>. Note the use of the synonyms taḷi and kōyil, the first to designate the entire complex made of five temples and the secon to designate one of these five temples.
+              <foreign><unclear>I</unclear>t-taḷi-t tiru-k-kōyil</foreign>. Note the use of the synonyms <foreign>taḷi</foreign> and <foreign>kōyil</foreign>, the first to designate the entire complex made of five temples and the second to designate one of these five temples.
           </p>
          </div>
             

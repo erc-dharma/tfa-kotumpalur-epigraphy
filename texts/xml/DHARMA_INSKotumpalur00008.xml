@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Koṭumpāḷūr, Aivarkōyil, fragment of the time of <gap reason="lost"/><!--implement display??-->kesarivarman, year 13</title>
+                <title>Koṭumpāḷūr, Aivarkōyil, fragment, time of <gap reason="lost"/><!--implement display??-->kesarivarman, year 13</title>
                 <respStmt>
                     <resp>EpiDoc encoding</resp>
                     <persName ref="part:emfr">
@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Fragment inscription inscribed on at least 3 blocks, the last 2 of which only remain for sure. Donation of gold for the Mahādeva of the Aintaḷi at Koṭumpāḷūr for the upkeep of perpetual lamps. DHARMA_INSKotumpalur00007 <!--Update cross-ref-->is possibly another fragment of this inscription (first block), giving the beginning of lines 4-6.</summary>
+                        <summary>Donation of gold for the Mahādeva of the Aintaḷi at Koṭumpāḷūr for the upkeep of perpetual lamps.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -170,7 +170,7 @@
             </div>
             
          <div type="commentary">
-          
+          <p>DHARMA_INSKotumpalur00007<!--Update cross-ref-->, another fragment on the site, possibly gives the beginning of lines 4-6.</p>
          </div>
             
           <div type="bibliography">	
@@ -187,5 +187,6 @@
 </TEI>
 
 <!--
+    Fragment inscription inscribed on at least 3 blocks, the last 2 of which only remain for sure. 
     The beginning of lines 4-6 between the first two milestones, might in fact be part of another inscription.
 -->

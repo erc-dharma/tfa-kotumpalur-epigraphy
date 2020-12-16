@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Koṭumpāḷūr, Aivarkōyil, entirely illegible inscription</title>
+                <title>Koṭumpāḷūr, Aivarkōyil, illegible fragment</title>
                 <respStmt>
                     <resp>EpiDoc encoding</resp>
                     <persName ref="part:emfr">
@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Entirely illegible inscription. Possibly fragment of another one.</summary>
+                        <summary>Entirely illegible fragment. Possibly part of another fragmentary inscription of the site.</summary><!--remove this info elsewhere?-->
                     </msContents>
                     <physDesc>
                         <handDesc>

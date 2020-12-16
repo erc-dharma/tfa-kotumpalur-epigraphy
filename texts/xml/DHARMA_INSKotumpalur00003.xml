@@ -5,7 +5,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Koṭumpāḷūr, Aivarkōyil, fragment of the time of Parakesarivarman, year
+				<title>Koṭumpāḷūr, Aivarkōyil, fragment, time of Parakesarivarman, year
 					10</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
@@ -45,7 +45,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Fragment recording the gift of one
+						<summary>Gift of one
 								<foreign>kaḻañcu</foreign> of gold.</summary>
 					</msContents>
 					<physDesc>
@@ -90,30 +90,40 @@
             	
             	<!--Milestone display not satisfactory! Desimplement ‡ followed with space?  NB: fragment block with lacuna of unknown blocks, treated not as a massive lacuna so as to retain the <p> segmentation-->
             	
-                <p>
-                    <lb n="1"/><milestone unit="block" n="a"/><hi rend="grantha">s<unclear reason="eccentric_ductus">va</unclear>sti śrī</hi>
-                </p> 
-                <p>
-                    kō-p-parakēcari-paṉma<choice><orig>ṟ</orig><reg>r</reg></choice>kku yāṇṭu <num value="10"><g type="numeral">10</g></num> <!--display issue: displayed as double daṇḍa!!--> Ēḻ-āvatu
-                </p>
-                
-                <p>
-                    Iv-vāṇṭu Uṟattū<milestone unit="block" n="b" break="no"/><supplied reason="lost">r-k-kūṟṟattu</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><milestone unit="block" n="a"/>cattaṇattukk<unclear>u</unclear> vai<choice><orig>cc</orig><reg>tt</reg></choice>a poṉ kaḻañcu 
-                </p>
-                <p>
-                    Ip-poṉ cantirāti<choice><orig>cc</orig><reg>tt</reg></choice>ava<milestone unit="block" n="b" break="no"/><supplied reason="lost">t</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-                </p>
+            	<p>
+            		<lb n="1"/>
+            		<milestone unit="block" n="a"/>
+            		<hi rend="grantha">s<unclear reason="eccentric_ductus">va</unclear>sti śrī</hi>
+            	</p> 
+            	<p>
+            		kō-p-parakēcari-paṉma<choice><orig>ṟ</orig><reg>r</reg></choice>kku yāṇṭu <num value="10"><g type="numeral">10</g></num> <!--display issue: displayed as double daṇḍa!!--> Ēḻ-āvatu
+            	</p>
+            	
+            	<p>
+            		Iv-vāṇṭu Uṟattū
+            		<milestone unit="block" n="b" break="no"/>
+            		<supplied reason="lost">r-k-kūṟṟattu</supplied>
+            		<gap reason="lost" extent="unknown" unit="character"/>
+            		<lb n="2"/>
+            		<milestone unit="block" n="a"/>
+            		cattaṇattukk<unclear>u</unclear> vai<choice><orig>cc</orig><reg>tt</reg></choice>a poṉ kaḻañcu 
+            	</p>
+            	<p>
+            		Ip-poṉ cantirāti<choice><orig>cc</orig><reg>tt</reg></choice>ava
+            		<milestone unit="block" n="b" break="no"/>
+            		<supplied reason="lost">t</supplied>
+            		<gap reason="lost" extent="unknown" unit="character"/>
+            	</p>
             </div>
-            
-         <div type="apparatus">
-             
-         	<listApp>
-         		
-         		<app loc="1">
-         			<lem><hi rend="grantha">s<unclear reason="eccentric_ductus">va</unclear>sti</hi></lem>
-         			<note>The letter <foreign>va</foreign> looks like <foreign>pa</foreign>.</note>                     
-         		</app>
+        	
+        	<div type="apparatus">
+        		
+        		<listApp>
+        			
+        			<app loc="1">
+        				<lem><hi rend="grantha">s<unclear reason="eccentric_ductus">va</unclear>sti</hi></lem>
+        				<note>The letter <foreign>va</foreign> looks like <foreign>pa</foreign>.</note>                     
+        			</app>
          		         		
          	</listApp>
          </div>
@@ -126,7 +136,7 @@
             </div>
             
          <div type="commentary">
-            <p n="2"><foreign>cattaṇattukk<unclear>u</unclear></foreign>. The meaning of this word is unclear. It appears to be a dative and to designate the beneficiary of the gift.</p>
+            <p n="2"><foreign>cattaṇattukk<unclear>u</unclear></foreign>. The meaning of this word is unclear. It appears to be a dative designating the beneficiary of the gift.</p>
          </div>
           <div type="bibliography">	
               <p>Unreported so far. First edited and translated here by Emmanuel Francis (2020).</p>
@@ -142,4 +152,3 @@
 </TEI>
 
 <!--Mukhamaṇḍapa, north, base, upper part (above inscription DHARMA_INSKotumpalur00003). One slab. Incomplete.-->
-
