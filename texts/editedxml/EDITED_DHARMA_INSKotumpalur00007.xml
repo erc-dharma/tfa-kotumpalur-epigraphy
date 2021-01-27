@@ -89,18 +89,18 @@
                                 
                 <p>
                     <lb n="1"/>
-                    <gap reason="lost" extent="12" unit="character" precision="low"/>
+                    <gap reason="lost" quantity="12" unit="character" precision="low"/>
                     <unclear>vata</unclear> poṉ Ai<unclear>ṅ</unclear>
                     <lb n="2"/>
                     <choice><unclear>koṇṭāṭai</unclear><unclear>mārāṉ pāṇṭa</unclear></choice>
-                    <gap reason="lost" extent="2" unit="character" precision="low"/>
+                    <gap reason="lost" quantity="2" unit="character" precision="low"/>
                     ṟi
-                    <gap reason="lost" extent="2" unit="character" precision="low"/>
+                    <gap reason="lost" quantity="2" unit="character" precision="low"/>
                     ḷ<unclear>u</unclear>kku Eri<choice><unclear>vva</unclear><unclear>ppa</unclear></choice>
                     <lb n="3"/>
-                    <gap reason="lost" extent="12" unit="character" precision="low"/>
+                    <gap reason="lost" quantity="12" unit="character" precision="low"/>
                     koṇṭōm
-                    <gap reason="lost" extent="1" unit="character" precision="low"/>
+                    <gap reason="lost" quantity="1" unit="character" precision="low"/>
                 </p>
                                 
             </div>
@@ -124,7 +124,7 @@
               
          </div>
             
-            <div type="translation" xml:lang="eng" resp="part:emfr">
+            <div type="translation" resp="part:emfr">
                 <p n="1">
                     <gap reason="lost"/> gold <gap reason="lost"/></p>
                 <p n="2">
