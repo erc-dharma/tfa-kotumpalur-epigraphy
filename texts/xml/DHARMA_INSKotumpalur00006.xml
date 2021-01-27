@@ -134,7 +134,7 @@
              
          </div>
             
-            <div type="translation" xml:lang="eng" resp="part:emfr">
+            <div type="translation" resp="part:emfr">
                 <!--what about a word supplied in translation not because lost but because illegible? <supplied> does not accept reason = "illegible"-->
                 <p n="1">
                     <gap reason="illegible"/> kecari<supplied reason="lost">varman</supplied> <gap reason="illegible"/>
