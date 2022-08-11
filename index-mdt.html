@@ -199,7 +199,8 @@
         let htmlString = '';
         for (let file of data.filter(filterFiles(filter)).sort(sortFiles(filter))) {
           const fileName = file.path.replace('.md', '');
-          const fileDisplayName = fileName.split('-').join(' ').replace('metadata/', '').replace('.html', '');
+          let re = /\_[a-z0-9]+\.html/
+          var fileDisplayName = fileName.replace('metadata/DHARMA_mdt_', 'Metadata ').replace(re, '').replace('.html', '');
           htmlString += `<li class="list-group-item"><a href="${fileName}">${fileDisplayName}</a></li>`;
         }
         document.getElementById('list').innerHTML = htmlString;
