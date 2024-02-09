@@ -92,7 +92,7 @@
    <text xml:space="preserve">
         
         <body>
-            <div type="edition" xml:lang="tam-Tam">
+            <div type="edition" xml:lang="tam-Latn">
             	
             	<!--Milestone display not satisfactory! Desimplement ‡ followed with space?  NB: fragment block with lacuna of unknown blocks, treated not as a massive lacuna so as to retain the <p> segmentation-->
             	

@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Koṭumpāḷūr, Mūvarkōyil, inscription of the time of Rājendracōḻa 1, year unknown</title>
+            <title>Koṭumpāḷūr, Mūvarkōyil, time of Rājendracōḻa 1, year unknown</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -85,17 +85,18 @@
    <text xml:space="preserve">
         
       <body>
-         <div type="edition" xml:lang="tam-Tam">
+         <div type="edition" xml:lang="tam-Latn">
          </div>
           
-         <div type="apparatus">
+         <!--<div type="apparatus">
              <listApp>
                  <app loc="1">
                      <lem/>
                      <rdg source="bib:AuthorYear_01"/>
                   </app>
                </listApp>
-         </div>
+         </div>-->
+         
          <div type="translation" resp="part:emfr">
  	
          </div>
