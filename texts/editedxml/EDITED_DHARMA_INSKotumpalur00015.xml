@@ -85,7 +85,7 @@
    <text xml:space="preserve">
         
         <body>
-            <div type="edition" xml:lang="tam-Tam">
+            <div type="edition" xml:lang="tam-Latn">
                 
                 <p>
                     <lb n="1"/>
@@ -101,7 +101,7 @@
                     rā<hi rend="grantha">ja</hi>kēcari-paṉmarkku
                     <lb n="2"/>
                     <milestone unit="block" n="a"/>
-                    yāṇṭu <num value="14"><g type="numeral">10</g><!--displayed as double daṇḍa!!--> <unclear>4</unclear></num>-Āvatu
+                    yāṇṭu <num value="14">10<!--displayed as double daṇḍa!!--> <unclear>4</unclear></num>-Āvatu
                 </p> 
                 
                 <p>

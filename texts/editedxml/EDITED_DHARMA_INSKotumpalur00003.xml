@@ -92,7 +92,7 @@
    <text xml:space="preserve">
         
         <body>
-            <div type="edition" xml:lang="tam-Tam">
+            <div type="edition" xml:lang="tam-Latn">
             	
             	<!--Milestone display not satisfactory! Desimplement ‡ followed with space?  NB: fragment block with lacuna of unknown blocks, treated not as a massive lacuna so as to retain the <p> segmentation-->
             	
@@ -102,7 +102,7 @@
             		<hi rend="grantha">s<unclear reason="eccentric_ductus">va</unclear>sti śrī</hi>
             	</p> 
             	<p>
-            		kō-p-parakēcari-paṉma<choice><orig>ṟ</orig><reg>r</reg></choice>kku yāṇṭu <num value="10"><g type="numeral">10</g></num> <!--display issue: displayed as double daṇḍa!!--> Ēḻ-āvatu
+            		kō-p-parakēcari-paṉma<choice><orig>ṟ</orig><reg>r</reg></choice>kku yāṇṭu <num value="10">10</num> <!--display issue: displayed as double daṇḍa!!--> Ēḻ-āvatu
             	</p>
             	
             	<p>

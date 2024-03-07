@@ -85,7 +85,7 @@
    <text xml:space="preserve">
         
         <body>
-            <div type="edition" xml:lang="tam-Tam">
+            <div type="edition" xml:lang="tam-Latn">
                                 
                 <p>
                     <lb n="1"/>
@@ -110,7 +110,7 @@
              <listApp>
                  <app loc="1">
                      <lem>Ai<unclear>ṅ</unclear></lem>
-                     <note><foreign>Ai<unclear>ṅ</unclear></foreign> makes sense with <foreign>kaḻañcu</foreign> (beginning of line 4 of DHARMA_INSKotumpalur00008<!--Update cross-ref-->): <foreign>aiṅ-kaḻañcu</foreign>, “five <foreign>kaḻañcu</foreign>s”.</note>
+                     <note><foreign>Ai<unclear>ṅ</unclear></foreign> makes sense with <foreign>kaḻañcu</foreign> (beginning of line 4 of DHARMA_INSKotumpalur00008<!--Update cross-ref-->): <foreign>aiṅ-kaḻañcu</foreign>, "five <foreign>kaḻañcu</foreign>s".</note>
                   </app>
                  <app loc="2">
                      <lem><choice><unclear>koṇṭāṭai</unclear><unclear>mārāṉ pāṇṭa</unclear></choice></lem>
@@ -118,7 +118,7 @@
                   </app>
                  <app loc="2">
                      <lem>Eri<choice><unclear>vva</unclear><unclear>ppa</unclear></choice></lem>
-                     <note><foreign>Erippa</foreign> makes sense with <foreign>tāka</foreign> (beginning of line 5 of <ref target="DHARMA_INSKotumpalur00008.xml">Kotumpalur 8</ref>): <foreign>erippatāka</foreign>, “so as to burn” (a lamp).</note>
+                     <note><foreign>Erippa</foreign> makes sense with <foreign>tāka</foreign> (beginning of line 5 of <ref target="DHARMA_INSKotumpalur00008.xml">Kotumpalur 8</ref>): <foreign>erippatāka</foreign>, "so as to burn" (a lamp).</note>
                   </app>
                </listApp>
               

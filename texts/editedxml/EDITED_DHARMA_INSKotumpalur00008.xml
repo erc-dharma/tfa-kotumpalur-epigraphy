@@ -86,7 +86,7 @@
    <text xml:space="preserve">
         
         <body>
-            <div type="edition" xml:lang="tam-Tam">
+            <div type="edition" xml:lang="tam-Latn">
                         
                 <p>
                     <lb n="1"/>
@@ -95,7 +95,7 @@
                     <gap reason="lost" extent="unknown" unit="character"/>
                     <supplied reason="lost">kēcari</supplied>
                     <milestone unit="block" n="b" break="no"/>
-                    parma<choice><orig>k</orig><reg>rk</reg></choice>ku yāṇṭu  <num value="13"><g type="numeral">10</g> 3</num><unclear>Ā</unclear>vatu
+                    parma<choice><orig>k</orig><reg>rk</reg></choice>ku yāṇṭu  <num value="13">10 3</num><unclear>Ā</unclear>vatu
                 </p>
                 
                 <p>
@@ -154,7 +154,7 @@
              <listApp>
                  <app loc="6">
                      <lem><supplied reason="lost">A</supplied> ‡ <choice><orig>ñ</orig><reg>n</reg></choice>-taḷi</lem>
-                     <note>The restoration is made consistent with the rest of the inscription. The recontructed original has to be fully normalised to <foreign>Aintaḷi</foreign>. </note>
+                     <note>The restoration is made consistent with the rest of the inscription. The recontructed original has to be fully normalised to <foreign>Aintaḷi</foreign>. </note>
                  </app>
                  <app loc="6">
                      <lem><hi rend="grantha">he</hi>cuvara-<unclear>ra</unclear><hi rend="grantha"><unclear>kṣai</unclear></hi></lem>
