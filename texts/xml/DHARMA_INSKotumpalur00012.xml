@@ -86,7 +86,7 @@
    <text xml:space="preserve">
         
         <body>
-            <div type="edition" xml:lang="tam-Latn">
+            <div type="edition" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
                 
                 <!--Add milestone as this is fragment block.--> 
                 
@@ -98,14 +98,14 @@
                
             </div>
             
-         <div type="apparatus">
+        <!-- <div type="apparatus">
              <listApp>
                  <app loc="1">
                      <lem/>
                      <note/>
                  </app>                 
              </listApp>
-         </div>
+         </div>-->
             
             <div type="translation" resp="part:emfr">
                 

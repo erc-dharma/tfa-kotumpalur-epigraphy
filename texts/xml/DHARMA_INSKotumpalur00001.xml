@@ -88,14 +88,14 @@
          <div type="edition" xml:lang="san-Latn">
          </div>
           
-         <div type="apparatus">
+         <!--<div type="apparatus">
              <listApp>
                  <app loc="1">
                      <lem/>
-                     <rdg source="bib:AuthorYear_01"/>
+                     <rdg source="bib:..."/>
                   </app>
                </listApp>
-         </div>
+         </div>-->
          <div type="translation" resp="part:emfr">
  	
          </div>

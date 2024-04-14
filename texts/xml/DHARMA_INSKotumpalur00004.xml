@@ -85,12 +85,12 @@
    <text xml:space="preserve">
         
         <body>
-            <div type="edition" xml:lang="tam-Latn">
+            <div type="edition" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
             	
-                <p>
+                <ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
                     <lb n="1"/><milestone unit="block" n="a"/>
                     <hi rend="grantha">s<unclear reason="eccentric_ductus">va</unclear><supplied reason="omitted">sti</supplied> śrī</hi>
-                </p> 
+                </ab> 
                 
                 <p>
                     kō-v-irācak<choice><sic>o</sic><corr>ē</corr></choice>cari-paruma<choice><orig>k=ku</orig><reg>rk=ku</reg></choice> yāṇṭu pati<choice><orig>n</orig><reg>ṉ</reg></choice><choice><sic>a</sic><corr>ai</corr></choice>ñc-āvatu

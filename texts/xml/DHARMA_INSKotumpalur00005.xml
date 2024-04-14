@@ -85,13 +85,13 @@
    <text xml:space="preserve">
         
         <body>
-            <div type="edition" xml:lang="tam-Latn">
+            <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
                 
-                <p>
+                <ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
                     <lb n="1"/>
                     <milestone unit="block" n="a"/>
                     <hi rend="grantha">svasti śrī</hi>
-                </p> 
+                </ab> 
                 
                 <p>
                     kō-p-parakēcari-paṉ<unclear>·</unclear>ma<unclear>r</unclear>kku yāṇṭu Āṟāvatu
@@ -120,7 +120,7 @@
                     Itu paṉmā<hi rend="grantha">he</hi>
                     <lb n="4" break="no"/>
                     <milestone unit="block" n="a" break="no"/>
-                    <hi rend="grantha">śva</hi>ra ra<hi rend="grantha">kṣai</hi>
+                    <hi rend="grantha">śva</hi>ra-ra<hi rend="grantha">kṣai</hi>
                 </p>
             </div>
             
@@ -130,8 +130,7 @@
                  <app loc="1">
                      <lem>Āṟāvatu</lem>
                      <rdg source="bib:Swaminathan2012_01">Āṟā(ā)vatu</rdg>
-                     <note>What is meant by
-                         <bibl n="SII"><ptr target="bib:Swaminathan2012_01"/></bibl>
+                     <note>What is meant by <bibl n="SII"><ptr target="bib:Swaminathan2012_01"/></bibl>
                          by this reading is unclear.</note>
                  </app>  
                  
