@@ -48,8 +48,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Gift of one
-								<foreign>kaḻañcu</foreign> of gold.</summary>
+                  <summary>Gift of one <foreign>kaḻañcu</foreign> of gold.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -92,15 +91,15 @@
    <text xml:space="preserve">
         
         <body>
-            <div type="edition" xml:lang="tam-Latn">
+            <div type="edition" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
             	
             	<!--Milestone display not satisfactory! Desimplement ‡ followed with space?  NB: fragment block with lacuna of unknown blocks, treated not as a massive lacuna so as to retain the <p> segmentation-->
             	
-            	<p>
+            	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
             		<lb n="1"/>
             		<milestone unit="block" n="a"/>
             		<hi rend="grantha">s<unclear reason="eccentric_ductus">va</unclear>sti śrī</hi>
-            	</p> 
+            	</ab> 
             	<p>
             		kō-p-parakēcari-paṉma<choice><orig>ṟ</orig><reg>r</reg></choice>kku yāṇṭu <num value="10">10</num> <!--display issue: displayed as double daṇḍa!!--> Ēḻ-āvatu
             	</p>

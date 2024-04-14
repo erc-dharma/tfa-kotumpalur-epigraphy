@@ -85,14 +85,14 @@
    <text xml:space="preserve">
         
         <body>
-            <div type="edition" xml:lang="tam-Latn">
+            <div type="edition" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
                 
                 <!--Add milestone as this is fragment block.--> 
                 
                 <p>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> Irācake<unclear>ca</unclear><supplied reason="lost">ripaṉmarkku</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> Irāca-kē<unclear>ca</unclear><supplied reason="lost">ri-paṉmarkku</supplied> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">koṭum</supplied><unclear>pāḷ</unclear>ūr <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>ṭum kaṇ <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="component"/>i <!--check encoding of lost consonant + opening parenthesis of unclear not displayed--> <unclear>paṭṭar</unclear>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> ṭum kaṇ <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="component"/>i <!--check encoding of lost consonant + opening parenthesis of unclear not displayed--> <unclear>paṭṭar</unclear>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/>ta <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/>

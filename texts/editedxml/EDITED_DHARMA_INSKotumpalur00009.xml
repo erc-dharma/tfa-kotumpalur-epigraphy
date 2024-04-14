@@ -86,11 +86,11 @@
    <text xml:space="preserve">
         
         <body>
-            <div type="edition" xml:lang="tam-Latn">
+            <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
                 
-                <p>
+                <ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
                     <lb n="1"/><hi rend="grantha">svas<unclear>ti</unclear> śrī</hi>
-                </p>
+                </ab>
                 <p>
                     <gap reason="lost" quantity="8" unit="character" precision="low"/><choice><unclear>v</unclear><unclear>p</unclear></choice>a<unclear>r</unclear>k=ku
                 </p>
@@ -100,7 +100,7 @@
                     <lb n="4"/>vāy c-ce<unclear>y</unclear>
                 </p>  
                 <p>
-                    Itu paṉmā<hi rend="grantha">heśvara</hi> <supplied reason="lost"><hi rend="grantha">rakṣai</hi></supplied>                    
+                    Itu paṉmā<hi rend="grantha">heśvara</hi>-<supplied reason="lost"><hi rend="grantha">rakṣai</hi></supplied>                    
                 </p>
                 
             </div>
