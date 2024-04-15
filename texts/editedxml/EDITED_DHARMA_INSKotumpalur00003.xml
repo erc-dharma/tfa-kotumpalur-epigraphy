@@ -95,7 +95,7 @@
             	
             	<!--Milestone display not satisfactory! Desimplement ‡ followed with space?  NB: fragment block with lacuna of unknown blocks, treated not as a massive lacuna so as to retain the <p> segmentation-->
             	
-            	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+            	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
             		<lb n="1"/>
             		<milestone unit="block" n="a"/>
             		<hi rend="grantha">s<unclear reason="eccentric_ductus">va</unclear>sti śrī</hi>
