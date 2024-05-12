@@ -8,8 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Koṭumpāḷūr, Aivarkōyil, fragment, time of Parakesarivarman, year
-					10</title>
+            <title>Koṭumpāḷūr, Aivarkōyil, fragment, time of Parakesarivarman, year 10</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -140,18 +139,22 @@
                 <p n="2">This gold, as long as the moon and the sun, <gap reason="lost"/></p>
             </div>
             
-         <div type="commentary">
+<div type="commentary">
             <p n="2"><foreign>cattaṇattukk<unclear>u</unclear></foreign>. The meaning of this word is unclear. It appears to be a dative designating the beneficiary of the gift.</p>
-         </div>
-          <div type="bibliography">	
-              <p>Unreported so far. First edited and translated here by Emmanuel Francis (2020).</p>
-              <listBibl type="primary">
-                  <bibl n="siglum"/>
-              </listBibl>
-              <listBibl type="secondary">
-                  <bibl/>
-              </listBibl>
-        </div>
+</div>
+           
+<div type="bibliography">	
+              
+   <p>Not reported so far, it seems.</p>
+   <p>This edition by Emmanuel Francis (2020), based on autopsy and photographs (Emmanuel Francis).</p>
+   
+   <listBibl type="primary">
+      <bibl n="siglum"/>
+   </listBibl>
+   <listBibl type="secondary">
+      <bibl/>
+   </listBibl>
+</div>
       </body>
   </text>
 </TEI>
