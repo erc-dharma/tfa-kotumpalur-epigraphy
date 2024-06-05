@@ -90,17 +90,15 @@
    <text xml:space="preserve">
         
         <body>
-            <div type="edition" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
             	
-            	<!--Milestone display not satisfactory! Desimplement ‡ followed with space?  NB: fragment block with lacuna of unknown blocks, treated not as a massive lacuna so as to retain the <p> segmentation-->
-            	
-            	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+            	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
             		<lb n="1"/>
             		<milestone unit="block" n="a"/>
             		<hi rend="grantha">s<unclear reason="eccentric_ductus">va</unclear>sti śrī</hi>
             	</ab> 
             	<p>
-            		kō-p-parakēcari-paṉma<choice><orig>ṟ</orig><reg>r</reg></choice>kku yāṇṭu <num value="10">10</num> <!--display issue: displayed as double daṇḍa!!--> Ēḻ-āvatu
+            		kō-p-parakēcari-paṉma<choice><orig>ṟ</orig><reg>r</reg></choice>kku yāṇṭu <num value="10"><g type="numeral">10</g></num> Ēḻ-āvatu
             	</p>
             	
             	<p>
