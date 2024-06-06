@@ -8,8 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Koṭumpāḷūr, Aivarkōyil, inscription of the time of <gap reason="illegible"/>
-               <!--implement display??-->kesarivarman, year unknown</title>
+            <title>Koṭumpāḷūr, Aivarkōyil, inscription of the time of <gap reason="illegible"/>kesarivarman, year unknown</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -130,9 +129,9 @@
                 </p> 
             </div>
             
-         <div type="apparatus">
+<!--<div type="apparatus">
              
-         </div>
+</div>-->
             
             <div type="translation" resp="part:emfr">
                 <!--what about a word supplied in translation not because lost but because illegible? <supplied> does not accept reason = "illegible"-->
@@ -156,19 +155,19 @@
                 </p>
             </div>
             
-         <div type="commentary">
-           <p n="1">This line must have contained the name and regnal year of the ruling king (Rājakesarivarman or Parakesarivarman).</p>
-         </div>
+<div type="commentary">
+    <p n="1">This line must have contained the name and regnal year of the ruling king (Rājakesarivarman or Parakesarivarman).</p>
+</div>
             
-          <div type="bibliography">	
-              <p>First edited and translated here by Emmanuel Francis (2020).</p>
-              <listBibl type="primary">
-                  <bibl n="siglum"/>
-              </listBibl>
-              <listBibl type="secondary">
-                  <bibl/>
-              </listBibl>
-        </div>
+<div type="bibliography">	
+    <p>First reported, edited and translated here by Emmanuel Francis (2020).</p>
+    <!--<listBibl type="primary">
+        <bibl n="siglum"/>
+    </listBibl>
+    <listBibl type="secondary">
+        <bibl/>
+    </listBibl>-->
+</div>
       </body>
   </text>
 </TEI>

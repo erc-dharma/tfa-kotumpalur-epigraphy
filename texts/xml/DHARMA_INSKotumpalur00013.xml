@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Koṭumpāḷūr, Aivarkōyil, fragment, time of Rājakesarivarman, year unknown</title>
+            <title>Koṭumpāḷūr, Aivarkōyil, fragment, time of Rājakesarivarman, year lost</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -100,33 +100,33 @@
                
             </div>
             
-         <div type="apparatus">
+<!--<div type="apparatus">
              <listApp>
                  <app loc="1">
                      <lem/>
                      <note/>
                  </app>                 
              </listApp>
-         </div>
+</div>-->
             
-            <div type="translation" resp="part:emfr">
-                <p n="1"><gap reason="lost"/> <supplied reason="lost">year</supplied> of Rājakesarivarman <gap reason="lost"/></p>
-                <p n="2"><gap reason="lost"/> Koṭumpāḷūr <gap reason="lost"/> </p>
-            </div>
+<div type="translation" resp="part:emfr">
+    <p n="1"><gap reason="lost"/> <supplied reason="lost">year</supplied> of Rājakesarivarman <gap reason="lost"/></p>
+    <p n="2"><gap reason="lost"/> Koṭumpāḷūr <gap reason="lost"/> </p>
+</div>
             
-         <div type="commentary">
+<!--<div type="commentary">
           
-         </div>
+</div>-->
             
-          <div type="bibliography">	
-              <p>First edited here by Emmanuel Francis (2020).</p>
-              <listBibl type="primary">
-                  <bibl n="siglum"/>
-              </listBibl>
-              <listBibl type="secondary">
-                  <bibl/>
-              </listBibl>
-        </div>
+<div type="bibliography">	
+    <p>First reported, edited and translated here by Emmanuel Francis (2020).</p>
+    <!--<listBibl type="primary">
+        <bibl n="siglum"/>
+    </listBibl>
+    <listBibl type="secondary">
+        <bibl/>
+    </listBibl>-->
+</div>
       </body>
   </text>
 </TEI>

@@ -133,19 +133,19 @@
                     <gap reason="lost"/> we have taken <gap reason="lost"/></p>
             </div>
             
-         <div type="commentary">
-          <p>Possibly a fragment to be read with another preserved fragment at the site. It could give the beginning of lines 4-6 of <ref target="DHARMA_INSKotumpalur00008.xml">Kotumpalur 8</ref> <!--Update cross-ref-->(?), which is on the block continuous to the right, although a continuous reading is not warranted, which, however, could be explained if <ref target="DHARMA_INSKotumpalur00008.xml">Kotumpalur 8</ref> <!--Update cross-ref--> and the present inscription are two block fragments of an inscription, of which a third fragment block is lost.</p>
-         </div>
+<div type="commentary">
+     <p>Possibly a fragment to be read with another preserved fragment at the site. It could give the beginning of lines 4-6 of <ref target="DHARMA_INSKotumpalur00008.xml">Kotumpalur 8</ref>, which is on the block continuous to the right, although a continuous reading is not warranted, which, however, could be explained if <ref target="DHARMA_INSKotumpalur00008.xml">Kotumpalur 8</ref> and the present inscription are two block fragments of an inscription, of which a third fragment block is lost.</p>
+</div>
             
-          <div type="bibliography">	
-              <p>Unreported. First edited here by Emmanuel Francis (2020).</p>
-              <listBibl type="primary">
-                  <bibl n="siglum"/>
-              </listBibl>
-              <listBibl type="secondary">
-                  <bibl/>
-              </listBibl>
-        </div>
+<div type="bibliography">	
+    <p>First reported, edited and translated here by Emmanuel Francis (2020).</p>
+    <!--<listBibl type="primary">
+        <bibl n="siglum"/>
+    </listBibl>
+    <listBibl type="secondary">
+        <bibl/>
+    </listBibl>-->
+</div>
       </body>
   </text>
 </TEI>

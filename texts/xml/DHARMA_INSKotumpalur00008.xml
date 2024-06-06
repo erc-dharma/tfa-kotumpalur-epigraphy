@@ -8,8 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Koṭumpāḷūr, Aivarkōyil, fragment, time of <gap reason="lost"/>
-               <!--implement display??-->kesarivarman, year 13</title>
+            <title>Koṭumpāḷūr, Aivarkōyil, fragment, time of <gap reason="lost"/>kesarivarman, year 13</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -153,11 +152,11 @@
              <listApp>
                  <app loc="6">
                      <lem><supplied reason="lost">A</supplied> ‡ <choice><orig>ñ</orig><reg>n</reg></choice>-taḷi</lem>
-                     <note>The restoration is made consistent with the rest of the inscription. The recontructed original has to be fully normalised to <foreign>Aintaḷi</foreign>. </note>
+                     <note>The restoration is consistent with the spelling of the rest of the inscription. The recontructed original has to be fully normalised to <foreign>Aintaḷi</foreign>.</note>
                  </app>
                  <app loc="6">
                      <lem><hi rend="grantha">he</hi>cuvara-<unclear>ra</unclear><hi rend="grantha"><unclear>kṣai</unclear></hi></lem>
-                     <note>These are the only letters clearly readable on the third block. One may thus wonder </note>
+                     <note>These are the only letters clearly readable on the third block.</note>
                  </app>         
              </listApp>
          </div>
@@ -179,19 +178,19 @@
                 </p>
             </div>
             
-         <div type="commentary">
-          <p>The inscription <ref target="DHARMA_INSKotumpalur00007.xml">Kotumpalur 7</ref><!--Update cross-ref-->, another fragment on the site, possibly gives the beginning of lines 4-6.</p>
-         </div>
+<div type="commentary">
+    <p>The inscription <ref target="DHARMA_INSKotumpalur00007.xml">Kotumpalur 7</ref><!--Update cross-ref-->, another fragment on the site, possibly gives the beginning of lines 4-6.</p>
+</div>
             
-          <div type="bibliography">	
-              <p>First edited and translated here by Emmanuel Francis (2020).</p>
-              <listBibl type="primary">
-                  <bibl n="siglum"/>
-              </listBibl>
-              <listBibl type="secondary">
-                  <bibl/>
-              </listBibl>
-        </div>
+<div type="bibliography">	
+    <p>First reported, edited and translated here by Emmanuel Francis (2020).</p>
+    <!--<listBibl type="primary">
+        <bibl n="siglum"/>
+    </listBibl>
+    <listBibl type="secondary">
+        <bibl/>
+    </listBibl>-->
+</div>
       </body>
   </text>
 </TEI>

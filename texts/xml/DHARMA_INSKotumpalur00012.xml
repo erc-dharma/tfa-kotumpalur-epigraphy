@@ -107,23 +107,24 @@
              </listApp>
          </div>-->
             
-            <div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
                 
-            </div>
+</div>-->
             
-         <div type="commentary">
+<!--<div type="commentary">
           
-         </div>
+</div>-->
             
-          <div type="bibliography">	
-              <p>First edited here by Emmanuel Francis (2020).</p>
-              <listBibl type="primary">
-                  <bibl n="siglum"/>
-              </listBibl>
-              <listBibl type="secondary">
-                  <bibl/>
-              </listBibl>
-        </div>
+<div type="bibliography">	
+    <p>First reported and edited here by Emmanuel Francis (2020).</p>
+    <!--<listBibl type="primary">
+        <bibl n="siglum"/>
+    </listBibl>
+    <listBibl type="secondary">
+        <bibl/>
+    </listBibl>-->
+</div>
+            
       </body>
   </text>
 </TEI>

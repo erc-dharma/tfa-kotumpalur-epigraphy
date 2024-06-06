@@ -8,8 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Koṭumpāḷūr, Aivarkōyil, fragment, time of <gap reason="lost"/>
-               <!--implement display??-->varman, year unknown</title>
+            <title>Koṭumpāḷūr, Aivarkōyil, fragment, time of <gap reason="lost"/><unclear>varmar</unclear>, year lost</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -92,7 +91,7 @@
                     <lb n="1"/><hi rend="grantha">svas<unclear>ti</unclear> śrī</hi>
                 </ab>
                 <p>
-                    <gap reason="lost" quantity="8" unit="character" precision="low"/><choice><unclear>v</unclear><unclear>p</unclear></choice>a<unclear>r</unclear>k=ku
+                    <gap reason="lost" quantity="8" unit="character" precision="low"/><choice><unclear>v</unclear><unclear>p</unclear></choice>a<unclear>r</unclear>k=ku<!--check: read "paṉmarkku"?-->
                 </p>
                 <p>                    
                     <lb n="2"/>Il E<unclear>ḻu</unclear>vaṉ m<unclear>ai</unclear><choice><unclear>t=ta</unclear><unclear>cū</unclear></choice>ri Iṭṭa c<choice><unclear>a</unclear><unclear>e</unclear></choice><gap reason="illegible" quantity="1" unit="component"/>i<gap reason="illegible" quantity="1" unit="component"/>i <!--check encoding: use <seg> in addition to <gap> or not. See EGD 5.4.5--> <choice><unclear>j</unclear><unclear>b<!--Grantha! How to mark it up? <hi> not allowed in <unclear>, nor in <choice>--></unclear></choice>ikaiy k<choice><unclear>o</unclear><unclear>ō</unclear></choice>ṭṭu
@@ -105,38 +104,38 @@
                 
             </div>
             
-         <div type="apparatus">
+<!--<div type="apparatus">
              
-         </div>
+</div>-->
             
             <div type="translation" resp="part:emfr">
                 <p n="1">
                     Prosperity! Fortune!
                 </p>
                 <p n="1">
-                    <gap reason="lost"/> <supplied reason="lost">year of</supplied> <gap reason="lost"/>varman.
+                    <gap reason="lost"/> <supplied reason="lost">year of</supplied> <gap reason="lost"/><unclear>varmar</unclear>.
                 </p>
                 <p n="2-4">
-                   ADD Translation
+                   ...
                 </p>
                 <p n="4">
                     This <supplied reason="subaudible">donation is under</supplied> the protection of the Paṉmā<hi rend="grantha">heśvara</hi>s.
                 </p>
             </div>
             
-         <div type="commentary">
+<div type="commentary">
           <p>End of lines 1-3 incomplete.</p>
-         </div>
+</div>
             
-          <div type="bibliography">	
-              <p>First edited and translated here by Emmanuel Francis (2020).</p>
-              <listBibl type="primary">
-                  <bibl n="siglum"/>
-              </listBibl>
-              <listBibl type="secondary">
-                  <bibl/>
-              </listBibl>
-        </div>
+<div type="bibliography">	
+    <p>First reported, edited and translated here by Emmanuel Francis (2020).</p>
+    <!--<listBibl type="primary">
+        <bibl n="siglum"/>
+    </listBibl>
+    <listBibl type="secondary">
+        <bibl/>
+    </listBibl>-->
+</div>
       </body>
   </text>
 </TEI>
