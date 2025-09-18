@@ -87,7 +87,7 @@
         <body>
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
             	
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                <ab>
                     <lb n="1"/><milestone unit="block" n="a"/>
                     <hi rend="grantha">s<unclear reason="eccentric_ductus">va</unclear><supplied reason="omitted">sti</supplied> śrī</hi>
                 </ab> 
