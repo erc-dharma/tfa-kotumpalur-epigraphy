@@ -5,173 +5,254 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Koṭumpāḷūr, Mūvarkōyil, donation, time of Bhūti Vikramakesarin</title>
-            <respStmt>
-               <resp>EpiDoc encoding</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <authority>DHARMA</authority>
-            <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSKotumpalur00001</idno>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Koṭumpāḷūr, Mūvarkōyil, donation, time of Bhūti Vikramakesarin</title>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSKotumpalur00001</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
                             Licence. To view a copy of the licence, visit
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-               </licence>
-            </availability>
-            <date from="2019" to="2025">2019-2025</date>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc>
-               <msIdentifier>
-                  <repository>DHARMAbase</repository>
-                  <idno/>
-               </msIdentifier>
-               <msContents>
-                  <summary>Donation of a <foreign>maṭha</foreign> by Bhūti Vikramakesarin and provisions for the cult of Maheśvara by the same in the temple that he had founded.</summary>
-               </msContents>
-               <physDesc>
-                  <handDesc>
-                     <p/>
-                  </handDesc>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-         </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-         <!-- UPDATE the link once the release is made official -->
-         <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
-            </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-            </prefixDef>
-         </listPrefixDef>
-      </encodingDesc>
-      <revisionDesc>
-         <change who="part:emfr" when="2020-11-18" status="draft">Initial encoding of the file</change>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:space="preserve">
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Donation of a <foreign>maṭha</foreign> by Bhūti Vikramakesarin and provisions for the cult of Maheśvara by the same in the temple that he had founded.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide"
+                key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib"
+                    matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part"
+                    matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2020-11-18" status="draft">Initial encoding of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
         
-<body>
-   
-<div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-   
-   <milestone n="1" type="gridlike" unit="zone"/>
-    <p>
-       <lb n="1"/>‡nātha-gaja-yūtha-haraḥ ‡ purāsīt∙ <g type="undefined">.</g></p>
-   
-   <lg n="1" met="śārdūlavikrīḍita">
-      
-      <l n="a">tad-vaṃśyaḥ para-vīrajin maḷava-jic chrī-<lb n="2" break="no"/>‡vīra-tuṃgo <supplied reason="subaudible">’</supplied>muto</l>
-      <l n="b">jā‡to <supplied reason="subaudible">’</supplied>smād ati-vīra Ity anupamas tasmād abhūt saṃ<lb n="3" break="no"/>‡ghakṛt∙ </l>
-      <l n="c">Asmāc chrī-nṛpa-‡kesarī vivavṛdhe yo bāla Evoragai<lb n="4" break="no"/>s</l>
-      <l n="d">tat-sūnuḥ para-durgga-mardda‡na Iti khyātas sa vātāpi-jit∙ <g type="undefined">.</g></l>
-      
-   </lg>
-   
-</div>
-   
-          
-<!--<div type="apparatus">
-             <listApp>
-                 <app loc="1">
-                     <lem/>
-                     <rdg source="bib:..."/>
-                  </app>
-               </listApp>
-</div>-->
-         
-<!--<div type="translation" resp="part:emfr">
- 	
-</div>-->
-         
-<!--<div type="commentary">
+        <body>
             
-</div>-->
-         
-<div type="bibliography">
-   
-   <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/B/1907/129).</p>
-   <p>Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS 14); in <bibl><ptr target="bib:NilakanthaSastri1933_01"/></bibl>, with a facsimile; in <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl> (SII 23.129).</p>
-   <p>Translated in <bibl><ptr target="bib:SrinivasaAiyar1941_01"/></bibl> (IPS 14), <bibl><ptr target="bib:NilakanthaSastri1933_01"/></bibl>. </p>
-   <p>This edition by Emmanuel Francis (2024), based on the facsimile in <bibl><ptr target="bib:NilakanthaSastri1933_01"/></bibl>, autopsy and photographs (Emmanuel Francis).</p>
-   
-   <listBibl type="primary">
-      
-      <bibl n="IPS">
-         <ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/>
-         <citedRange unit="item">14</citedRange>
-         <citedRange unit="page">9-10</citedRange>         
-      </bibl>
-      
-      <bibl n="S">
-         <ptr target="bib:NilakanthaSastri1933_01"/>    
-      </bibl>
-      
-      <bibl n="SII">
-         <ptr target="bib:SrinivasaRao1979_01"/>
-         <citedRange unit="item">129</citedRange>
-         <citedRange unit="page">101-102</citedRange>         
-      </bibl>          
-      
-   </listBibl>
-   
-   <listBibl type="secondary">
-      
-      <bibl>
-         <ptr target="bib:ARIE1907-1908"/>
-         <citedRange unit="page">15</citedRange>
-         <citedRange unit="appendix">B/1907</citedRange>
-         <citedRange unit="item">129</citedRange>
-      </bibl>
-      
-      <bibl>
-         <ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_01"/>
-         <citedRange unit="item">14</citedRange>
-         <citedRange unit="page">TBC</citedRange>
-      </bibl>
-      
-      <bibl>
-         <ptr target="bib:SrinivasaAiyar1941_01"/>
-         <citedRange unit="item">14</citedRange>
-         <citedRange unit="page">TBC</citedRange>
-      </bibl>
-      
-   </listBibl>
-   
-</div>
-      </body>
-  </text>
+            <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                
+                <p>
+                    <milestone n="1" type="pagelike" unit="zone"/>
+                </p>
+                
+                
+                <p><milestone n="2" type="pagelike" unit="zone"/>
+                    <lb n="B1"/>nātha-gaja-yūtha-haraḥ purāsīt∙ <g type="undefined">.</g></p>
+                
+                <lg n="1" met="śārdūlavikrīḍita">
+                    
+                    <l n="a">tad-vaṃśyaḥ para-vīrajin maḷava-jic chrī<lb n="B2" break="no"/>-vīra-tuṃgo <supplied reason="subaudible">’</supplied>muto</l>
+                    <l n="b">jāto <supplied reason="subaudible">’</supplied>smād ati-vīra Ity anupamas tasmād abhūt saṃ<lb n="B3" break="no"/>ghakṛt∙ </l>
+                    <l n="c">Asmāc chrī-nṛpa-kesarī vivavṛdhe yo bāla Evoragai<lb n="B4" break="no"/>s</l>
+                    <l n="d">tat-sūnuḥ para-durgga-marddana Iti khyātas sa vātāpi-jit∙ <g type="undefined">.</g></l> 
+                    
+                </lg>
+                
+                <lg n="2" met="anuṣṭubh">
+                    <l n="a">tasya samarābhirā<lb n="B5" break="no"/>maḥ</l> 
+                    <l n="b">putras sutrāma-tejasaḥ</l> 
+                    <l n="c">‡ Adhirāja-maṃgalājau</l>
+                    <l n="d">yo nijaghāna c[ā*]<lb n="B6" break="no"/>ḷukkiM ௳</l>
+                </lg>
+                
+                <lg n="3" met="vasantatilakā">
+                    <l n="a">tasyācyutaṃsya kamaleva sarasvatīva</l> 
+                    <l n="b">panmotbhavasya girijeva <lb n="B7"/> harasya sākṣāt∙</l> 
+                    <l n="c">preyasy abhūd anupameti yathārttha-nāmnā</l> 
+                    <l n="d">śrīcoḷa-rāja-du<lb n="B8" break="no"/>hitā yaduvaṃśa-ketoḥ <unclear><g type="pc">.</g></unclear></l>
+                </lg>
+                
+                <lg n="4" met="śārdūlavikrīḍita">
+                    <l n="a">‡tasyām asya babhūva bhūtir aparām minnāmaḷākhyā<lb n="B9" break="no"/>n dadhan∙</l>
+                    <l n="b">śrīmān-vikramakesarīti samare labdhānya-nāmā nṛpaḥ <g type="pc">.</g></l>
+                </lg>
+                
+                <lg n="5" met="sragdharā">
+                    <l n="a">kāverī<lb n="B10" break="no"/>vāri śoṇaṃ samakṛta rudhiraiḥ pallavasya dhvajinyāḥ</l>
+                    <l n="b">yo vīro <lb n="B11" break="no"/> vīra-pāṇḍyaṃ vyajayata samare vañci-veḷ-antako [’*]bhūt· ௳</l>
+                </lg>
+                
+                <lg n="6" met="anuṣṭubh">
+                    <l n="a">mattāri-sāmajā<lb n="B12" break="no"/>[n] hatvā</l>
+                    <l n="b">vasan vikramakesarī</l>
+                    <l n="c">‡koṭumpāḷūr-ppurādrīndra-</l>
+                    <l n="d">māḷikā-vivarodare ௳</l>
+                </lg>
+                
+                <lg n="7" met="śārdūlavikrīḍita">
+                    <l n="a"><lb n="B13" break="no"/> vidvat-kalpatarau kṣitīśva‡ra-kara-dvandvām∙bujendau bhuvaṃ</l>
+                    <l n="b"> yasmin śāsati <lb n="B14" break="no"/> medinī-jaya-ramā-śrī-kīrttivāg-vallabhe</l>
+                    <l n="c">taikṣṇya[ṃ/n] netra-yuge bhruvoś cala<lb n="B15" break="no"/>natā keśeṣu kārṣṇyan ta‡nau</l>
+                    <l n="d">tanvīnān tanutābhavat· stana-yuge cānyonya<lb n="B16" break="no"/>-[saṃpī]ḍanam∙ ௳</l>
+                </lg>
+                
+                <lg n="8" met="gīti">                    
+                    <l n="ab">tasyābhūtān devyau kaṟṟaḷi-varaguṇa-samāhvaye satyau</l>
+                    <l n="cd"><lb n="B17" break="no"/> kaṟṟaḷir abhavaj jananī pa‡rāntakādityavarmmaṇo kamrakamrāṇām· [௳*]</l>
+                </lg>
+                
+                <lg n="9" met="anuṣṭubh">
+                    <l n="a">Ātreya<lb n="B18" break="no"/>-gotra-jaś śrīmān</l>
+                    <l n="b">māthuro [XX]pāragaḥ</l>
+                    <l n="c"> vidyārāśes taporāśeś</l>
+                    <l n="d">śi<lb n="B19" break="no"/>ṣyo śrī[X]mallikārjjunaḥ ௳ </l>
+                </lg>
+                
+                <lg n="10" met="anuṣṭubh">
+                    <l n="a">[vimāna]-trayam Utthāpya</l>
+                    <l n="b">pratiṣṭhāpya maheśvaram∙</l>
+                    <l n="c"><lb n="B20" break="no"/> svanāmnā priyayo[r] nnā‡mnā</l>
+                    <l n="d">tasmai so <supplied reason="subaudible">’</supplied>dād bṛhan-maṭham∙ ௳</l>
+                </lg>
+                
+                <lg n="11" met="anuṣṭubh">
+                    <l n="a">tasmai kālamukhā<lb n="B21" break="no"/>[CV/CCV]na-</l>
+                    <l n="b">yati-mukhyāya yādavaḥ</l>
+                    <l n="c">prādād ekādaśagrāma-</l>
+                    <l n="d">vinibandham∙ bṛhan-maṭham∙ [௳]</l>
+                </lg>
+                
+                <lg n="12" met="vasantatilakā">
+                    <l n="a"><lb n="B22"/> pañcāśatām asitavaktra-ta‡podhanānām∙</l>
+                    <l n="b">bhuktyai bṛhan-maṭha[XX][gu]ra<lb n="B23" break="no"/>ve sa rājā</l>
+                    <l n="c">naivedya-ga‡ndha-kusumākṣata-dhūpa-dīpa-
+                    </l>
+                    <l n="d">[tāmb]ū[la – u u <lb n="B24" break="no"/> u – u] maheśvarasya ௳</l>
+                    
+                </lg>
+                
+            </div>
+            
+            
+            <!--<div type="apparatus">
+                <listApp>
+                <app loc="1">
+                <lem/>
+                <rdg source="bib:..."/>
+                </app>
+                </listApp>
+                </div>-->
+            
+            <div type="translation" resp="part:emfr part:paka">                
+                
+            </div>
+            
+            <div type="translation" xml:lang="fra" resp="part:emfr">
+                
+            </div>
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/B/1907/129).</p>
+                <p>Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS 14); in <bibl><ptr target="bib:NilakanthaSastri1933_01"/></bibl>, with a facsimile; in <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl> (SII 23.129).</p>
+                <p>Translated in <bibl><ptr target="bib:SrinivasaAiyar1941_01"/></bibl> (IPS 14), <bibl><ptr target="bib:NilakanthaSastri1933_01"/></bibl>. </p>
+                <p>This edition by Emmanuel Francis (2024), based on the facsimile in <bibl><ptr target="bib:NilakanthaSastri1933_01"/></bibl>, autopsy and photographs (Emmanuel Francis).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="IPS">
+                        <ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/>
+                        <citedRange unit="item">14</citedRange>
+                        <citedRange unit="page">9-10</citedRange>         
+                    </bibl>
+                    
+                    <bibl n="S">
+                        <ptr target="bib:NilakanthaSastri1933_01"/>    
+                    </bibl>
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:SrinivasaRao1979_01"/>
+                        <citedRange unit="item">129</citedRange>
+                        <citedRange unit="page">101-102</citedRange>         
+                    </bibl>          
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1907-1908"/>
+                        <citedRange unit="page">15</citedRange>
+                        <citedRange unit="appendix">B/1907</citedRange>
+                        <citedRange unit="item">129</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_01"/>
+                        <citedRange unit="item">14</citedRange>
+                        <citedRange unit="page">TBC</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:SrinivasaAiyar1941_01"/>
+                        <citedRange unit="item">14</citedRange>
+                        <citedRange unit="page">TBC</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
 </TEI>
