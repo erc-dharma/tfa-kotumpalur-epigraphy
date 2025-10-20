@@ -89,12 +89,14 @@
             <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                 
                 <p>
-                    <milestone n="1" type="pagelike" unit="zone"/>
-                </p>
-                
-                
-                <p><milestone n="2" type="pagelike" unit="zone"/>
-                    <lb n="B1"/>nātha-gaja-yūtha-haraḥ purāsīt∙ <g type="undefined">.</g></p>
+                    <milestone n="1" type="pagelike" unit="zone"/><label>Wall of Maṇḍapa</label>
+                    
+                    <lb n="A23"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>ha</unclear>raṇa <gap reason="lost" quantity="2" unit="character"/>
+                    <lb n="A24"/><gap reason="lost" extent="unknown" unit="character"/> ḥ pāṇḍya
+                    
+                    
+                <milestone n="2" type="pagelike" unit="zone" break="no"/><label>Wall of Vimāna</label>
+                    <lb n="B1" break="no"/>-nātha-gaja-yūtha-haraḥ purāsīt∙ <g type="undefined">.</g></p>
                 
                 <lg n="1" met="śārdūlavikrīḍita">
                     
