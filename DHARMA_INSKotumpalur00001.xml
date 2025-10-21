@@ -90,107 +90,112 @@
                 
                 <p>
                     <milestone n="1" type="pagelike" unit="zone"/><label>Wall of Maṇḍapa</label>
+                    <lb n="A1"/>
+                    <lb n="A2"/>
+                    <lb n="A3"/>
+                    
+                    <lb n="A4-A22"/>
                     
                     <lb n="A23"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>ha</unclear>raṇa <gap reason="lost" quantity="2" unit="character"/>
                     <lb n="A24"/><gap reason="lost" extent="unknown" unit="character"/> ḥ pāṇḍya
                     
                     
-                <milestone n="2" type="pagelike" unit="zone" break="no"/><label>Wall of Vimāna</label>
-                    <lb n="B1" break="no"/>-nātha-gaja-yūtha-haraḥ purāsīt∙ <g type="undefined">.</g></p>
+                    <milestone n="2" type="pagelike" unit="zone" break="no"/><label>Wall of Vimāna</label>
+                    <lb n="B1" break="no"/>-nātha-gaja-yūtha-haraḥ purāsīt∙ <g type="pc">.</g></p>
                 
                 <lg n="1" met="śārdūlavikrīḍita">
                     
                     <l n="a">tad-vaṃśyaḥ para-vīrajin maḷava-jic chrī<lb n="B2" break="no"/>-vīra-tuṃgo <supplied reason="subaudible">’</supplied>muto</l>
                     <l n="b">jāto <supplied reason="subaudible">’</supplied>smād ati-vīra Ity anupamas tasmād abhūt saṃ<lb n="B3" break="no"/>ghakṛt∙ </l>
                     <l n="c">Asmāc chrī-nṛpa-kesarī vivavṛdhe yo bāla Evoragai<lb n="B4" break="no"/>s</l>
-                    <l n="d">tat-sūnuḥ para-durgga-marddana Iti khyātas sa vātāpi-jit∙ <g type="undefined">.</g></l> 
+                    <l n="d">tat-sūnuḥ para-durgga-marddana Iti khyātas sa vātāpi-jit∙ <g type="pc">.</g></l> 
                     
                 </lg>
                 
                 <lg n="2" met="anuṣṭubh">
-                    <l n="a">tasya samarābhirā<lb n="B5" break="no"/>maḥ</l> 
+                    <l n="a">tasya samar-ābhirā<lb n="B5" break="no"/>maḥ</l> 
                     <l n="b">putras sutrāma-tejasaḥ</l> 
-                    <l n="c">‡ Adhirāja-maṃgalājau</l>
-                    <l n="d">yo nijaghāna c[ā*]<lb n="B6" break="no"/>ḷukkiM ௳</l>
+                    <l n="c">Adhirāja-maṃgalājau</l>
+                    <l n="d">yo nijaghāna c<unclear>ā</unclear><lb n="B6" break="no"/>ḷukkiM</l>
                 </lg>
                 
                 <lg n="3" met="vasantatilakā">
-                    <l n="a">tasyācyutaṃsya kamaleva sarasvatīva</l> 
-                    <l n="b">panmotbhavasya girijeva <lb n="B7"/> harasya sākṣāt∙</l> 
-                    <l n="c">preyasy abhūd anupameti yathārttha-nāmnā</l> 
-                    <l n="d">śrīcoḷa-rāja-du<lb n="B8" break="no"/>hitā yaduvaṃśa-ketoḥ <unclear><g type="pc">.</g></unclear></l>
+                    <l n="a">tasy-ācyutaṃsya kamal-eva sarasvat-īva</l> 
+                    <l n="b">panm-otbhavasya girijeva <lb n="B7"/> harasya sākṣāt∙</l> 
+                    <l n="c">preyasy abhūd anupam-eti yath-ārttha-nāmnā</l> 
+                    <l n="d">śrī-coḷa-rāja-du<lb n="B8" break="no"/>hitā yadu-vaṃśa-ketoḥ <unclear><g type="pc">.</g></unclear></l>
                 </lg>
                 
                 <lg n="4" met="śārdūlavikrīḍita">
-                    <l n="a">‡tasyām asya babhūva bhūtir aparām minnāmaḷākhyā<lb n="B9" break="no"/>n dadhan∙</l>
-                    <l n="b">śrīmān-vikramakesarīti samare labdhānya-nāmā nṛpaḥ <g type="pc">.</g></l>
+                    <l n="a">tasyām asya babhūva bhūtir aparām minnāmaḷ-ākhyā<lb n="B9" break="no"/>n dadhan∙</l>
+                    <l n="b">śrīmān-vikrama-kesar-īti samare labdh-ānya-nāmā nṛpaḥ <g type="pc">.</g></l>
                 </lg>
                 
                 <lg n="5" met="sragdharā">
                     <l n="a">kāverī<lb n="B10" break="no"/>vāri śoṇaṃ samakṛta rudhiraiḥ pallavasya dhvajinyāḥ</l>
-                    <l n="b">yo vīro <lb n="B11" break="no"/> vīra-pāṇḍyaṃ vyajayata samare vañci-veḷ-antako [’*]bhūt· ௳</l>
+                    <l n="b">yo vīro <lb n="B11" break="no"/> vīra-pāṇḍyaṃ vyajayata samare vañci-veḷ-antako <supplied reason="subaudible">’</supplied>bhūt· <g type="pc">.</g></l>
                 </lg>
                 
                 <lg n="6" met="anuṣṭubh">
-                    <l n="a">mattāri-sāmajā<lb n="B12" break="no"/>[n] hatvā</l>
-                    <l n="b">vasan vikramakesarī</l>
-                    <l n="c">‡koṭumpāḷūr-ppurādrīndra-</l>
-                    <l n="d">māḷikā-vivarodare ௳</l>
+                    <l n="a">mattāri-sāmajā<lb n="B12" break="no"/><unclear>n</unclear> hatvā</l>
+                    <l n="b">vasan vikrama-kesarī</l>
+                    <l n="c" enjamb="yes">koṭumpāḷūr-ppurādr-īndra</l>
+                    <l n="d">-māḷikā-vivarodare <g type="pc">.</g></l>
                 </lg>
                 
                 <lg n="7" met="śārdūlavikrīḍita">
-                    <l n="a"><lb n="B13" break="no"/> vidvat-kalpatarau kṣitīśva‡ra-kara-dvandvām∙bujendau bhuvaṃ</l>
-                    <l n="b"> yasmin śāsati <lb n="B14" break="no"/> medinī-jaya-ramā-śrī-kīrttivāg-vallabhe</l>
-                    <l n="c">taikṣṇya[ṃ/n] netra-yuge bhruvoś cala<lb n="B15" break="no"/>natā keśeṣu kārṣṇyan ta‡nau</l>
-                    <l n="d">tanvīnān tanutābhavat· stana-yuge cānyonya<lb n="B16" break="no"/>-[saṃpī]ḍanam∙ ௳</l>
+                    <l n="a"><lb n="B13" break="no"/> vidvat-kalpatarau kṣit-īśvara-kara-dvandv-āMbuj-endau bhuvaṃ</l>
+                    <l n="b"> yasmin śāsati <lb n="B14"/>medinī-jaya-ramā-śrī-kīrtti-vāg-vallabhe</l>
+                    <l n="c">taikṣṇyan netra-yuge bhruvoś cala<lb n="B15" break="no"/>natā keśeṣu kārṣṇyan tanau</l>
+                    <l n="d">tanvīnān tanut-ābhavat· stana-yuge cāny-onya<lb n="B16" break="no"/>-<unclear>saṃpī</unclear>ḍanaM <g type="pc">.</g></l>
                 </lg>
                 
                 <lg n="8" met="gīti">                    
-                    <l n="ab">tasyābhūtān devyau kaṟṟaḷi-varaguṇa-samāhvaye satyau</l>
-                    <l n="cd"><lb n="B17" break="no"/> kaṟṟaḷir abhavaj jananī pa‡rāntakādityavarmmaṇo kamrakamrāṇām· [௳*]</l>
+                    <l n="ab">tasy-ābhūtān devyau kaṟṟaḷi-vara-guṇa-samāhvaye satyau</l>
+                    <l n="cd"><lb n="B17"/> kaṟṟaḷir abhavaj jananī parāntak-āditya-varmmaṇo kamra-kamrāṇāM</l>
                 </lg>
                 
                 <lg n="9" met="anuṣṭubh">
                     <l n="a">Ātreya<lb n="B18" break="no"/>-gotra-jaś śrīmān</l>
-                    <l n="b">māthuro [XX]pāragaḥ</l>
-                    <l n="c"> vidyārāśes taporāśeś</l>
-                    <l n="d">śi<lb n="B19" break="no"/>ṣyo śrī[X]mallikārjjunaḥ ௳ </l>
+                    <l n="b">māthuro <seg met="=-"><gap reason="lost" quantity="2" unit="character"/></seg> pāragaḥ</l>
+                    <l n="c"> vidyā-rāśes tapo-rāśeś</l>
+                    <l n="d">śi<lb n="B19" break="no"/>ṣyo śrī-<surplus>bhu</surplus>mallik-ārjjunaḥ <g type="pc">.</g></l>
                 </lg>
                 
                 <lg n="10" met="anuṣṭubh">
-                    <l n="a">[vimāna]-trayam Utthāpya</l>
-                    <l n="b">pratiṣṭhāpya maheśvaram∙</l>
-                    <l n="c"><lb n="B20" break="no"/> svanāmnā priyayo[r] nnā‡mnā</l>
-                    <l n="d">tasmai so <supplied reason="subaudible">’</supplied>dād bṛhan-maṭham∙ ௳</l>
+                    <l n="a"><unclear>vimāna</unclear>-trayam Utthāpya</l>
+                    <l n="b">pratiṣṭhāpya maheśvaraM</l>
+                    <l n="c"><lb n="B20"/>sva-nāmnā priyayo<unclear>r</unclear> nnāmnā</l>
+                    <l n="d">tasmai so <supplied reason="subaudible">’</supplied>dād bṛhan-maṭhaM <g type="pc">.</g></l>
                 </lg>
                 
                 <lg n="11" met="anuṣṭubh">
-                    <l n="a">tasmai kālamukhā<lb n="B21" break="no"/>[CV/CCV]na-</l>
+                    <l n="a" enjamb="yes">tasmai kālamukhā<lb n="B21" break="no"/><seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg> na-</l>
                     <l n="b">yati-mukhyāya yādavaḥ</l>
-                    <l n="c">prādād ekādaśagrāma-</l>
-                    <l n="d">vinibandham∙ bṛhan-maṭham∙ [௳]</l>
+                    <l n="c" enjamb="yes">prādād ekādaśa-grāma</l>
+                    <l n="d">-vinibandhaM bṛhan-maṭhaM <g type="pc">.</g></l>
                 </lg>
                 
                 <lg n="12" met="vasantatilakā">
-                    <l n="a"><lb n="B22"/> pañcāśatām asitavaktra-ta‡podhanānām∙</l>
-                    <l n="b">bhuktyai bṛhan-maṭha[XX][gu]ra<lb n="B23" break="no"/>ve sa rājā</l>
-                    <l n="c">naivedya-ga‡ndha-kusumākṣata-dhūpa-dīpa-
-                    </l>
-                    <l n="d">[tāmb]ū[la – u u <lb n="B24" break="no"/> u – u] maheśvarasya ௳</l>
+                    <l n="a"><lb n="B22"/> pañcāśatām asita-vaktra-tapo-dhanānāM</l>
+                    <l n="b">bhuktyai bṛhan-maṭha <seg met="-+"><gap reason="lost" quantity="2" unit="character"/></seg> <unclear>gu</unclear>ra<lb n="B23" break="no"/>ve sa rājā</l>
+                    <l n="c" enjamb="yes">naivedya-gandha-kusum-ākṣata-dhūpa-dīpa</l>
+                    <l n="d">-<unclear>tā</unclear>Mbū<unclear>la</unclear> <seg met="+--"><gap reason="lost" quantity="3" unit="character"/></seg><lb n="B24" break="no"/> <seg met="-+-"><gap reason="lost" quantity="3" unit="character"/></seg> maheśvarasya <g type="pc">.</g></l>
                     
                 </lg>
                 
             </div>
             
-            
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 <listApp>
-                <app loc="1">
-                <lem/>
-                <rdg source="bib:..."/>
-                </app>
+                    <app loc="1">
+                        <lem></lem>
+                        <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"></rdg>                        
+                        <rdg source="bib:NilakanthaSastri1933_01"></rdg>
+                        <rdg source="bib:SrinivasaRao1979_01"></rdg>
+                    </app>
                 </listApp>
-                </div>-->
+            </div>
             
             <div type="translation" resp="part:emfr part:paka">                
                 
