@@ -51,7 +51,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p/>
+                            <p>Distinction between medial <foreign>i</foreign> and <foreign>ī</foreign>, medial <foreign>o</foreign> and <foreign>au</foreign>.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -90,11 +90,11 @@
                 
                 <p>
                     <milestone n="1" type="pagelike" unit="zone"/><label>Wall of Maṇḍapa</label>
-                    <lb n="A1"/>
-                    <lb n="A2"/>
-                    <lb n="A3"/>
+                    <lb n="A1"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>hi</unclear>raṇya
+                    <lb n="A2"/><gap reason="lost" extent="unknown" unit="character"/> pati <gap reason="lost" quantity="2" unit="character"/>
+                    <lb n="A3"/><gap reason="lost" extent="unknown" unit="character"/> yair a
                     
-                    <lb n="A4-A22"/>
+                    <lb n="A4-A22"/><gap reason="lost" quantity="19" unit="line"/>
                     
                     <lb n="A23"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>ha</unclear>raṇa <gap reason="lost" quantity="2" unit="character"/>
                     <lb n="A24"/><gap reason="lost" extent="unknown" unit="character"/> ḥ pāṇḍya
@@ -121,9 +121,9 @@
                 
                 <lg n="3" met="vasantatilakā">
                     <l n="a">tasy-ācyutaṃsya kamal-eva sarasvat-īva</l> 
-                    <l n="b">panm-otbhavasya girijeva <lb n="B7"/> harasya sākṣāt∙</l> 
+                    <l n="b">panm-o<choice><orig>t</orig><reg>d</reg></choice>bhavasya girij-eva <lb n="B7"/> harasya sākṣāt∙</l> 
                     <l n="c">preyasy abhūd anupam-eti yath-ārttha-nāmnā</l> 
-                    <l n="d">śrī-coḷa-rāja-du<lb n="B8" break="no"/>hitā yadu-vaṃśa-ketoḥ <unclear><g type="pc">.</g></unclear></l>
+                    <l n="d">śrī-coḷa-rāja-du<lb n="B8" break="no"/>hitā yadu-vaṃśa-ketoḥ <g type="pc">.</g></l>
                 </lg>
                 
                 <lg n="4" met="śārdūlavikrīḍita">
@@ -133,11 +133,11 @@
                 
                 <lg n="5" met="sragdharā">
                     <l n="a">kāverī<lb n="B10" break="no"/>vāri śoṇaṃ samakṛta rudhiraiḥ pallavasya dhvajinyāḥ</l>
-                    <l n="b">yo vīro <lb n="B11" break="no"/> vīra-pāṇḍyaṃ vyajayata samare vañci-veḷ-antako <supplied reason="subaudible">’</supplied>bhūt· <g type="pc">.</g></l>
+                    <l n="b">yo vīro <lb n="B11" break="no"/> vīra-pāṇḍyaṃ vyajayata samare vañci-veḷ-an=tako <supplied reason="subaudible">’</supplied>bhūt· <g type="pc">.</g></l>
                 </lg>
                 
                 <lg n="6" met="anuṣṭubh">
-                    <l n="a">mattāri-sāmajā<lb n="B12" break="no"/><unclear>n</unclear> hatvā</l>
+                    <l n="a">matt-āri-sāmajā<lb n="B12" break="no"/><unclear>n</unclear> hatvā</l>
                     <l n="b">vasan vikrama-kesarī</l>
                     <l n="c" enjamb="yes">koṭumpāḷūr-ppurādr-īndra</l>
                     <l n="d">-māḷikā-vivarodare <g type="pc">.</g></l>
@@ -147,12 +147,12 @@
                     <l n="a"><lb n="B13" break="no"/> vidvat-kalpatarau kṣit-īśvara-kara-dvandv-āMbuj-endau bhuvaṃ</l>
                     <l n="b"> yasmin śāsati <lb n="B14"/>medinī-jaya-ramā-śrī-kīrtti-vāg-vallabhe</l>
                     <l n="c">taikṣṇyan netra-yuge bhruvoś cala<lb n="B15" break="no"/>natā keśeṣu kārṣṇyan tanau</l>
-                    <l n="d">tanvīnān tanut-ābhavat· stana-yuge cāny-onya<lb n="B16" break="no"/>-<unclear>saṃpī</unclear>ḍanaM <g type="pc">.</g></l>
+                    <l n="d">tanvīnān tanut-ābhavat stana-yuge cāny-onya<lb n="B16" break="no"/>-<unclear>saṃpīḍa</unclear>naM <g type="pc">.</g></l>
                 </lg>
                 
                 <lg n="8" met="gīti">                    
                     <l n="ab">tasy-ābhūtān devyau kaṟṟaḷi-vara-guṇa-samāhvaye satyau</l>
-                    <l n="cd"><lb n="B17"/> kaṟṟaḷir abhavaj jananī parāntak-āditya-varmmaṇo kamra-kamrāṇāM</l>
+                    <l n="cd"><lb n="B17"/> kaṟṟaḷir abhavaj jananī parān=tak-āditya-varmmaṇo kamra-kamrāṇāM</l>
                 </lg>
                 
                 <lg n="9" met="anuṣṭubh">
