@@ -93,8 +93,8 @@
                     <milestone unit="block" n="c" break="no"/>-<supplied reason="lost">cōḻa</supplied> <gap reason="lost" extent="unknown" unit="character"/>
                     
                     <lb n="3"/>
-                    <milestone unit="block" n="a"/>pīṟantāṉ Ā<unclear>ṉa</unclear>
-                    <milestone unit="block" n="b"/> <unclear>p</unclear>ūtī paṭṭālaka<choice><orig>n</orig><reg>ṉ</reg></choice> nakka<choice><orig>n</orig><reg>ṉ</reg></choice>-ōṭu vaḻakkā
+                    <milestone unit="block" n="a"/>piṟantāṉ <unclear>Āṉa</unclear>
+                    <milestone unit="block" n="b"/><unclear>p</unclear>ūti paṭṭālaka<choice><orig>n</orig><reg>ṉ</reg></choice> nakka<choice><orig>n</orig><reg>ṉ</reg></choice>-ōṭu vaḻakkā
                     <milestone unit="block" n="c"/><gap reason="lost" extent="unknown" unit="character"/>
                     
                     <lb n="4"/>
@@ -125,7 +125,7 @@
             <div type="bibliography">	
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/B/1907/139).</p>
-                <p>Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS 82); in <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl> (SII 23.1399).</p>
+                <p>Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS 82); in <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl> (<ref target="DHARMA_INSSIIv23p0i0139">SII 23.139</ref>).</p>
                 <p>This edition by Emmanuel Francis based on autopsy and photos.</p>
                 
                 <listBibl type="primary">
