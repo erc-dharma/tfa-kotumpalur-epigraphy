@@ -84,12 +84,12 @@
                     
                     <lb n="1"/>
                     <milestone unit="block" n="a"/>yu<unclear>m</unclear> t<supplied reason="lost">i</supplied>ru-k-kēṭṭai-k-kiḻattiyark
-                    <milestone unit="block" n="b" break="no"/>ku tiru-v-amitu Ora po<unclear>tu</unclear> <gap reason="lost" quantity="1" unit="character"/> <unclear>k</unclear>ku <unclear>n</unclear>icat<supplied reason="lost">i</supplied>
+                    <milestone unit="block" n="b" break="no"/>ku tiru-v-amitu Oru pō<unclear>tukku</unclear> <unclear>n</unclear>icat<supplied reason="lost">i</supplied>
                     <milestone unit="block" n="c"/><gap reason="lost" extent="unknown" unit="character"/>
                     
                     <lb n="2"/>
-                    <milestone unit="block" n="a"/>yāṉ iṭai Ā <gap reason="lost" quantity="1" unit="character"/> <g type="10">10</g> Āka Ā <gap reason="lost" quantity="1" unit="character"/> <num value="40">4 <g type="10">10</g></num> <gap reason="lost" quantity="2" unit="character" precision="low"/> 
-                    <milestone unit="block" n="b" break="no"/><unclear>O</unclear> l Arai <unclear>noṟṟuva</unclear>rk=kum ni                  
+                    <milestone unit="block" n="a"/>yāṉ iṭai <gap reason="lost" extent="unknown" unit="character"/> Āka <gap reason="lost" extent="unknown" unit="character"/> 
+                    <milestone unit="block" n="b" break="no"/>lē Arai <gap reason="lost" extent="unknown" unit="character"/> rk=kum ni                  
                     <milestone unit="block" n="c" break="no"/><gap reason="lost" extent="unknown" unit="character"/> 
                 </p> 
                 
@@ -113,4 +113,3 @@
         </body>
     </text>
 </TEI>
-<!--Rājarājacōḻa I-->

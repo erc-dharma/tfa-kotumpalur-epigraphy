@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Koṭumpāḷūr, Muccukuṇḍeśvara temple, no king (lost?), no year (lost?)</title>
+                <title>Koṭumpāḷūr, Muccukuṇḍeśvara temple, time of Sundara Pāṇḍya, no year</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -91,7 +91,14 @@
                 
             </div>
             
-            <div type="apparatus"/>
+            <div type="apparatus">
+                <listApp>
+                    <app loc="2">
+                        <lem>°<supplied reason="lost">p</supplied>āṇṭiya-tē</lem>
+                        <note><foreign>°<supplied reason="lost">p</supplied>āṇṭiya-tēvarkku</foreign> or <foreign>°<supplied reason="lost">p</supplied>āṇṭiya-tēvaṟku</foreign> was most probably intended.</note>
+                    </app>
+                </listApp>
+            </div>
             
             <div type="translation" resp="part:emfr"/>
             
@@ -109,4 +116,3 @@
         </body>
     </text>
 </TEI>
-<!--Rājarājacōḻa I-->
