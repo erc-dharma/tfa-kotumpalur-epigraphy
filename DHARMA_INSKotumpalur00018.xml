@@ -100,7 +100,7 @@
                 <listApp>
                 <app loc="6">
                 <lem>toṇṭa<choice><orig>n</orig><reg>n</reg></choice>āṉa</lem>
-                <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2013_01">koṇṭanāṉa</rdg>
+                <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2003_01">koṇṭanāṉa</rdg>
                 </app>                 
                 </listApp>
                 </div>
@@ -115,13 +115,13 @@
             
             <div type="bibliography">	                
                 
-                <p>Edited in <bibl><ptr target="bib:Pāskaraṉ+Irājēntiraṉ_2013_01"/></bibl> (<title>Āvaṇam</title> 14.9.2).</p>
+                <p>Edited in <bibl><ptr target="bib:Pāskaraṉ+Irājēntiraṉ_2003_01"/></bibl> (<title>Āvaṇam</title> 14.9.2).</p>
                 <p>This edition by Emmanuel Francis based on autopsy and photos.</p>
                 
                 <listBibl type="primary">   
                     
                     <bibl n="Āvaṇam">
-                        <ptr target="bib:Pāskaraṉ+Irājēntiraṉ_2013_01"/>
+                        <ptr target="bib:Pāskaraṉ+Irājēntiraṉ_2003_01"/>
                         <citedRange unit="page">15</citedRange>
                         <citedRange unit="item">9.2</citedRange>
                     </bibl>
