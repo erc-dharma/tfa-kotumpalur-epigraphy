@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Koṭumpāḷūr, Muccukuṇḍeśvara temple, time of Pa<supplied reason="lost">rakesarivaman Rājendra Cōḻa</supplied>, year lost</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>	
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSKotumpalur00037</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary></summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p></p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide"
+                key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib"
+                    matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part"
+                    matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-10-22" status="draft">Initial encoding of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                
+                <ab>
+                    <lb n="1"/>
+                    <milestone unit="block" n="a" type="gridlike"/>
+                    <hi rend="grantha">svasti śrī</hi>
+                </ab>
+                <p> 
+                    
+                    tirumaṉṉi vaḷara Iru-nila-maṭantai
+                    <milestone unit="block" n="b" type="gridlike" break="no"/>
+                    yum pōrceya[ṟ]pā
+                    <milestone unit="block" n="c" type="gridlike" break="no"/>
+                    vaiyum cir-t-taṉi-c-celviyum taṉ perun-tēviyār āki
+                    <milestone unit="block" n="d" type="gridlike"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    
+                    <lb n="2"/>
+                    <milestone unit="block" n="a" type="gridlike"/>
+                    vēlipaṭa vaṉavāciyum cuḷḷi-c cūḻ matiḷ-k ko
+                    <milestone unit="block" n="b" type="gridlike" break="no"/>
+                    ḷḷi-p-pākkaiyum naṇ
+                    <milestone unit="block" n="c" type="gridlike" break="no"/>
+                    ṇaṟkarumuraṇ maṇṇai-k-kaṭakkamum poru-kaṭal Īḻatt[u]
+                    <milestone unit="block" n="d" type="gridlike"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    
+                    <lb n="3"/>
+                    <milestone unit="block" n="a" type="gridlike"/>
+                    muṉṉavaṉ pakkal-t teṉṉavar vaitta cunta
+                    <milestone unit="block" n="b" type="gridlike" break="no"/>
+                    ra-muṭiyum Intiraṉ āramu{m}
+                    <milestone unit="block" n="c" type="gridlike"/>
+                    Īḻamaṇṭalamuḻutu mā-p-perun taṇṭāl koṇṭa kō-p-pa
+                    <milestone unit="block" n="d" type="gridlike" break="no"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    
+                    <lb n="4"/>
+                    <milestone unit="block" n="a" type="gridlike"/>
+                    koṭumpāḷūrt tirumutukuṉṟattu <hi rend="grantha">mahāde</hi>va
+                    <milestone unit="block" n="b" type="gridlike" break="no"/>
+                    rku Ivūr pāṇan viḻup
+                    <milestone unit="block" n="c" type="gridlike" break="no"/>
+                    pēraiyaṉ vikkirama-kēcariyāṉa Arumoḻitēva-c cāk *
+                    <milestone unit="block" n="d" type="gridlike"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    
+                    <lb n="5" break="no"/>
+                    <milestone unit="block" n="a" type="gridlike"/>
+                    tta ney [A]raip piṭikkum vaitta Āṭu Eḻu I
+                    <milestone unit="block" n="b" type="gridlike" break="no"/>
+                    vāṭēḻinālum vanta po
+                    <milestone unit="block" n="c" type="gridlike" break="no"/>
+                    ṉ kaḻañcu Ip-poṉṉil It-taḷi <hi rend="grantha">śi</hi>va-<hi rend="grantha">brāhma</hi>ṇan *
+                    <milestone unit="block" n="d" type="gridlike"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    
+                    <lb n="6" break="no"/>
+                    <milestone unit="block" n="a" type="gridlike"/>
+                    <hi rend="grantha">hma</hi>ṇan vi[r/c]an tiru-v-ālaṅ-kōyil [koṇ]ṭa po
+                    <milestone unit="block" n="b" type="gridlike" break="no"/>
+                    ṉ kāl It-taḷi <hi rend="grantha">śi</hi>va-<hi rend="grantha">br<supplied reason="lost">ā</supplied></hi>
+                    <milestone unit="block" n="c" type="gridlike" break="no"/>
+                    <hi rend="grantha">h<supplied reason="lost">ma</supplied></hi>ṇa<supplied reason="lost">n</supplied> vikkiramaṉ ma […] *
+                    <milestone unit="block" n="d" type="gridlike"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    
+                </p>
+                
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                
+                <app loc="0">
+                <lem></lem>
+                <rdg source="bib:..."></rdg>
+                </app>
+                
+                </listApp>
+                
+                </div>-->
+            
+            <div type="translation" resp="part:emfr">
+                <p n="1">
+                    Prosperity! Fortune! 
+                </p>
+                <p n="1-3">
+                    Sixth year of the lord, the glorious king <supplied reason="lost">Kulottuṅga</supplied> Cōḻa <hi rend="italic">alias</hi> <supplied reason="lost">Pa</supplied>rakesarivarman. 
+                </p>
+                <p n="3-6">
+                    ...
+                </p>
+            </div>
+            
+            <div type="commentary">
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <!--<p>Edited in <bibl><ptr target="bib:..."/></bibl> (Āvaṇam 15.10.9).</p>-->
+                <p>This edition by Emmanuel Francis based on autopsy and photos.</p>
+                
+                <!--<listBibl type="primary">
+                    <bibl n="Āvaṇam">
+                    <ptr target="bib:..."/>
+                    <citedRange unit="item">...</citedRange>
+                    <citedRange unit="page">...</citedRange>         
+                    </bibl>
+                    </listBibl>-->
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+
