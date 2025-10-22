@@ -85,11 +85,11 @@
                     <milestone unit="block" n="a" type="gridlike"/>
                     <hi rend="grantha">svasti śrī</hi>
                 </ab>
-                <p> 
-                    
+                
+                <p>
                     tirumaṉṉi vaḷara Iru-nila-maṭantai
                     <milestone unit="block" n="b" type="gridlike" break="no"/>
-                    yum pōrceya[ṟ]pā
+                    yum pōr-ceya[ṟ]-pā
                     <milestone unit="block" n="c" type="gridlike" break="no"/>
                     vaiyum cir-t-taṉi-c-celviyum taṉ perun-tēviyār āki
                     <milestone unit="block" n="d" type="gridlike"/>
@@ -111,27 +111,37 @@
                     <milestone unit="block" n="b" type="gridlike" break="no"/>
                     ra-muṭiyum Intiraṉ āramu{m}
                     <milestone unit="block" n="c" type="gridlike"/>
-                    Īḻamaṇṭalamuḻutu mā-p-perun taṇṭāl koṇṭa kō-p-pa
+                    Īḻamaṇṭalamuḻutu mā-p-perun taṇṭāl koṇṭa
+                </p>
+                <p>
+                    kō-p-pa
                     <milestone unit="block" n="d" type="gridlike" break="no"/>
                     <gap reason="lost" extent="unknown" unit="character"/>
-                    
+                </p>
+                <p>
                     <lb n="4"/>
                     <milestone unit="block" n="a" type="gridlike"/>
-                    koṭumpāḷūrt tirumutukuṉṟattu <hi rend="grantha">mahāde</hi>va
+                    koṭumpāḷūr-t tiru-mutu-kuṉṟattu <hi rend="grantha">mahā-de</hi>va
                     <milestone unit="block" n="b" type="gridlike" break="no"/>
-                    rku Ivūr pāṇan viḻup
+                    rku Iv-ūr pāṇan viḻup
                     <milestone unit="block" n="c" type="gridlike" break="no"/>
-                    pēraiyaṉ vikkirama-kēcariyāṉa Arumoḻitēva-c cāk *
+                    pēraiyaṉ vikkirama-kēcari-y-āṉa Aru-moḻi-tēva-c cāk *
                     <milestone unit="block" n="d" type="gridlike"/>
                     <gap reason="lost" extent="unknown" unit="character"/>
                     
                     <lb n="5" break="no"/>
                     <milestone unit="block" n="a" type="gridlike"/>
-                    tta ney [A]raip piṭikkum vaitta Āṭu Eḻu I
+                    tta ney [A]raip piṭikkum vaitta Āṭu Eḻu
+                </p>
+                <p>
+                    I
                     <milestone unit="block" n="b" type="gridlike" break="no"/>
-                    vāṭēḻinālum vanta po
+                    v-āṭ' ēḻinālum vanta po
                     <milestone unit="block" n="c" type="gridlike" break="no"/>
-                    ṉ kaḻañcu Ip-poṉṉil It-taḷi <hi rend="grantha">śi</hi>va-<hi rend="grantha">brāhma</hi>ṇan *
+                    ṉ kaḻañcu
+                </p>
+                <p>
+                    Ip-poṉṉil It-taḷi <hi rend="grantha">śi</hi>va-<hi rend="grantha">brāhma</hi>ṇan *
                     <milestone unit="block" n="d" type="gridlike"/>
                     <gap reason="lost" extent="unknown" unit="character"/>
                     
@@ -139,7 +149,10 @@
                     <milestone unit="block" n="a" type="gridlike"/>
                     <hi rend="grantha">hma</hi>ṇan vi[r/c]an tiru-v-ālaṅ-kōyil [koṇ]ṭa po
                     <milestone unit="block" n="b" type="gridlike" break="no"/>
-                    ṉ kāl It-taḷi <hi rend="grantha">śi</hi>va-<hi rend="grantha">br<supplied reason="lost">ā</supplied></hi>
+                    ṉ kāl
+                </p>
+                <p>
+                    It-taḷi <hi rend="grantha">śi</hi>va-<hi rend="grantha">br<supplied reason="lost">ā</supplied></hi>
                     <milestone unit="block" n="c" type="gridlike" break="no"/>
                     <hi rend="grantha">h<supplied reason="lost">ma</supplied></hi>ṇa<supplied reason="lost">n</supplied> vikkiramaṉ ma […] *
                     <milestone unit="block" n="d" type="gridlike"/>
@@ -166,10 +179,7 @@
                 <p n="1">
                     Prosperity! Fortune! 
                 </p>
-                <p n="1-3">
-                    Sixth year of the lord, the glorious king <supplied reason="lost">Kulottuṅga</supplied> Cōḻa <hi rend="italic">alias</hi> <supplied reason="lost">Pa</supplied>rakesarivarman. 
-                </p>
-                <p n="3-6">
+                <p n="1-6">                    
                     ...
                 </p>
             </div>
