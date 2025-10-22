@@ -82,48 +82,48 @@
                 
                 <ab>
                     <lb n="1"/>
-                    <milestone unit="block" n="a"/>
+                    <milestone unit="block" n="a" type="gridlike"/>
                     <hi rend="grantha">svasti śrī</hi>
                 </ab> 
                 
                 <p>
                     kāntaḷūr-c cālai kalam aṟuttu-k kaṅka-pāṭ<unclear>i</unclear>
-                    <milestone unit="block" n="b" break="no"/>
+                    <milestone unit="block" n="b" break="no" type="gridlike"/>
                     <supplied reason="lost">yum nu</supplied><unclear>ḷam</unclear>pa-pāṭiyum taṭikai-vaḻiyum koṇṭa kō-v-irā<hi rend="grantha">ja</hi>
-                    <milestone unit="block" n="c" break="no"/>
+                    <milestone unit="block" n="c" break="no" type="gridlike"/>
                     rā<hi rend="grantha">ja</hi>kēcari-paṉmarkku
                     <lb n="2"/>
-                    <milestone unit="block" n="a"/>
+                    <milestone unit="block" n="a" type="gridlike"/>
                     yāṇṭu <num value="14"><num value="14"><g type="numeral">10</g></num> <unclear>4</unclear></num>-Āvatu
                 </p> 
                 
                 <p>
                     Uṟattūr-k-kūṟṟattu-k koṭump
-                    <milestone unit="block" n="b" break="no"/>
+                    <milestone unit="block" n="b" break="no" type="gridlike"/>
                     <supplied reason="lost">āḷūr</supplied>-<unclear>t</unclear> tiru-v-ai<choice><orig>ṉ</orig><reg>n</reg></choice>-taḷi mahādevaṟku it-taḷi-t tēvaputtiraṉ
-                    <milestone unit="block" n="c" break="no"/>
+                    <milestone unit="block" n="c" break="no" type="gridlike"/>
                     māṟ kaṇṭaṉ kaṟṟaḷi O
                     <lb n="3" break="no"/>
-                    <milestone unit="block" n="a" break="no"/>ru no<choice><orig>ṉ</orig><reg>n</reg></choice>tā viḷakkukkku vaitta poṉ patiṉ<unclear>ā</unclear> kaḻañc<unclear>u</unclear>
+                    <milestone unit="block" n="a" break="no" type="gridlike"/>ru no<choice><orig>ṉ</orig><reg>n</reg></choice>tā viḷakkukkku vaitta poṉ patiṉ<unclear>ā</unclear> kaḻañc<unclear>u</unclear>
                 </p> 
                 
                 <p>
-                    <milestone unit="block" n="b"/>
+                    <milestone unit="block" n="b" type="gridlike"/>
                     <unclear>I</unclear>t-taḷi-t tiru-k-kōyil <gap reason="lost" quantity="10" unit="character" precision="low"/> <unclear>O</unclear>ṉ<unclear>pa</unclear>
-                    <milestone unit="block" n="c" break="no"/>
+                    <milestone unit="block" n="c" break="no" type="gridlike"/>
                     tiṉ kaḻañcu
                 </p> 
                 
                 <p>
                     <unclear>I</unclear>t-taḷi va<unclear>ṇ</unclear>
                     <lb n="4" break="no"/>
-                    <milestone unit="block" n="a" break="no"/>
+                    <milestone unit="block" n="a" break="no" type="gridlike"/>
                     ṇa<unclear>kka</unclear>ṉ koṇṭa po<unclear>ṉ</unclear> kaḻañcu<unclear>m Āka</unclear><supplied reason="lost">vum</supplied>
                 </p> 
                 
                 <p>                   
                     Itu paṉ<hi rend="grantha">mā</hi>
-                    <milestone unit="block" n="b" break="no"/>
+                    <milestone unit="block" n="b" break="no" type="gridlike"/>
                     <hi rend="grantha">heśvara</hi>r I<hi rend="grantha">rakṣai</hi>
                 </p>    
                 
