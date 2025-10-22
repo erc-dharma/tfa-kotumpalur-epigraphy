@@ -83,14 +83,14 @@
                 <p>
                     
                     <lb n="1"/>
-                    <milestone unit="block" n="a"/>yu<unclear>m</unclear> t<supplied reason="lost">i</supplied>ru-k-kēṭṭai-k-kiḻattiyark
-                    <milestone unit="block" n="b" break="no"/>ku tiru-v-amitu Oru pō<unclear>tukku</unclear> <unclear>n</unclear>icat<supplied reason="lost">i</supplied>
-                    <milestone unit="block" n="c"/><gap reason="lost" extent="unknown" unit="character"/>
+                    <milestone unit="block" n="a" type="gridlike"/>yu<unclear>m</unclear> t<supplied reason="lost">i</supplied>ru-k-kēṭṭai-k-kiḻattiyark
+                    <milestone unit="block" n="b" break="no" type="gridlike"/>ku tiru-v-amitu Oru pō<unclear>tukku</unclear> <unclear>n</unclear>icat<supplied reason="lost">i</supplied>
+                    <milestone unit="block" n="c" type="gridlike"/><gap reason="lost" extent="unknown" unit="character"/>
                     
                     <lb n="2"/>
-                    <milestone unit="block" n="a"/>yāṉ iṭai <gap reason="lost" extent="unknown" unit="character"/> Āka <gap reason="lost" extent="unknown" unit="character"/> 
-                    <milestone unit="block" n="b" break="no"/>lē Arai <gap reason="lost" extent="unknown" unit="character"/> rk=kum ni                  
-                    <milestone unit="block" n="c" break="no"/><gap reason="lost" extent="unknown" unit="character"/> 
+                    <milestone unit="block" n="a" type="gridlike"/>yāṉ iṭai <gap reason="lost" extent="unknown" unit="character"/> Āka <gap reason="lost" extent="unknown" unit="character"/> 
+                    <milestone unit="block" n="b" break="no" type="gridlike"/>lē Arai <gap reason="lost" extent="unknown" unit="character"/> rk=kum ni                  
+                    <milestone unit="block" n="c" break="no" type="gridlike"/><gap reason="lost" extent="unknown" unit="character"/> 
                 </p> 
                 
             </div>
