@@ -80,22 +80,24 @@
         <body>
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
-                <p>                    
+                <ab>                    
                     <milestone n="A" unit="zone" type="pagelike"/>
                     <lb n="1"/>
-                    <gap reason="lost" extent="unknown" unit="character"/>
-                    <supplied reason="lost">kō-p-pa</supplied><unclear>rakē</unclear>car<unclear>i</unclear>pa<hi rend="grantha">nma</hi>r-āṉa Uṭaiyār <hi rend="grantha">śrī</hi>
+                    <supplied reason="lost"><hi rend="grantha">svasti śrī</hi></supplied>
+                </ab>
+                <p> 
+                    <supplied reason="lost">kō-p-pa</supplied><unclear>ra-kē</unclear>car<unclear>i</unclear>pa<hi rend="grantha">nma</hi>r-āṉa Uṭaiyār <hi rend="grantha">śrī</hi>
                     <lb n="2"/>
-                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <supplied reason="lost">kulōttuṅka</supplied>
                     cōḻa-<hi rend="grantha">de</hi>varkku yāṇṭu Āṟ-āvatu
                 </p>
                 
                 <p>
                     <milestone n="B" unit="zone" type="pagelike"/>
                     <lb n="3"/>
-                    <unclear>m</unclear> Aṭaiyār <gap reason="lost" quantity="8" unit="character"/> koṭumpai Ālaṅ-kōyil <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" quantity="14" unit="character"/> tu-kuṉ‧
-                    <lb n="4"/>                    
-                    ṟaṭṭai-paṭi putuk·kit·tē canikaḻ· tak·kaṇāmūr·t·<unclear>t</unclear>i <supplied reason="lost">ti</supplied><unclear>ru</unclear>-māl ayaṉum<unclear>·</unclear> <unclear>vā</unclear> <gap reason="lost" quantity="16" unit="character"/> ttāṉ <g type="gomutraFinal">.</g>
+                    <unclear>m</unclear> Aṭaiyār <gap reason="lost" quantity="8" unit="character"/> koṭumpai Ālaṅ-kōyil <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" quantity="8" unit="character"/> <supplied reason="lost">tiru-mu</supplied>tu-kuṉ‧
+                    <lb n="4" break="no"/>                    
+                    ṟaṭṭai paṭi putuk·kit·tē canikaḻ· tak·kaṇāmūr·t·<unclear>t</unclear>i <supplied reason="lost">ti</supplied><unclear>ru</unclear>-māl ayaṉum<unclear>·</unclear> <unclear>vā</unclear><supplied reason="lost">cal iru-pālarum vai</supplied>ttāṉ <g type="gomutraFinal">.</g>
                 </p>
                 
             </div>
@@ -109,25 +111,50 @@
                         <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"></rdg>
                     </app>
                     
+                    <app loc="1">
+                        <lem><supplied reason="lost"><hi rend="grantha">svasti śrī</hi> kōppa</supplied><unclear>rakē</unclear>car<unclear>i</unclear>pa<hi rend="grantha">nma</hi>r-āṉa</lem>
+                        <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"><supplied reason="lost"><hi rend="grantha">svasti śrī</hi> kōp</supplied><unclear>parakē</unclear>car<unclear>i</unclear>pa<hi rend="grantha">nma</hi>r-āṉa</rdg>
+                    </app>
+                    
+                    <app loc="2">
+                        <lem><supplied reason="lost">kulōttuṅka</supplied>
+                            cōḻa-<hi rend="grantha">de</hi>varkku</lem>
+                        <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"><gap reason="lost" quantity="5" unit="character"/>ka
+                            cōḻa-<hi rend="grantha">de</hi>varkku</rdg>
+                    </app>
+                    
                     <app loc="3">
-                        <lem><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" quantity="14" unit="character"/> tukuṉ‧</lem>
+                        <lem><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" quantity="8" unit="character"/> <supplied reason="lost">tiru-mu</supplied>tukuṉ‧</lem>
                         <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02">ce Uṭaiyāṉ tiru <gap reason="lost" quantity="1" unit="character"/> tu kuḷ</rdg>
                     </app>
                     <app loc="4">
-                        <lem><unclear>vā</unclear> <gap reason="lost" quantity="16" unit="character"/> ttāṉ</lem>
+                        <lem><unclear>vā</unclear><supplied reason="lost">cal irupālarum vai</supplied>ttāṉ</lem>
                         <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02">vācalirupālarum <supplied reason="lost">v</supplied>aittāṉ</rdg>
+                        <note>Most of this phrase is not anymore legible in 2017.</note>
                     </app>
-                    <app loc="0">
-                        <lem></lem>
-                        <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"></rdg>
-                    </app>
+                    
                     
                     
                 </listApp>
             </div>
             
             <div type="translation" resp="part:emfr">
-                
+                <p n="1">
+                    Prosperity! Fortune! 
+                </p>
+                <p n="1-2">
+                    Sixth year of the lord, the glorious king <supplied reason="lost">Kulottuṅga</supplied> Cōḻa <hi rend="italic">alias</hi> <supplied reason="lost">Pa</supplied>rakesarivarman. 
+                </p>
+                <p n="3-4">
+                   ...
+                   having renovated
+                   ...
+                   he gave 
+                   a Dakṣiṇāmūrti <supplied reason="explanation"><foreign>takkaṇāmūrti</foreign></supplied>,
+                    a Tirumāl<note>That is, Viṣṇu.</note>,
+                    a Ayaṉ <note>That is, Brahmā.</note>,
+                    <supplied reason="lost">and two guardians of entrance</supplied>.
+                </p>
             </div>
             
             <div type="commentary">
