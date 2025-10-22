@@ -83,24 +83,24 @@
                 <p>
                     
                     <lb n="1"/>
-                    <milestone unit="block" n="a"/>Uṭaiyār <unclear>ma</unclear>tur
-                    <milestone unit="block" n="b" break="no"/>āntakaṉ cuntara-cōḻaṉ-āṉa
-                    <milestone unit="block" n="c"/><gap reason="lost" extent="unknown" unit="character"/>
+                    <milestone unit="block" n="a" type="gridlike"/>Uṭaiyār <unclear>ma</unclear>tur
+                    <milestone unit="block" n="b" break="no" type="gridlike"/>āntakaṉ cuntara-cōḻaṉ-āṉa
+                    <milestone unit="block" n="c" type="gridlike"/><gap reason="lost" extent="unknown" unit="character"/>
                     
                     <lb n="2"/>
-                    <milestone unit="block" n="a"/>vēḷattu-p peṇ
-                    <milestone unit="block" n="b" break="no"/>ṭāṭṭi kaḷḷicci Uttama-<unclear>c</unclear>
-                    <milestone unit="block" n="c" break="no"/>-<supplied reason="lost">cōḻa</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+                    <milestone unit="block" n="a" type="gridlike"/>vēḷattu-p peṇ
+                    <milestone unit="block" n="b" break="no" type="gridlike"/>ṭāṭṭi kaḷḷicci Uttama-<unclear>c</unclear>
+                    <milestone unit="block" n="c" break="no" type="gridlike"/>-<supplied reason="lost">cōḻa</supplied> <gap reason="lost" extent="unknown" unit="character"/>
                     
                     <lb n="3"/>
-                    <milestone unit="block" n="a"/>piṟantāṉ <unclear>Āṉa</unclear>
-                    <milestone unit="block" n="b"/><unclear>p</unclear>ūti paṭṭālaka<choice><orig>n</orig><reg>ṉ</reg></choice> nakka<choice><orig>n</orig><reg>ṉ</reg></choice>-ōṭu vaḻakkā
-                    <milestone unit="block" n="c"/><gap reason="lost" extent="unknown" unit="character"/>
+                    <milestone unit="block" n="a" type="gridlike"/>piṟantāṉ <unclear>Āṉa</unclear>
+                    <milestone unit="block" n="b" type="gridlike"/><unclear>p</unclear>ūti paṭṭālaka<choice><orig>n</orig><reg>ṉ</reg></choice> nakka<choice><orig>n</orig><reg>ṉ</reg></choice>-ōṭu vaḻakkā
+                    <milestone unit="block" n="c" type="gridlike"/><gap reason="lost" extent="unknown" unit="character"/>
                     
                     <lb n="4"/>
-                    <milestone unit="block" n="a"/>koṭumpāḷūr Iraṇ<unclear>ṭu</unclear> va<supplied reason="lost">k</supplied><unclear>ai</unclear>
-                    <milestone unit="block" n="b"/>k<unclear>o<!--kompu lost--></unclear>ttārum Iruntu Ārā<supplied reason="omitted">y</supplied>ntu Eṉṉai
-                    <milestone unit="block" n="c"/><gap reason="lost" extent="unknown" unit="character"/>                    
+                    <milestone unit="block" n="a" type="gridlike"/>koṭumpāḷūr Iraṇ<unclear>ṭu</unclear> va<supplied reason="lost">k</supplied><unclear>ai</unclear>
+                    <milestone unit="block" n="b" type="gridlike"/>k<unclear>o<!--kompu lost--></unclear>ttārum Iruntu Ārā<supplied reason="omitted">y</supplied>ntu Eṉṉai
+                    <milestone unit="block" n="c" type="gridlike"/><gap reason="lost" extent="unknown" unit="character"/>                    
                 </p> 
                 
             </div>
