@@ -86,10 +86,9 @@
                     <supplied reason="lost"><hi rend="grantha">svasti śrī</hi></supplied>
                 </ab>
                 <p> 
-                    <supplied reason="lost">kō-p-pa</supplied><unclear>ra-kē</unclear>car<unclear>i</unclear>pa<hi rend="grantha">nma</hi>r-āṉa Uṭaiyār <hi rend="grantha">śrī</hi>
+                    <supplied reason="lost">kō-p-pa</supplied><unclear>ra-kē</unclear>car<unclear>i</unclear>-pa<hi rend="grantha">nma</hi>r-āṉa Uṭaiyār <hi rend="grantha">śrī</hi>
                     <lb n="2"/>
-                    <supplied reason="lost">kulōttuṅka</supplied>
-                    cōḻa-<hi rend="grantha">de</hi>varkku yāṇṭu Āṟ-āvatu
+                    <supplied reason="lost">kulōttuṅka</supplied>-cōḻa-<hi rend="grantha">de</hi>varkku yāṇṭu Āṟ-āvatu
                 </p>
                 
                 <p>
@@ -112,15 +111,13 @@
                     </app>
                     
                     <app loc="1">
-                        <lem><supplied reason="lost"><hi rend="grantha">svasti śrī</hi> kōppa</supplied><unclear>rakē</unclear>car<unclear>i</unclear>pa<hi rend="grantha">nma</hi>r-āṉa</lem>
-                        <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"><supplied reason="lost"><hi rend="grantha">svasti śrī</hi> kōp</supplied><unclear>parakē</unclear>car<unclear>i</unclear>pa<hi rend="grantha">nma</hi>r-āṉa</rdg>
+                        <lem><supplied reason="lost"><hi rend="grantha">svasti śrī</hi> kōppa</supplied><unclear>rakē</unclear>car<unclear>i</unclear>pa<hi rend="grantha">nma</hi>rāṉa</lem>
+                        <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"><supplied reason="lost"><hi rend="grantha">svasti śrī</hi> kōp</supplied><unclear>parakē</unclear>car<unclear>i</unclear>pa<hi rend="grantha">nma</hi>rāṉa</rdg>
                     </app>
                     
                     <app loc="2">
-                        <lem><supplied reason="lost">kulōttuṅka</supplied>
-                            cōḻa-<hi rend="grantha">de</hi>varkku</lem>
-                        <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"><gap reason="lost" quantity="5" unit="character"/>ka
-                            cōḻa-<hi rend="grantha">de</hi>varkku</rdg>
+                        <lem><supplied reason="lost">kulōttuṅka</supplied>cōḻa<hi rend="grantha">de</hi>varkku</lem>
+                        <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"><gap reason="lost" quantity="5" unit="character"/>kacōḻa<hi rend="grantha">de</hi>varkku</rdg>
                     </app>
                     
                     <app loc="3">

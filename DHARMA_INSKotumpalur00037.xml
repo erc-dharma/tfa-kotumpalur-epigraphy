@@ -86,33 +86,35 @@
                     <hi rend="grantha">svasti śrī</hi>
                 </ab>
                 
-                <p>
-                    tirumaṉṉi vaḷara Iru-nila-maṭantai
-                    <milestone unit="block" n="b" type="gridlike" break="no"/>
-                    yum pōr-ceya[ṟ]-pā
-                    <milestone unit="block" n="c" type="gridlike" break="no"/>
-                    vaiyum cir-t-taṉi-c-celviyum taṉ perun-tēviyār āki
-                    <milestone unit="block" n="d" type="gridlike"/>
-                    <gap reason="lost" extent="unknown" unit="character"/>
-                    
-                    <lb n="2"/>
-                    <milestone unit="block" n="a" type="gridlike"/>
-                    vēlipaṭa vaṉa-vāciyum cuḷḷi-c cūḻ matiḷ-k ko
-                    <milestone unit="block" n="b" type="gridlike" break="no"/>
-                    ḷḷi-p-pākkaiyum naṇ
-                    <milestone unit="block" n="c" type="gridlike" break="no"/>
-                    ṇaṟk' aru-muraṇ maṇṇai-k-kaṭakkamum poru-kaṭal Īḻatt[u]
-                    <milestone unit="block" n="d" type="gridlike"/>
-                    <gap reason="lost" extent="unknown" unit="character"/>
-                    
-                    <lb n="3"/>
-                    <milestone unit="block" n="a" type="gridlike"/>
-                    muṉṉavaṉ pakkal-t teṉṉavar vaitta cun=ta
-                    <milestone unit="block" n="b" type="gridlike" break="no"/>
-                    ra-muṭiyum In=tiraṉ āramu<supplied reason="lost">m</supplied>
-                    <milestone unit="block" n="c" type="gridlike"/>
-                    Īḻa-maṇṭala-muḻutu mā-p-perun taṇṭāl koṇṭa
-                </p>
+                <lg>
+                    <l n="1">tirumaṉṉi vaḷara Iru-nila-maṭantai
+                        <milestone unit="block" n="b" type="gridlike" break="no"/>
+                        yum</l><l n="2">pōr-ceya<surplus>ṟ</surplus>-pā
+                            <milestone unit="block" n="c" type="gridlike" break="no"/>
+                            vaiyum c<choice><orig>i</orig><reg>ī</reg></choice>r-t-taṉi-c-celviyum</l><l n="3">taṉ perun-tēviyār āki
+                                <milestone unit="block" n="d" type="gridlike"/>
+                                <gap reason="lost" extent="unknown" unit="character"/></l>
+                    <l n="4"><gap reason="lost" extent="unknown" unit="character"/></l>
+                    <l n="5"><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="2"/>
+                        <milestone unit="block" n="a" type="gridlike"/>
+                        vēlipaṭa<supplied reason="omitted">r</supplied> vaṉa-vāciyum</l><l n="6">cuḷḷi-c cūḻ matiḷ-k ko
+                            <milestone unit="block" n="b" type="gridlike" break="no"/>
+                            ḷḷi-p-pākkaiyum</l><l n="7">naṇ
+                                <milestone unit="block" n="c" type="gridlike" break="no"/>
+                                ṇaṟk' aru-muraṇ maṇṇai-k-kaṭakkamum</l><l n="7">poru-kaṭal Īḻat<supplied reason="lost">t'</supplied>
+                                    <milestone unit="block" n="d" type="gridlike"/>
+                                    <gap reason="lost" extent="unknown" unit="character"/></l>
+                    <l n="8"><gap reason="lost" extent="unknown" unit="character"/></l>
+                    <l n="9"><gap reason="lost" extent="unknown" unit="character"/></l>
+                    <l n="10"><lb n="3"/>
+                        <milestone unit="block" n="a" type="gridlike"/>
+                        muṉṉavaṉ pakkal-t teṉṉavar vaitta</l><l n="11">cun=ta
+                            <milestone unit="block" n="b" type="gridlike" break="no"/>
+                            ra-muṭiyum In=tiraṉ āramu<supplied reason="lost">m</supplied></l>
+                    <l n="12"><milestone unit="block" n="c" type="gridlike"/></l>
+                    <l n="13">Īḻa-maṇṭala-muḻutu</l><l n="14">mā-p-perun taṇṭāl koṇṭa</l>                
+                </lg>
                 <p>
                     kō-p-pa
                     <milestone unit="block" n="d" type="gridlike" break="no"/>
@@ -125,13 +127,13 @@
                     <milestone unit="block" n="b" type="gridlike" break="no"/>
                     rku Iv-ūr pāṇan viḻup
                     <milestone unit="block" n="c" type="gridlike" break="no"/>
-                    pēraiyaṉ vikkirama-kēcari-y-āṉa Aru-moḻi-tēva-c cāk *
+                    pēraiyaṉ vikkirama-kēcari-y-āṉa Aru-moḻi-tēva-c-cāk<supplied reason="lost">k</supplied>ai <gap reason="lost" extent="unknown" unit="character"/>
                     <milestone unit="block" n="d" type="gridlike"/>
                     <gap reason="lost" extent="unknown" unit="character"/>
                     
                     <lb n="5" break="no"/>
                     <milestone unit="block" n="a" type="gridlike"/>
-                    tta ney [A]rai-p piṭikkum vaitta Āṭu Eḻu
+                    tta ney Arai-p piṭikkum vaitta Āṭu Eḻu
                 </p>
                 <p>
                     I
@@ -141,21 +143,21 @@
                     ṉ kaḻañcu
                 </p>
                 <p>
-                    Ip-poṉṉil It-taḷi <hi rend="grantha">śi</hi>va-<hi rend="grantha">brāhma</hi>ṇan *
+                    Ip-poṉṉil It-taḷi <hi rend="grantha">śi</hi>va-<hi rend="grantha">brāhma</hi>ṇan <gap reason="lost" extent="unknown" unit="character"/>
                     <milestone unit="block" n="d" type="gridlike"/>
                     <gap reason="lost" extent="unknown" unit="character"/>
                     <supplied reason="lost"><hi rend="grantha">bra</hi></supplied>
                     
                     <lb n="6" break="no"/>
                     <milestone unit="block" n="a" type="gridlike"/>
-                    <hi rend="grantha">hma</hi>ṇan vi[r/c]an tiru-v-ālaṅ-kōyil [koṇ]ṭa po
+                    <hi rend="grantha">hma</hi>ṇan vican= tiru-v-ālaṅ-kōyil <unclear>koṇ</unclear>ṭa po
                     <milestone unit="block" n="b" type="gridlike" break="no"/>
                     ṉ kāl
                 </p>
                 <p>
                     It-taḷi <hi rend="grantha">śi</hi>va-<hi rend="grantha">br<supplied reason="lost">ā</supplied></hi>
                     <milestone unit="block" n="c" type="gridlike" break="no"/>
-                    <hi rend="grantha">h<supplied reason="lost">ma</supplied></hi>ṇa<supplied reason="lost">n</supplied> vikkiramaṉ ma […] *
+                    <hi rend="grantha">h<supplied reason="lost">ma</supplied></hi>ṇa<supplied reason="lost">n</supplied> vikkiramaṉ ma <gap reason="lost" extent="unknown" unit="character"/>
                     <milestone unit="block" n="d" type="gridlike"/>
                     <gap reason="lost" extent="unknown" unit="character"/>
                     
@@ -163,18 +165,29 @@
                 
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
                 <listApp>
-                
-                <app loc="0">
-                <lem></lem>
-                <rdg source="bib:..."></rdg>
-                </app>
-                
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01"></rdg>
+                        <rdg source="bib:Francis2020_03"></rdg>
+                    </app>
+                    
+                    <app loc="3">
+                        <lem source="bib:Palaniappan2008_01">°cāk<supplied reason="lost">k</supplied>ai</lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">cā ...</rdg>                        
+                        <!--<rdg source="bib:Francis2020_03"></rdg>-->
+                        <note>See <ptr target="bib:Palaniappan2008_01"/> (p. 5 and fn. 13): <quote>Dr. C. Santhalingam of
+Tamil Nadu Department of Archaeology and I visited the site, Mucukuntēcuvarar temple, in 2007 and were
+able to read also ‘<foreign>k</foreign>’ and the symbol for ‘<foreign>ai</foreign>’ in ‘<foreign>kai</foreign>’ with the letter ‘<foreign>k</foreign>’ in ‘<foreign>kai</foreign>’ covered by recent repair
+work</quote>.</note>
+                    </app>
+                    
                 </listApp>
                 
-                </div>-->
+            </div>
             
             <div type="translation" resp="part:emfr">
                 <p n="1">
@@ -190,15 +203,15 @@
                 </p>
                 
                 <p n="4">
-                   ...  
+                    ...  
                 </p>
                 
                 <p n="4-5">
-                   ...  
+                    ...  
                 </p>
                 
                 <p n="5">
-                   ...  
+                    ...  
                 </p>
                 
                 <p n="5-6">  
@@ -216,13 +229,23 @@
                 <!--<p>Edited in <bibl><ptr target="bib:..."/></bibl> (Āvaṇam 15.10.9).</p>-->
                 <p>This edition by Emmanuel Francis based on autopsy and photos.</p>
                 
-                <!--<listBibl type="primary">
+                <listBibl type="primary">
                     <bibl n="Āvaṇam">
-                    <ptr target="bib:..."/>
-                    <citedRange unit="item">...</citedRange>
-                    <citedRange unit="page">...</citedRange>         
+                        <ptr target="bib:Pāskaraṉ+Irājēntiraṉ_2004_01"/>
+                        <citedRange unit="item">10.9</citedRange>
+                        <citedRange unit="page">39</citedRange>         
                     </bibl>
-                    </listBibl>-->
+                    <bibl n="F">
+                        <ptr target="bib:Francis2020_03"/>
+                        <citedRange unit="page">TBC</citedRange>         
+                    </bibl>
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <bibl n="P">
+                        <ptr target="bib:Palaniappan2008_01"/>     
+                    </bibl>
+                </listBibl>
                 
             </div>
         </body>
