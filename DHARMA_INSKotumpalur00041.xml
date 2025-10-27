@@ -86,26 +86,33 @@
                 </ab> 
                 
                 <p>
-                    kō-mārapaṉma<unclear>ṉ</unclear>-āṉa tiru-puvana-cakkaravattikaḷ <hi rend="grantha">śrī</hi>-kula-cēkara-tēvaṟku
+                    kō-māṟa-paṉma<unclear>ṉ</unclear>-āṉa tiru-puvana-cakkaravattikaḷ <hi rend="grantha">śrī</hi>-kula-cēkara-tēvaṟku
                     <lb n="2"/>yāṇṭu 5-vatu
                 </p>
                 <p>
                     kōṉāṭ-āṉa kaṭalaṭaiyāta Ilaṅkai-ko<supplied reason="lost">ṇ</supplied>ṭa-cō
                     <lb n="3" break="no"/>ḻa-vaḷaṉāṭṭu Uṟattūr-kūṟṟattu vaṭa-kōṉāṭṭu Uṭaiyār tiru-mutu
                     <lb n="4" break="no"/>-kuṉṟam uṭaiya ṉāyaṉār tiru-k-kōyil vicaiyapañcara<choice><orig>n</orig><reg>ṉ</reg></choice> tiru-maṭai-p-paḷ
-                   <lb n="5" break="no"/>ḷi mutu-col-kuṭiṉāṭṭu ṉāṭṭavar tanmam <g type="goutraFinal">.</g>
+                    <lb n="5" break="no"/>ḷi mutu-col-kuṭiṉāṭṭu ṉāṭṭavar tanmam <g type="gomutraFinal">.</g>
                 </p> 
                 
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 <listApp>
-                <app loc="1">
-                <lem/>
-                <note/>
-                </app>                 
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"></rdg>
+                        <rdg source="bib:SrinivasaRao1979_01"></rdg>
+                    </app>
+                    
+                    <app loc="1">
+                        <lem source="bib:SrinivasaRao1979_01">kōmāṟapaṉma<unclear>ṉ</unclear>āṉa</lem>
+                        <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02">komārapaṉmarrāṉa</rdg>
+                        <rdg source="bib:SrinivasaRao1979_01">komāṟapaṉmarāṉa</rdg>
+                    </app>   
                 </listApp>
-                </div>-->
+            </div>
             
             <div type="translation" resp="part:emfr">
                 
@@ -118,7 +125,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/B/1907/135).</p>
-                <p>Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS 536), in <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl> (SII 23.135).</p>
+                <p>Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS 536), in <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl> (<ref target="DHARMA_INSSIIv23p0i0135">SII 23.135</ref>).</p>
                 <p>This edition by Emmanuel Francis based on autopsy and photos.</p>
                 
                 <listBibl type="primary">
@@ -127,7 +134,7 @@
                         <citedRange unit="item">536</citedRange>
                         <citedRange unit="page">TBC</citedRange>         
                     </bibl>
-                     <bibl n="SII">
+                    <bibl n="SII">
                         <ptr target="bib:SrinivasaRao1979_01"/>
                         <citedRange unit="item">135</citedRange>
                         <citedRange unit="page">TBC</citedRange>         
