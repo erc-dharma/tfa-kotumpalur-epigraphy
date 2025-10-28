@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>Stone-inscription recording the donation of a pillar.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -106,7 +106,14 @@
                 </div>
             
             <div type="translation" resp="part:emfr">
-                
+                <p n="1">Prosperity! Fortune!</p>
+                <p n="1-8">
+                    He who had this stone<note>That is, the pillar on which the inscription is engraved.</note> made
+                    <supplied reason="subaudible">is</supplied>
+                    Muṭi Koṇṭa Pallavaraiyaṉ
+                    <hi rend="italic">alias</hi>
+                    Murukkaṉ Toṇṭaṉ, a <foreign>kaikkōlaṉ</foreign> from Koṭumpālur.
+                </p>
             </div>
             
             <div type="commentary">

@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>Stone inscription recording the donation of 50 goats. </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -82,56 +82,80 @@
                 
                 <ab>
                     <lb n="1"/>
-                    <milestone unit="block" n="a"/>
-                    <hi rend="grantha">svasti śrī</hi>
+                    <hi rend="grantha"><unclear>sva</unclear>sti śrī</hi>
                 </ab> 
                 
                 <p>
-                    <hi rend="grantha">tribhu</hi><supplied reason="omitted">va</supplied>na-c-cak<supplied reason="omitted">kara</supplied>-vattikaḷ <hi rend="grantha">śrī</hi>-kulōttuṅka-cō
-                    <milestone unit="block" n="b" break="no"/>
-                    ḻa-tēva<supplied reason="omitted">r</supplied>kku yāṇṭu kā
-                    <lb n="2" break="no"/> 
-                    <milestone unit="block" n="a" break="no"/>
+                    <hi rend="grantha">tribhu</hi><supplied reason="omitted">va</supplied>na-c-cak<supplied reason="omitted">kara</supplied>-vattikaḷ <hi rend="grantha">śrī</hi>-kulōttuṅka-cōḻa-tēva<supplied reason="omitted">r</supplied>kku yāṇṭu kā
+                    <lb n="2" break="no"/>
                     <gap reason="lost" quantity="4" unit="character"/>
                 </p>
                 <p>                    
-                    <supplied reason="lost">Iraṭṭapāṭi</supplied>-koṇṭa-cōḻa-vaḷanāṭṭu Uṟattūr-kū
-                    <milestone unit="block" n="b" break="no"/>
-                    ṟṟattu koṭumpāḷū<supplied reason="omitted">r</supplied> kai
-                    <lb n="3" break="no"/> 
-                    <milestone unit="block" n="a" break="no"/>
+                    <supplied reason="lost">Iraṭṭapāṭi</supplied>-koṇṭa-cōḻa-vaḷanāṭṭu Uṟattūr-kūṟṟattu koṭumpāḷū<supplied reason="omitted">r</supplied> kai
+                    <lb n="3" break="no"/>
                     <gap reason="lost" quantity="14" unit="character"/>
                     ḷ-<supplied reason="lost">u</supplied>ṭaiyāṉ-āṉa kōnāṭṭu pallavataraiyaṉ
-                    <milestone unit="block" n="b"/>
                     periya-kuḷattu kuḻumiyil paṭa
-                    <lb n="4"/> 
-                    <milestone unit="block" n="a"/>
+                    <lb n="4"/>
                     <gap reason="lost" quantity="20" unit="character"/>
                     ka viṭṭa Āṭu <num value="50">5 <g type="numeral">10</g></num>
                 </p>
                 <p>
-                    kuṉṟaṉ Āḷuṭai
-                    <milestone unit="block" n="b" break="no"/>
-                    yāṉ tammam
-                </p>
-                <p>
+                    kuṉṟaṉ Āḷuṭaiyāṉ ta<choice><orig>m</orig><reg>ṉ</reg></choice>mam
                     paṉ<hi rend="grantha">māheśva</hi>ra-ra
                     <lb n="5" break="no"/><supplied reason="lost"><hi rend="grantha">kṣai</hi></supplied>
                 </p> 
                 
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
+                
                 <listApp>
-                <app loc="1">
-                <lem/>
-                <note/>
-                </app>                 
+                    
+                    <app loc="1">
+                        <lem>yāṇṭu kā<lb n="2" break="no"/><gap reason="lost" quantity="4" unit="character"/><supplied reason="lost">Iraṭṭapāṭi</supplied></lem>
+                        <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02">yāṇ ko<lb n="2" break="no"/><gap reason="lost" quantity="5" unit="character"/></rdg>
+                        <note>Maybe read <foreign>yāṇṭu 1 ā<supplied reason="lost">vatu</supplied> <supplied reason="lost">Iraṭṭapāṭi</supplied></foreign></note>
+                    </app>    
+                    
+                    <app loc="3">
+                        <lem>ḷ<supplied reason="lost">u</supplied>ṭaiyāṉāṉa</lem>
+                        <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02">ḷaṭaiyāṉāṉa</rdg>
+                    </app>
+                    
+                    <app loc="4">
+                        <lem><gap reason="lost" quantity="1" unit="character"/>ka viṭṭa</lem>
+                        <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02">kkaviṭṭa</rdg>
+                    </app>
+                    
                 </listApp>
-                </div>-->
+                
+            </div>
+            
+            <div type="translation" source="bib:SrinivasaAiyar1946_01">
+                <p>
+                    Hail! Prosperity! In the ... ... ... ... year of Tribhuvanaccakravartikaḷ Śri
+                    Kulōttuṅga Cōla Dēvar: Whereas Kōnāṭṭu Pallavadaraiyan, also called
+                    Kai ... ... ... ... ... ... ... ... ḍaiyan, of Koḍumbāḷūṟ in the Uṟattūr Kūṟṟam of the
+                    K(aḍalaḍaiyādilaṅgaiko)ṇḍa cōḻavaḷanāḍu, perished in a strife<supplied reason="explanation"><foreign>kuḻumi</foreign></supplied> in Periyakuḷam, I, Kunṟan Āḷuḍaiyān, made this endowment of 50 sheep to keep
+                    alight a lamp on his behalf. May this be protected by the <foreign>Māhēśvara</foreign>s.                    
+                </p>
+            </div>
             
             <div type="translation" resp="part:emfr">
-                
+                <p n="1">Prosperity! Fortune!</p>
+                <p n="1-2"><gap reason="lost"/> year of the glorious king Kulottuṅga, the emperor of the three worlds.</p>
+                <p n="3-4">
+                    <supplied reason="subaudible">There are</supplied>
+                    50 goats that
+                    ...
+                    gave
+                    ...
+                    Pallavataraiyaṉ of Kōṉāṭu, alias the lord of <gap reason="lost"/>
+                    ...
+                    in Koṭumpāḷūr, in the Uṟattūrkūṟṟam, in the <supplied reason="lost">Iraṭṭapāṭi</supplied>koṇṭacōḻavaḷanāṭu.
+                </p>
+                <p n="4-5"><supplied reason="subaudible">This</supplied> pious donation <supplied reason="explanation"><foreign>tammam</foreign><note>Sanskrit <foreign>dharma</foreign>.</note></supplied> of the lord Kuṉṟaṉ <supplied reason="subaudible">is under the</supplied> protection of the <foreign>paṉmāheśvarar</foreign>s.</p>
             </div>
             
             <div type="commentary">
@@ -140,7 +164,7 @@
             
             <div type="bibliography">
                 
-                <p>Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS 233).</p>
+                <p>Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> and translated in <bibl><ptr target="bib:SrinivasaAiyar1946_01"/></bibl> (IPS 233).</p>
                 <p>This edition by Emmanuel Francis based on autopsy and photos.</p>
                 
                 <listBibl type="primary">
@@ -148,8 +172,13 @@
                         <ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/>
                         <citedRange unit="item">233</citedRange>
                         <citedRange unit="page">130</citedRange>         
-                    </bibl>
-                    
+                    </bibl>                    
+                
+                    <bibl>
+                        <ptr target="bib:SrinivasaAiyar1946_01"/>
+                        <citedRange unit="item">233</citedRange>
+                        <citedRange unit="page">201-202</citedRange>         
+                    </bibl>                    
                 </listBibl>
                 
             </div>
