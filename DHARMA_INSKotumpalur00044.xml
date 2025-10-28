@@ -89,11 +89,11 @@
                     Ik-kāl
                     <lb n="2"/>ceyvittā
                     <lb n="3" break="no"/>n koṭumpā
-                    <lb n="4" break="no"/>ḷūṟ kaikko
-                    <lb n="5" break="no"/>ḷan ceṭṭi kam
-                    <lb n="6" break="no"/>panān caṉanāta A
+                    <lb n="4" break="no"/>ḷūṟ kaikkō
+                    <lb n="5" break="no"/>ḷa<choice><orig>n</orig><reg>ṉ</reg></choice> ceṭṭi kam
+                    <lb n="6" break="no"/>pa<choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a caṉanāta A
                     <lb n="7" break="no"/>ṇukka-pallava
-                    <lb n="8" break="no"/>raiyan <g type="pc">.</g>
+                    <lb n="8" break="no"/>raiya<choice><orig>n</orig><reg>ṉ</reg></choice> <g type="pc">.</g>
                 </p>
                
             </div>
@@ -109,7 +109,14 @@
             </div>
             
             <div type="translation" resp="part:emfr">
-                
+                <p n="1">Fortune!</p>
+                <p n="1-8">
+                    He who had this stone<note>That is, the pillar on which the inscription is engraved.</note> made
+                    <supplied reason="subaudible">is</supplied>
+                    Cananāta<note>Sanskrit Jananātha.</note> Anukka Pallavaraiyaṉ,
+                    <hi rend="italic">alias</hi>
+                    Ceṭṭu Kampaṉ, a <foreign>kaikkōlaṉ</foreign> from Koṭumpālur.
+                </p>
             </div>
             
             <div type="commentary">
@@ -126,7 +133,7 @@
                     <bibl n="SII">
                         <ptr target="bib:SrinivasaRao1979_01"/>
                         <citedRange unit="item">137A</citedRange>
-                        <citedRange unit="page">TBC</citedRange>         
+                        <citedRange unit="page">110</citedRange>         
                     </bibl>      
                 </listBibl>
                 
