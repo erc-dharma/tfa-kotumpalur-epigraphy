@@ -84,13 +84,17 @@
                     <milestone n="a" unit="zone" type="pagelike"/>
                     <lb n="1"/>
                     <gap reason="lost"/>
-                    ṇṭalicura * * y-emmaṇṭalamuṅ koṇṭ-aruḷiya Ir<choice><sic>a</sic><corr>ā</corr></choice>cātirācaṉ rācaparamēcu<unclear>paraṉ</unclear>
+                    ṇ<unclear>ṭa</unclear>licura<unclear reason="eccentric_ductus">n</unclear> y-emmaṇṭalamuṅ koṇṭ-aruḷiya Ir<choice><sic>a</sic><corr>ā</corr></choice>cātirācaṉ rāca-paramēcu<unclear>paraṉ</unclear>
+                    <gap reason="lost"/>
                     <lb n="2"/>
                     <gap reason="lost"/>
-                    āmaN rāyaṟkku cellā niṉṟa cakāttam <num value="1454"><g type="numeral">1000</g> 4 <g type="numeral">100</g> 5 <g type="numeral">10</g> 4</num> mēl cellā niṉṟa
+                    <unclear>rā</unclear>maN rāyaṟkku cellā niṉṟa cakāttam <num value="1454"><g type="numeral">1000</g> 4 <g type="numeral">100</g> 5 <g type="numeral">10</g> 4</num> mēl cellā niṉṟa
+                    <gap reason="lost"/>
                     <lb n="3"/>
                     <gap reason="lost"/>
-                    Āṭi m<unclear>āta</unclear>ttu toru<unclear>ṅ</unclear> <gap reason="lost"/> <unclear>ṭ</unclear>ṭu koṭumpāḷūr nāyanār <unclear>tiru-mutu-kuṉṟaṉi</unclear>
+                    Āṭi m<unclear>āta</unclear>tt<unclear>u</unclear> toru<unclear>ṅ</unclear> <gap reason="lost" quantity="14" unit="character"/> <unclear>ṭ</unclear>ṭu koṭumpāḷūr nāyanār <unclear>tiru-mutu-kuṉṟaṉi</unclear>
+                    <gap reason="lost"/>
+                    
                     <milestone n="b" unit="zone" type="pagelike"/>
                     <lb n="4"/>nācciyār tamm-uṭaiya taṉmam-āka Ammacciyār
                     <lb n="5"/>vaṭivuṭai maṅkai vayakkal kulai 54 nilam
