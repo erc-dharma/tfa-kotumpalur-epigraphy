@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Koṭumpāḷūr, Muccukuṇḍeśvara temple, no king, no year</title>
+                <title>Koṭumpāḷūr, Muccukuṇḍeśvara temple, time of Parakesarivarman, year 14</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -20,7 +20,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSKotumpalur00044</idno>
+                <idno type="filename">DHARMA_INSKotumpalur00026</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Stone-inscription recording the donation of a pillar.</summary>
+                        <summary></summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -72,7 +72,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:emfr" when="2025-10-26" status="draft">Initial encoding of the file</change>
+            <change who="part:emfr" when="2025-10-29" status="draft">Initial encoding of the file</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -80,76 +80,80 @@
         <body>
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
+                <milestone n="A" unit="zone" type="pagelike"/>
                 <ab>
                     <lb n="1"/>
-                    <hi rend="grantha">śrī</hi>
+                    <hi rend="grantha">svasti śrī</hi>
                 </ab> 
-                
                 <p>
-                    Ik-kāl
-                    <lb n="2"/>ceyvittā
-                    <lb n="3" break="no"/>n koṭumpā
-                    <lb n="4" break="no"/>ḷūṟ kaikkō
-                    <lb n="5" break="no"/>ḷa<choice><orig>n</orig><reg>ṉ</reg></choice> ceṭṭi kam
-                    <lb n="6" break="no"/>pa<choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a caṉanāta A
-                    <lb n="7" break="no"/>ṇukka-pallava
-                    <lb n="8" break="no"/>raiya<choice><orig>n</orig><reg>ṉ</reg></choice> <g type="pc">.</g>
+                    kō-p-parakēcar<supplied reason="lost">i</supplied>‡-paṉmaṟku yāṇṭu pati<supplied reason="omitted">ṉ</supplied> nāl-āvatu 
+                </p>
+                <p>
+                    <lb n="2"/>Ivv-āṇ<unclear reason="eccentric_ductus">ṭu</unclear> Uṭai<supplied reason="lost">yā</supplied>r ma-<unclear>I</unclear>‡<supplied reason="lost">m</supplied><unclear>ā</unclear>laiya-Irukkuvēḷār paṇiyāl 
+                    <lb n="3"/><gap reason="lost" quantity="18" unit="character"/> I <gap reason="lost" quantity="4" unit="character"/> <unclear>ri</unclear>ya mārāyaṉ Er<unclear>i</unclear>ñca kaḷattūr
+                    <lb n="4"/><gap reason="lost" quantity="12" unit="character"/> mayi<unclear reason="eccentric_ductus">mā</unclear>lai <unclear>I</unclear>‡rukkuvēḷār <gap reason="lost" quantity="6" unit="character"/> kkēy koṭu<unclear>m</unclear> 
+                    
+                    <milestone n="B" unit="zone" type="pagelike" break="no"/>                    
+                    <lb n="5" break="no"/>pāḷūr tirup‡pūt<choice><sic>i</sic><corr>ī</corr></choice><hi rend="grantha">śva</hi>rattu <hi rend="grantha">śi</hi>va<hi rend="grantha">brāhma</hi>ṇan pārat‡tūyaṉ Ulappaṉ
+                    <lb n="6"/>v<choice><orig>i</orig><reg>ī</reg></choice>raṉ vantu nā‡ṉ koṭumpāḷūr-t tiru-mutu-kuṉṟattu <supplied reason="lost">t</supplied>ē‡varkku periya Uṭai
+                    <lb n="7" break="no"/>yār pēr tēvaṭi ca‡n=ta paṇi ceytu vārā niṉṟa Unakkum ti<unclear>ru Ai</unclear>‡n- taḷi <supplied reason="lost"><hi rend="grantha">śi</hi>va</supplied><hi rend="grantha">br</hi><supplied reason="lost"><hi rend="grantha">āhma</hi>ṇa</supplied>
+                    <lb n="8" break="no"/>n kavuciyaṉ vikkira‡maṉ maṅkalavaṉṉukku I-kōyil <unclear>pi</unclear>ritiṭṭai ce‡ytu Ivv-<unclear>i</unclear>ti varkum U<hi rend="grantha">da</hi>ka<unclear>m</unclear>
+                    <lb n="9" break="no"/>lup ceytu kal mēl veṭṭuvittu-k kuṭukka v-eṉṟu cempiyaṉ ‡ Ollaiyūr-nāṭ<unclear reason="eccentric_ductus">ṭu</unclear> muveṇ<supplied reason="lost">ṭa</supplied>
+                    <lb n="10" break="no"/>v<supplied reason="lost">ē</supplied>ḷāṉai 
+                    <lb n="11" break="no"/>-<unclear>t</unclear>taḷi ce
+                    <lb n="12" break="no"/><supplied reason="lost">y</supplied>tu Uṭai
+                    <lb n="13" break="no"/><gap reason="lost" quantity="4" unit="character"/> kki
+                    <lb n="14" break="no"/><gap reason="lost" quantity="10" unit="character"/>
+                    <lb n="15" break="no"/><gap reason="lost" quantity="1" unit="character"/><supplied reason="lost">i</supplied>laṅkō
+                    <lb n="16" break="no"/><supplied reason="lost">vē</supplied>ḷār iṭai
+                    
+                    <milestone n="C" unit="zone" type="pagelike" break="no"/>                    
+                    <lb n="17" break="no"/>kke ‡ <gap reason="lost"/>
+                    <lb n="18" break="no"/>ṭṭa ‡ <gap reason="lost"/>
+                    <lb n="19" break="no"/>kuṭu ‡ <gap reason="lost"/>
+
                 </p>
                 
             </div>
             
-            <div type="apparatus">
+            <!--<div type="apparatus">
                 <listApp>
                     <app loc="0">
                         <lem></lem>
-                        <rdg source="bib:SrinivasaRao1979_01"></rdg>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01"></rdg>
                     </app>
-                    
                 </listApp>
-            </div>
+            </div>-->
             
-            <div type="translation" resp="part:emfr">
-                <p n="1">Fortune!</p>
-                <p n="1-8">
-                    He who had this stone<note>That is, the pillar on which the inscription is engraved.</note> made
-                    <supplied reason="subaudible">is</supplied>
-                    Cananāta<note>Sanskrit Jananātha.</note> Anukka Pallavaraiyaṉ
-                    <hi rend="italic">alias</hi>
-                    Ceṭṭu Kampaṉ, a <foreign>kaikkōḷaṉ</foreign><note>A member of the caste of weavers.</note> from Koṭumpālur.
-                </p>
-            </div>
+            <div type="translation" resp="part:emfr"/>
             
             <div type="commentary">
-                 <p>For other pillars donated by others <foreign>kaikkōḷaṉ</foreign>s in the same temple see <ref target="DHARMA_INSKotumpalur00018"/> and <ref target="DHARMA_INSKotumpalur00045"/>.</p>
-                <p><ref target="DHARMA_INSKotumpalur00044"/> and <ref target="DHARMA_INSKotumpalur00045"/> have been copied as one entry in ARIE 1907-1908. <ref target="DHARMA_INSKotumpalur00044"/> has been later copied as a single entry in ARIE 1968-1969. It seems that we have two pillars, each with an inscription naming its donor.</p>                
+                <p n="17-19">These three lines are heavily damaged. It is not certain that they are part of our inscription, but it is probable.</p>
             </div>
             
-            <div type="bibliography">
+            <div type="bibliography">	
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/B/1907/137), in <bibl><ptr target="bib:ARIE1968-1969"/></bibl> (ARIE/1968-1969/B/1968-1969/295).</p>
-                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl> (<ref target="DHARMA_INSSIIv23p0i0137">SII 23.137A</ref>).</p>
-                <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl>.</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1968-1969/B/1968-1969/292).</p>
+                <p>Edited in <bibl><ptr target="bib:Pāskaraṉ+Irājēntiraṉ_2004_01"/></bibl> (<title>Āvaṇam</title> 15.1.3).</p>
+                <p>This edition by Emmanuel Francis based on autopsy and photos.</p>
                 
                 <listBibl type="primary">
-                    <bibl n="SII">
-                        <ptr target="bib:SrinivasaRao1979_01"/>
-                        <citedRange unit="item">137A</citedRange>
-                        <citedRange unit="page">110</citedRange>         
-                    </bibl>      
+                    
+                    <bibl n="Āvaṇam">
+                        <ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/>
+                        <citedRange unit="item">766</citedRange>
+                        <citedRange unit="page">TBC</citedRange>         
+                    </bibl>
+                    
                 </listBibl>
                 
-                <listBibl type="secondary">                    
-                    <bibl>
-                        <ptr target="bib:ARIE1907-1908"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="appendix">B/1907</citedRange>
-                        <citedRange unit="item">137</citedRange>
-                    </bibl>
-                    <bibl n="ARIE">
+                <listBibl type="secondary">
+                    
+                   <bibl>
                         <ptr target="bib:ARIE1968-1969"/>
-                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="page">54</citedRange>
                         <citedRange unit="appendix">B/1968-1969</citedRange>
-                        <citedRange unit="item">295</citedRange>
+                        <citedRange unit="item">292</citedRange>
                     </bibl>
                 </listBibl>
                 
@@ -157,4 +161,3 @@
         </body>
     </text>
 </TEI>
-
