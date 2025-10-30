@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Koṭumpāḷūr, Muccukuṇḍeśvara, time of Rākakesarivarman, year 21</title>
+                <title>Koṭumpāḷūr, Muccukuṇḍeśvara temple, time of Rājakesarivarman, year 21</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Donation for a pepetual lamp.</summary>
+                        <summary>Donation for a perpetual lamp.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -121,7 +121,7 @@
                 <p n="1">Prosperity! Fortune!</p>
                 <p n="1-2">21st year of the king Rājakesarivarman.</p>
                 <p n="2-7">
-                    In this year, for the Mahādeva of the Tiruppūtīśvaram<note><hi rend="italic">Pace</hi> <bibl><ptr target="bib:SrinivasaAiyar1941_01"/></bibl>, this is probably the present-day Mūvarkōyil founded by Bhūti Vikramakesarin. See <ref target="DHARMA_INSKotumpalur00001"/>.</note> of Koṭumpāḷūr in the Uṟattūrkkūṟṟam
+                    In this year, for the Mahādeva of the Tiruppūtīśvaram<note><hi rend="italic">Pace</hi> <bibl><ptr target="bib:SrinivasaAiyar1941_01"/></bibl>, this is probably the present-day Mūvarkōyil founded by Bhūti Vikramakesarin according to <ref target="DHARMA_INSKotumpalur00001"/>.</note> of Koṭumpāḷūr in the Uṟattūrkkūṟṟam
                     <gap reason="lost"/>
                     one perpetual lamp
                     <gap reason="lost"/>
