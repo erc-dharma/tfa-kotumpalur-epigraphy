@@ -226,7 +226,7 @@ work</quote>.</note>
             
             <div type="bibliography">
                 
-                <p>Edited in <bibl><ptr target="bib:Pāskaraṉ+Irājēntiraṉ_2004_01"/></bibl> (Āvaṇam 15.10.9). Edited and translated into French in <bibl><ptr target="bib:Francis2020_03"/></bibl>.</p>
+                <p>Edited in <bibl><ptr target="bib:Pāskaraṉ+Irājēntiraṉ_2004_01"/></bibl> (Āvaṇam 15.10.9). Edited and translated into French in <bibl><ptr target="bib:Francis2020_03"/></bibl> (pp. 51-53).</p>
                 <p>This revised edition by Emmanuel Francis based on autopsy and photos.</p>
                 
                 <listBibl type="primary">
@@ -236,8 +236,7 @@ work</quote>.</note>
                         <citedRange unit="page">39</citedRange>         
                     </bibl>
                     <bibl n="F">
-                        <ptr target="bib:Francis2020_03"/>
-                        <citedRange unit="page">TBC</citedRange>         
+                        <ptr target="bib:Francis2020_03"/>       
                     </bibl>
                 </listBibl>
                 

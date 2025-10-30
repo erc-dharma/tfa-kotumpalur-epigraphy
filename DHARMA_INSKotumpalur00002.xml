@@ -164,13 +164,13 @@
                     <bibl>
                         <ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_01"/>
                         <citedRange unit="item">104</citedRange>
-                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="page">11</citedRange>
                     </bibl>
                     
                     <bibl>
                         <ptr target="bib:SrinivasaAiyar1941_01"/>
-                        <citedRange unit="item">1044</citedRange>
-                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">104</citedRange>
+                        <citedRange unit="page">83</citedRange>
                     </bibl>
                     
                 </listBibl>

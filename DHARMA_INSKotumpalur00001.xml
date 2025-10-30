@@ -241,13 +241,13 @@
                     <bibl>
                         <ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_01"/>
                         <citedRange unit="item">14</citedRange>
-                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="page">2</citedRange>
                     </bibl>
                     
                     <bibl>
                         <ptr target="bib:SrinivasaAiyar1941_01"/>
                         <citedRange unit="item">14</citedRange>
-                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="page">15-18</citedRange>
                     </bibl>
                     
                 </listBibl>

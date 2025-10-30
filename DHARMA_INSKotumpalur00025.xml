@@ -135,7 +135,7 @@
                     <bibl n="IPS">
                         <ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/>
                         <citedRange unit="item">766</citedRange>
-                        <citedRange unit="page">TBC</citedRange>         
+                        <citedRange unit="page">532</citedRange>         
                     </bibl>
                     
                     <bibl n="SII">
@@ -150,7 +150,7 @@
                     
                     <bibl>
                         <ptr target="bib:ARIE1907-1908"/>
-                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="page">16</citedRange>
                         <citedRange unit="appendix">B/1907</citedRange>
                         <citedRange unit="item">134</citedRange>
                     </bibl>
