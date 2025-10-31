@@ -86,7 +86,7 @@
                 </ab> 
                 
                 <p>
-                    <lb n="2"/>Aiñṉ<unclear>ū</unclear>ṟṟuvar <hi rend="grantha">ra</hi>
+                    <lb n="2"/>Aiñ-ṉ<unclear>ū</unclear>ṟṟuvar <hi rend="grantha">ra</hi>
                     <lb n="3" break="no"/><hi rend="grantha">kṣai</hi>
                 </p>
                 <p>
@@ -102,6 +102,12 @@
                     <app loc="0">
                         <lem></lem>
                         <rdg source="bib:Irājēntiraṉ1991_01"></rdg>
+                    </app>
+                    
+                    <app loc="2">
+                        <lem>Aiñṉ<unclear>ū</unclear>ṟṟuvar</lem>
+                        <rdg source="bib:Irājēntiraṉ1991_01">Aiñṉūṟṟuvar</rdg>
+                        <note>Possibly <foreign>Aiñṉuṟṟuvar</foreign> to be emended to <foreign>Aiñṉūṟṟuvar</foreign>.</note>
                     </app>
                     
                     <app loc="4">
@@ -123,13 +129,13 @@
             </div>
             
             <div type="commentary">
-                
+                <p>Two emblems (a goad and seemingly a fourk) are engraved at the end of line 1, whereas, below the 4 lines, are engraved another series of emblems including an arrow, a bow, a scythe, surmounted by an object flanked by lamps, itself surmounted by an umbrella flanked by fly-whisks.</p>
             </div>
             
             <div type="bibliography">
                 
-                <p>Edited in <bibl><ptr target="bib:Irājēntiraṉ1991_01"/></bibl>.</p>
-                <p>This digital edition by Emmanuel Francis based on autopsy and photos.</p>
+                <p>Edited in <bibl><ptr target="bib:Irājēntiraṉ1991_01"/></bibl> (Āvaṇam 1.15.5).</p>
+                <p>This digital edition by Emmanuel Francis based on photos (N. Ramaswamy, 2017).</p>
                 
                 <listBibl type="primary">
                     <bibl n="Āvaṇam">
