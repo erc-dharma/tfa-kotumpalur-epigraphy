@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Mātarāppaṭṭi, no king, no year</title>
+                <title>Mātarāppaṭṭi, slab near the tank, no king, no year</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>Stone-slab inscription. Mentions the Miṉṉāmaḻai-Īśvara at Koṭumpāḷūr (possibly one of the three <foreign>vimāna</foreign>s of the present-day Mūvarkōyil) and the temple (<foreign>kōyil</foreign>) of Vīra Murukku Nāṅkai (probably Durgā/Koṟṟavai), both apparently objects of an installation by Acīti Paṇṭitar. Mentions a <foreign>kapālam</foreign> in connexion with Acīti Paṇṭitar, thus possibly a skull-bearer ascetic. Records the donation of a pillar (<foreign>tirunilai</foreign>) of the <foreign>maṇḍapa</foreign> built by another Paṇṭitar.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -91,9 +91,9 @@
                     <lb n="3" break="no"/>pā<supplied reason="omitted">ḷū</supplied>r m<unclear>i</unclear>ṉṉā
                     <lb n="4" break="no"/>maḻai-<hi rend="grantha">Īśvara</hi>
                     <lb n="5" break="no"/>mum kapālattu
-                    <lb n="6"/>Ēṟṟu peṟṟu Aci
-                    <lb n="7" break="no"/>ti paṇṭitar v<choice><orig>i</orig><reg>ī</reg></choice>
-                    <lb n="8" break="no"/>ra-muruk=ki naṅkai
+                    <lb n="6"/><choice><unclear>Ē</unclear><unclear>E</unclear></choice>ṟṟu peṟṟu Ac<choice><orig>i</orig><reg>ī</reg></choice>
+                    <lb n="7" break="no"/>ti-paṇṭitar v<choice><orig>i</orig><reg>ī</reg></choice>
+                    <lb n="8" break="no"/>ra-muruk=k<choice><orig>i</orig><reg>u</reg></choice>-naṅkai
                     <lb n="9"/>kōyil <hi rend="grantha">pridi</hi>⌈
                     <lb n="10" break="no"/><hi rend="grantha"><supplied reason="lost">ṣṭh</supplied>ai</hi> ceytu Ā <gap reason="lost" quantity="2" unit="character"/>
                     <lb n="11"/><gap reason="lost" quantity="2" unit="character"/> tinpu Araḷa
@@ -121,38 +121,38 @@
                     
                     <app loc="10">
                         <lem>Ā <gap reason="lost" quantity="2" unit="character"/>
-                    <lb n="11"/><gap reason="lost" quantity="2" unit="character"/> tinpu</lem>
+                            <lb n="11"/><gap reason="lost" quantity="2" unit="character"/> tinpu</lem>
                         <rdg source="bib:RajendranMelappanayur2016_01">Āṉa
-                    <lb n="11"/>tinpu</rdg>
+                            <lb n="11"/>tinpu</rdg>
                     </app>
                     
                     <app loc="11">
                         <lem>Araḷa
-                    <lb n="12"/><gap reason="lost" quantity="2" unit="character"/> r</lem>
+                            <lb n="12"/><gap reason="lost" quantity="2" unit="character"/> r</lem>
                         <rdg source="bib:RajendranMelappanayur2016_01">Araḷa
-                    <lb n="12" break="no"/>var</rdg>
+                            <lb n="12" break="no"/>var</rdg>
                     </app>
                     
                     <app loc="12">
                         <lem><hi rend="grantha">si</hi>ṅ
-                    <lb n="13"/><gap reason="lost" quantity="2" unit="character"/> paṇ<supplied reason="omitted">ṭi</supplied>tar</lem>
+                            <lb n="13"/><gap reason="lost" quantity="2" unit="character"/> paṇ<supplied reason="omitted">ṭi</supplied>tar</lem>
                         <rdg source="bib:RajendranMelappanayur2016_01"><hi rend="grantha">si</hi>ṅ
-                    <lb n="13"/>paṇ<supplied reason="omitted">ṭi</supplied>tar</rdg>
+                            <lb n="13"/>paṇ<supplied reason="omitted">ṭi</supplied>tar</rdg>
                         <note>Probably <hi rend="grantha">si</hi>ṅka-paṇ<supplied reason="omitted">ṭi</supplied>tar</note>
                     </app>
                     
                     <app loc="13">
                         <lem>E
-                    <lb n="14" break="no"/><unclear>ṭu</unclear>picca</lem>
+                            <lb n="14" break="no"/><unclear>ṭu</unclear>picca</lem>
                         <rdg source="bib:RajendranMelappanayur2016_01">E
-                    <lb n="14" break="no"/>ṭupicca</rdg>
+                            <lb n="14" break="no"/>ṭupicca</rdg>
                     </app>
                     
                     <app loc="14">
                         <lem>maṇṭa<supplied reason="omitted">pa</supplied>mu
-                    <lb n="15"/><gap reason="lost" quantity="2" unit="character"/> -t</lem>
+                            <lb n="15"/><gap reason="lost" quantity="2" unit="character"/> -t</lem>
                         <rdg source="bib:RajendranMelappanayur2016_01">maṇṭa<supplied reason="omitted">pa</supplied>mu
-                    <lb n="15" break="no"/>nt</rdg>
+                            <lb n="15" break="no"/>nt</rdg>
                     </app>
                     
                     <app loc="0">
@@ -164,7 +164,13 @@
             
             <div type="translation" resp="part:emfr">
                 <p n="1">Prosperity! Fortune!</p>
-                <p n="1-16"></p>
+                <p n="1-16">
+                    Having made an installation <supplied reason="explanation"><foreign>pridiṣṭhai</foreign><note>Sanskrit <foreign>pratiṣṭhai</foreign>.</note></supplied>
+                    <supplied reason="subaudible">in</supplied> the Miṉṉāmaḻai-Īśvara at Koṭumpāḷūr in <supplied reason="subaudible">the <foreign>kuṟram</foreign> of</supplied> Uṟattūr
+                    <supplied reason="subaudible">and in</supplied>
+                    the temple <supplied reason="explanation"><foreign>kōyil</foreign></supplied> of Vīra Murukki<note>That is, Murukku.</note> Nāṅkai
+                    ...
+                    a pillar <supplied reason="explanation"><foreign>tirunilai</foreign></supplied> of the <foreign>maṇḍapa</foreign> built by ... Paṇṭitar ...</p>
             </div>
             
             <div type="commentary">
@@ -173,12 +179,15 @@
             
             <div type="bibliography">
                 
-                <p>Edited (15 lines only) online in <bibl><ptr target="bib:RajendranMelappanayur2016_01"/></bibl> with visual documentation.</p>
-                <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:RajendranMelappanayur2016_01"/></bibl>.</p>
+                <p>Edited (15 lines only) online in <bibl><ptr target="bib:RajendranMelappanayur2016_01"/></bibl> and <bibl><ptr target="bib:RajendranMelappanayur2016_02"/></bibl> with visual documentation.</p>
+                <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:RajendranMelappanayur2016_01"/></bibl> and <bibl><ptr target="bib:RajendranMelappanayur2016_02"/></bibl>.</p>
                 
                 <listBibl type="primary">
                     <bibl n="RM">
                         <ptr target="bib:RajendranMelappanayur2016_01"/>
+                    </bibl>   
+                    <bibl>
+                        <ptr target="bib:RajendranMelappanayur2016_02"/>
                     </bibl>      
                 </listBibl>      
                 
