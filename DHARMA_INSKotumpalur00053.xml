@@ -111,32 +111,32 @@
                     
                     <app loc="0">
                         <lem></lem>
-                        <rdg source="bib:RajendranMelappanayur2016_01"></rdg>
+                        <rdg source="bib:Rajendran2016_01"></rdg>
                     </app>
                     
                     <app loc="6">
                         <lem>Ēṟṟu</lem>
-                        <rdg source="bib:RajendranMelappanayur2016_01">Ēṟṟup</rdg>
+                        <rdg source="bib:Rajendran2016_01">Ēṟṟup</rdg>
                     </app>
                     
                     <app loc="10">
                         <lem>Ā <gap reason="lost" quantity="2" unit="character"/>
                             <lb n="11"/><gap reason="lost" quantity="2" unit="character"/> tinpu</lem>
-                        <rdg source="bib:RajendranMelappanayur2016_01">Āṉa
+                        <rdg source="bib:Rajendran2016_01">Āṉa
                             <lb n="11"/>tinpu</rdg>
                     </app>
                     
                     <app loc="11">
                         <lem>Araḷa
                             <lb n="12"/><gap reason="lost" quantity="2" unit="character"/> r</lem>
-                        <rdg source="bib:RajendranMelappanayur2016_01">Araḷa
+                        <rdg source="bib:Rajendran2016_01">Araḷa
                             <lb n="12" break="no"/>var</rdg>
                     </app>
                     
                     <app loc="12">
                         <lem><hi rend="grantha">si</hi>ṅ
                             <lb n="13"/><gap reason="lost" quantity="2" unit="character"/> paṇ<supplied reason="omitted">ṭi</supplied>tar</lem>
-                        <rdg source="bib:RajendranMelappanayur2016_01"><hi rend="grantha">si</hi>ṅ
+                        <rdg source="bib:Rajendran2016_01"><hi rend="grantha">si</hi>ṅ
                             <lb n="13"/>paṇ<supplied reason="omitted">ṭi</supplied>tar</rdg>
                         <note>Probably <hi rend="grantha">si</hi>ṅka-paṇ<supplied reason="omitted">ṭi</supplied>tar</note>
                     </app>
@@ -144,20 +144,20 @@
                     <app loc="13">
                         <lem>E
                             <lb n="14" break="no"/><unclear>ṭu</unclear>picca</lem>
-                        <rdg source="bib:RajendranMelappanayur2016_01">E
+                        <rdg source="bib:Rajendran2016_01">E
                             <lb n="14" break="no"/>ṭupicca</rdg>
                     </app>
                     
                     <app loc="14">
                         <lem>maṇṭa<supplied reason="omitted">pa</supplied>mu
                             <lb n="15"/><gap reason="lost" quantity="2" unit="character"/> -t</lem>
-                        <rdg source="bib:RajendranMelappanayur2016_01">maṇṭa<supplied reason="omitted">pa</supplied>mu
+                        <rdg source="bib:Rajendran2016_01">maṇṭa<supplied reason="omitted">pa</supplied>mu
                             <lb n="15" break="no"/>nt</rdg>
                     </app>
                     
                     <app loc="0">
                         <lem></lem>
-                        <rdg source="bib:RajendranMelappanayur2016_01"></rdg>
+                        <rdg source="bib:Rajendran2016_01"></rdg>
                     </app>
                 </listApp>
             </div>
@@ -179,15 +179,15 @@
             
             <div type="bibliography">
                 
-                <p>Edited (15 lines only) online in <bibl><ptr target="bib:RajendranMelappanayur2016_01"/></bibl> and <bibl><ptr target="bib:RajendranMelappanayur2016_02"/></bibl> with visual documentation.</p>
-                <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:RajendranMelappanayur2016_01"/></bibl> and <bibl><ptr target="bib:RajendranMelappanayur2016_02"/></bibl>.</p>
+                <p>Edited (15 lines only) online in <bibl><ptr target="bib:Rajendran2016_01"/></bibl> and <bibl><ptr target="bib:Rajendran2016_02"/></bibl> with visual documentation.</p>
+                <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Rajendran2016_01"/></bibl> and <bibl><ptr target="bib:Rajendran2016_02"/></bibl>.</p>
                 
                 <listBibl type="primary">
                     <bibl n="RM">
-                        <ptr target="bib:RajendranMelappanayur2016_01"/>
+                        <ptr target="bib:Rajendran2016_01"/>
                     </bibl>   
                     <bibl>
-                        <ptr target="bib:RajendranMelappanayur2016_02"/>
+                        <ptr target="bib:Rajendran2016_02"/>
                     </bibl>      
                 </listBibl>      
                 
