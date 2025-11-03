@@ -99,13 +99,26 @@
                     ceral ‡ <gap reason="lost"/> Iṭa <gap reason="lost"/> cēraṉ kuḷam uḷḷiṭṭa kuḷa
                     
                     <milestone n="A" unit="zone" type="pagelike" break="no"/>
-                    <lb n="3" break="no"/>ttukku Ellai <supplied reason="lost">y-ā</supplied>va<supplied reason="lost">tu</supplied> ...
-                    <lb n="4" break="no"/><unclear>ru</unclear> vaḻikku teṟkum
+                    <lb n="3" break="no"/>ttukku Ellai <supplied reason="lost">y-ā</supplied>va<supplied reason="lost">tu</supplied>
+                    <list>
+                        <item>k<choice><orig><unclear>i</unclear></orig><reg>ī</reg></choice>ḻ-pā<supplied reason="lost">ṟ</supplied> <unclear>E</unclear><supplied reason="omitted">l</supplied>lai mēl-p<unclear>āṟ E</unclear><supplied reason="omitted">l</supplied><unclear>lai</unclear> <supplied reason="lost">ki</supplied>ḻa<unclear>k</unclear>ku mē<unclear>ṟku</unclear> <gap reason="lost" quantity="20" unit="character"/> ḻai-k kuḷattu ‡ <gap reason="lost" quantity="12" unit="character"/> ‡ <gap reason="lost" quantity="2" unit="character"/> kku vaṭak<supplied reason="lost">ku</supplied> <gap reason="lost" quantity="8" unit="character"/> <supplied reason="lost">po</supplied>yā-mēṭṭu<supplied reason="omitted">k</supplied>ku kiḻa<supplied reason="omitted">k</supplied>ku
+                        </item>
+                        <item>                                
+                            <supplied reason="lost">vaṭa</supplied>‡-pāṟ E‡<supplied reason="omitted">l</supplied>lai <gap reason="lost" quantity="4" unit="character"/> ⌈‡p<unclear>o<!--kāl clear--></unclear>yā-mēṭṭu<supplied reason="omitted">k</supplied>ku-p po <gap reason="lost" quantity="2" unit="character"/> ‡ <gap reason="lost" extent="unknown" unit="character"/>
+                            <lb n="4" break="no"/><unclear>ru</unclear> vaḻikku teṟkum
+                        </item>
+                    </list>
                 </p>
                 
                 <p>
-                    I<supplied reason="omitted">n</supplied>-nān<supplied reason="omitted">k</supplied>’ E<supplied reason="omitted">l</supplied>laikk’ uṭpaṭṭa nila<supplied reason="omitted">m</supplied> 
-                    ...
+                    I<supplied reason="omitted">n</supplied>-nān E<supplied reason="omitted">l</supplied>laikk’ uṭpaṭṭa nila<supplied reason="omitted">m</supplied>
+                    <unclear>I</unclear>ṟai-y <unclear>I</unclear>ḻi<unclear>c</unclear><supplied reason="lost">ci</supplied> pura-va<supplied reason="lost">ri cu</supplied>rukki kuṭi n<choice><orig><supplied reason="lost">i</supplied></orig><reg>ī</reg></choice><unclear>k</unclear><supplied reason="omitted">ki</supplied> tiru-nāmattu kā‡<supplied reason="lost">ṇi Āka</supplied> <gap reason="lost" quantity="7" unit="character"/> ‡ <gap reason="lost" quantity="14" unit="character"/>
+                </p>
+                <p>
+                    <supplied reason="lost">Ip</supplied><unclear>paṭi</unclear><supplied reason="omitted">k</supplied><unclear>ku</unclear> <gap reason="lost" quantity="4" unit="character"/> <unclear>cō</unclear>ḻa-<unclear>m</unclear><choice><orig><unclear>u</unclear></orig><reg>ū</reg></choice>vē‡n=t<choice><sic>ā</sic><corr>a</corr></choice>vēḷā<choice><orig>n</orig><reg>ṉ</reg></choice> ‡ Eḻu<supplied reason="omitted">t</supplied>tu
+                </p>
+                <p>
+                    panmākeśvara-Ila‡<supplied reason="lost"><hi rend="grantha">kṣai</hi></supplied>
                 </p> 
                 
             </div>
@@ -120,7 +133,35 @@
                 </listApp>
             </div>
             
-            <div type="translation" resp="part:emfr"/>
+            <div type="translation" resp="part:emfr">
+                <p n="1">Prosperity! Fortune!</p>
+                <p n="1">7th year of Vīra Cōḻa Irukkuvēl alias Kesarivarman.</p>
+                <p n="1-2">
+                    Whereas <gap reason="lost"/> Vēḷār made a petition stating that a <foreign>devadāna</foreign> should graciously be given for the expenses <supplied reason="explanation"><foreign>aḻivu</foreign></supplied>
+                    ...
+                    <unclear>there is</unclear>
+                    a <foreign>devadāna</foreign>.
+                </p>
+                <p n="2-4">
+                    The boundaries for the the pond
+                    ... are as follows:
+                    <list>
+                        <item>
+                            the eastern boundary is east of the western boundary ... north of ... east of ...
+                        </item>
+                        <item>
+                            the <supplied reason="lost">northern</supplied> boundary is south of ...
+                        </item>
+                    </list>
+                </p>
+                <p n="4">The land comprised within these four boundaries <supplied reason="lost">is</supplied> <gap reason="lost"/>.<note>The lacuna most probably consists in the measurements of the plot.</note></p>
+                
+                <p n="4">In this manner ... the signature of Cōḻamūvēntavēḷāṉ.</p>
+                
+                <p n="4"><supplied reason="subaudible">This is under the</supplied> protection of the Paṉmāheśvarars.</p>
+                
+                
+            </div>
             
             <div type="commentary"/>
             
@@ -154,8 +195,6 @@
                         <citedRange unit="appendix">B/1907</citedRange>
                         <citedRange unit="item">134</citedRange>
                     </bibl>
-                    
-                    
                     
                 </listBibl>
                 
