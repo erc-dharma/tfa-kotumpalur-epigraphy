@@ -89,7 +89,7 @@
                 </p>
                 <p>
                     koṭumpā‡<supplied reason="lost">ḷūr</supplied> tiru-mutu-kuṉṟam Uṭaiyarkku Iraṭṭa-<supplied reason="lost">pā</supplied>
-                    <lb n="2" break="no"/><unclear>ṭi</unclear>-koṇṭa-cōḻa-vaḷanāṭṭu Ollaiyūr-kūṟ‡ṟattu <num value="10">3 <g type="numeral">10</g></num> vāy maṅkalam <supplied reason="lost">n</supplied>āvi ‡ <unclear>cu</unclear>rukki Iṟaiyil<supplied reason="omitted">i</supplied> Iḻicci kuṭi n<choice><orig>i</orig><reg>ī</reg></choice>kki-t tē<supplied reason="lost">va</supplied>
+                    <lb n="2" break="no"/><unclear>ṭi</unclear>-koṇṭa-cōḻa-vaḷanāṭṭu Ollaiyūr-kūṟ‡ṟattu <num value="10">3 <g type="numeral">10</g></num> vāy maṅkalam <supplied reason="lost">pu</supplied>ravi<supplied reason="omitted">ṟ</supplied> ‡ <unclear>cu</unclear>rukki Iṟaiyil<supplied reason="omitted">i</supplied> Iḻicci kuṭi n<choice><orig>i</orig><reg>ī</reg></choice>kki-t tē<supplied reason="lost">va</supplied>
                     <lb n="3" break="no"/><unclear>r</unclear>tānañ c<choice><orig>e</orig><reg>ey</reg></choice>tu-k kuṭuttē<supplied reason="omitted">ṉ</supplied> mayimālai-Irukku<unclear>v</unclear>ē‡ḷ-ēṉ
                 </p>
                 <p>
@@ -117,8 +117,9 @@
                     </app> 
                     
                     <app loc="2">
-                        <lem><supplied reason="lost">n</supplied>āvi <unclear>cu</unclear>rukki</lem>
-                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">nāvi curukki</rdg>
+                        <lem><supplied reason="lost">pu</supplied>ravi<supplied reason="omitted">ṟ</supplied></lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">nāvi</rdg>
+                        <note>Compare <foreign>Iṟaiyil iḻiccip puravil curukki kuṭi nīṅkāt</foreign> (SII 34.337, ll. 11-12), <foreign>Iṟaiyili puravil curukki</foreign> (SII 34. 386, l. 15).</note>
                     </app>
                     
                     <app loc="2">
