@@ -145,7 +145,7 @@
                 
                 <lg n="8" met="gīti">                    
                     <l n="ab">tasy-ābhūtān devyau kaṟṟaḷi-vara-guṇa-samāhvaye satyau</l>
-                    <l n="cd"><lb n="B17"/> kaṟṟaḷir abhavaj jananī parān=tak-āditya-varmmaṇo kamra-kamrāṇāM</l>
+                    <l n="cd"><lb n="B17"/> kaṟṟaḷir abhavaj jananī parān=tak-āditya<del rend="other">varmmaṇo</del>-kamra-kamrāṇāM</l>
                 </lg>
                 
                 <lg n="9" met="anuṣṭubh">
@@ -187,6 +187,15 @@
                         <rdg source="bib:NilakanthaSastri1933_01"></rdg>
                         <rdg source="bib:SrinivasaRao1979_01"></rdg>
                     </app>
+                    
+                    <app loc="B17">
+                        <lem>parān=takāditya<del rend="other">varmmaṇo</del>kamrakamrāṇāM</lem>
+                        <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"></rdg>                        
+                        <rdg source="bib:NilakanthaSastri1933_01"></rdg>
+                        <rdg source="bib:SrinivasaRao1979_01"></rdg>
+                        <note>The letters <foreign>varmmaṇo</foreign> are "deleted", as noted by C. Schmid on the spot in 2015, by superscript small horizontal bars. The deletion of these three syllables make the verse metrically correct.</note>
+                    </app>
+                    
                 </listApp>
             </div>
             
