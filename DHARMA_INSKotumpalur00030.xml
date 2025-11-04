@@ -91,12 +91,13 @@
                 
                 <p>
                     Iraṭṭa-pāṭi-koṇṭa-cōḻa-vaḷanāṭṭ’ uṟattūr-kūṟṟattu koṭumpāḷūr tiru-mutu-kunṟattu <supplied reason="lost">ma</supplied><hi rend="grantha">hā-de</hi>varkku tiru-non=tā-viḷakk’ o<choice><orig>n</orig><reg>ṉ</reg></choice>ṟukku In-nāṭṭi <gap reason="lost" quantity="8" unit="character"/> tu vaṭat <gap reason="lost" quantity="16" unit="character"/>
-                    <lb n="2"/>ṭi me <gap reason="lost" quantity="3" unit="character"/> Ūrāḷi-nāta<choice><orig>n</orig><reg>ṉ</reg></choice> Ampala-k-kūtta<choice><orig>n</orig><reg>ṉ</reg></choice>-āṉa cōḻa-viccātira-p-peraiya<choice><orig>n</orig><reg>ṉ</reg></choice>-ēṉ E<choice><orig>n</orig><reg>ṉ</reg></choice> makaṉ ku<choice><orig>n</orig><reg>ṉ</reg></choice>ṟa<choice><orig>n</orig><reg>ṉ</reg></choice><unclear>uk</unclear>ku tanmam-āka-c can=tirātittar uḷḷavu <gap reason="lost" quantity="4" unit="character"/> k koṭumpāḷūr iṭ<hi rend="grantha">ai</hi>ya<choice><orig>n</orig><reg>ṉ</reg></choice> pirān=taka<choice><orig>n</orig><reg>ṉ</reg></choice> ku<choice><orig>n</orig><reg>ṉ</reg></choice>ṟa<choice><orig>n</orig><reg>ṉ</reg></choice>-āṉa pala-maṇṭala-k-kō<choice><orig>n</orig><reg>ṉ</reg></choice> vacam cāva m<choice><orig>u</orig><reg>ū</reg></choice>vā-p pē<supplied reason="lost">r āṭu</supplied>
+                    <lb n="2"/>ṭi me <gap reason="lost" quantity="3" unit="character"/> Ūrāḷi-nāta<choice><orig>n</orig><reg>ṉ</reg></choice> Ampala-k-kūtta<choice><orig>n</orig><reg>ṉ</reg></choice>-āṉa cōḻa-viccātira-p-peraiya<choice><orig>n</orig><reg>ṉ</reg></choice>-ēṉ E<choice><orig>n</orig><reg>ṉ</reg></choice> makaṉ ku<choice><orig>n</orig><reg>ṉ</reg></choice>ṟa<choice><orig>n</orig><reg>ṉ</reg></choice><unclear>uk</unclear>ku tanmam-āka-c can=tirātittar uḷḷavu <gap reason="lost" quantity="4" unit="character"/> k koṭumpāḷūr iṭ<hi rend="grantha">ai</hi>ya<choice><orig>n</orig><reg>ṉ</reg></choice> pirān=taka<choice><orig>n</orig><reg>ṉ</reg></choice> ku<choice><orig>n</orig><reg>ṉ</reg></choice>ṟa<choice><orig>n</orig><reg>ṉ</reg></choice>-āṉa pala-maṇṭala-k-kō<choice><orig>n</orig><reg>ṉ</reg></choice> vacam cāva m<choice><orig>u</orig><reg>ū</reg></choice>vā-p pē<supplied reason="lost">r-āṭu</supplied>
                 </p>
                 <p>                    
-                    <lb n="3"/>koṇ <gap reason="lost" quantity="8" unit="character"/> nittam uḻakku neyy aḷakka kaṭava<choice><orig>n</orig><reg>ṉ</reg></choice> <gap reason="lost" quantity="4" unit="character"/> Aṭi<unclear>t</unclear>ta v-āṭu nūṟu
+                    <lb n="3"/>koṇ <gap reason="lost" quantity="8" unit="character"/> nittam uḻakku neyy aḷakka kaṭava<choice><orig>n</orig><reg>ṉ</reg></choice>
                 </p>
-                <p>                        
+                <p>
+                    <gap reason="lost" quantity="4" unit="character"/> Aṭi<unclear>t</unclear>ta v-āṭu nūṟu
                     <hi rend="grantha">panmāheśvara-rakṣai</hi>
                 </p>
                 <p>
@@ -108,74 +109,74 @@
             
             <div type="apparatus">
                 
-               <listApp>
-                   
-                   <app loc="0">
-                       <lem></lem>
-                       <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01"></rdg>
-                   </app>
-                   
-                   <app loc="1">
-                       <lem><supplied reason="lost">ma</supplied><hi rend="grantha">hāde</hi>varkku</lem>
-                       <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">ma<hi rend="grantha">hā</hi>tēvarkku</rdg>
-                   </app>
-                   
-                   <app loc="1">
-                       <lem>viḷakko<choice><orig>n</orig><reg>ṉ</reg></choice>ṟukku</lem>
-                       <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">viḷakkoṉṟukku</rdg>
-                   </app>
-                   
-                   <app loc="1">
-                       <lem>Innāṭṭi <gap reason="lost" quantity="8" unit="character"/> tu vaṭat <gap reason="lost" quantity="16" unit="character"/></lem>
-                       <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">Innāṭṭi<unclear>l</unclear> vaṭata <gap reason="lost" quantity="2" unit="character"/> ru <gap reason="lost" quantity="3" unit="character"/></rdg>
-                   </app>
-                   
+                <listApp>
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01"></rdg>
+                    </app>
+                    
+                    <app loc="1">
+                        <lem><supplied reason="lost">ma</supplied><hi rend="grantha">hāde</hi>varkku</lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">ma<hi rend="grantha">hā</hi>tēvarkku</rdg>
+                    </app>
+                    
+                    <app loc="1">
+                        <lem>viḷakko<choice><orig>n</orig><reg>ṉ</reg></choice>ṟukku</lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">viḷakkoṉṟukku</rdg>
+                    </app>
+                    
+                    <app loc="1">
+                        <lem>Innāṭṭi <gap reason="lost" quantity="8" unit="character"/> tu vaṭat <gap reason="lost" quantity="16" unit="character"/></lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">Innāṭṭi<unclear>l</unclear> vaṭata <gap reason="lost" quantity="2" unit="character"/> ru <gap reason="lost" quantity="3" unit="character"/></rdg>
+                    </app>
+                    
                     <app loc="2">
-                       <lem>peraiyanēṉ</lem>
-                       <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">peraiyanēn</rdg>
-                   </app>
-                   
-                   <app loc="2">
-                       <lem>kunṟan<unclear>uk</unclear>ku</lem>
-                       <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">kunṟa<unclear>ṉukku</unclear></rdg>
-                   </app>
-                   
-                   <app loc="2">
-                       <lem>can=tirātittar uḷḷavu <gap reason="lost" quantity="4" unit="character"/> k</lem>
-                       <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">cantirātitta ruḷḷa<unclear>ḷa</unclear>vukku</rdg>
-                   </app>
-                   
-                   <app loc="2">
-                       <lem>pē<supplied reason="lost">r āṭu</supplied></lem>
-                       <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">pērāṭu</rdg>
-                   </app>
-                   
-                   <app loc="3">
-                       <lem>koṇ <gap reason="lost" quantity="8" unit="character"/> nittam uḻakku</lem>
-                       <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">koṇṭu nitta muḻakku</rdg>
-                   </app>
-                   
-                   <app loc="3">
-                       <lem>kaṭava<choice><orig>n</orig><reg>ṉ</reg></choice> <gap reason="lost" quantity="4" unit="character"/> Aṭi<unclear>t</unclear>ta</lem>
-                       <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">kaṭavanāka A<unclear>ṭ</unclear>ṭi<unclear>t</unclear>ta</rdg>
-                   </app>
-                   
-                   <app loc="3">
-                       <lem>nūṟu <hi rend="grantha">panmāheśvara-rakṣai</hi></lem>
-                       <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">nūṟuvu <hi rend="grantha">māhe</hi>cvarar raṭcai</rdg>
-                   </app>
-                   
-                   <app loc="3">
-                       <lem><gap reason="lost" quantity="4" unit="character"/> nūṟṟup</lem>
-                       <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01"><gap reason="lost" quantity="1" unit="character"/> tarā nūṟṟup</rdg>
-                   </app>
-                   
-                   <app loc="3">
-                       <lem>palattāl iṭṭa</lem>
-                       <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">palattāviṭṭa</rdg>
-                   </app>
-                   
-               </listApp>
+                        <lem>peraiyanēṉ</lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">peraiyanēn</rdg>
+                    </app>
+                    
+                    <app loc="2">
+                        <lem>kunṟan<unclear>uk</unclear>ku</lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">kunṟa<unclear>ṉukku</unclear></rdg>
+                    </app>
+                    
+                    <app loc="2">
+                        <lem>can=tirātittar uḷḷavu <gap reason="lost" quantity="4" unit="character"/> k</lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">cantirātitta ruḷḷa<unclear>ḷa</unclear>vukku</rdg>
+                    </app>
+                    
+                    <app loc="2">
+                        <lem>pē<supplied reason="lost">rāṭu</supplied></lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">pērāṭu</rdg>
+                    </app>
+                    
+                    <app loc="3">
+                        <lem>koṇ <gap reason="lost" quantity="8" unit="character"/> nittam uḻakku</lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">koṇṭu nitta muḻakku</rdg>
+                    </app>
+                    
+                    <app loc="3">
+                        <lem>kaṭava<choice><orig>n</orig><reg>ṉ</reg></choice> <gap reason="lost" quantity="4" unit="character"/> Aṭi<unclear>t</unclear>ta</lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">kaṭavanāka A<unclear>ṭ</unclear>ṭi<unclear>t</unclear>ta</rdg>
+                    </app>
+                    
+                    <app loc="3">
+                        <lem>nūṟu <hi rend="grantha">panmāheśvara-rakṣai</hi></lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">nūṟuvu <hi rend="grantha">māhe</hi>cvarar raṭcai</rdg>
+                    </app>
+                    
+                    <app loc="3">
+                        <lem><gap reason="lost" quantity="4" unit="character"/> nūṟṟup</lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01"><gap reason="lost" quantity="1" unit="character"/> tarā nūṟṟup</rdg>
+                    </app>
+                    
+                    <app loc="3">
+                        <lem>palattāl iṭṭa</lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">palattāviṭṭa</rdg>
+                    </app>
+                    
+                </listApp>
             </div>
             
             <div type="translation" resp="part:emfr">
@@ -185,22 +186,24 @@
                 
                 <p n="1-2">
                     For one perpetual lamp for the Mahādeva of Tirumutukuṉṟam in Koṭumpāḷūr in the Uṟattūrkūṟṟam in the Iraṭṭapāṭikoṇṭacōḻavaḷanāṭu
+                    I, Cōḻa Viccātira Peraiyaṉ <hi rend="italic">alias</hi> Ūrāḷinātaṉ Ampalakkūttaṉ from this <foreign>nāṭu</foreign>
                     <gap reason="ellipsis"/>
-                    I, Cōḻa Viccātira Peraiyaṉ <hi rend="italic">alias</hi> Ūrāḷinātaṉ Ampalakkūttaṉ,
-                    my son,
+                    <supplied reason="subaudible">and</supplied> my son,
+                    <supplied reason="lost">we have put</supplied>
+                    in the care of <supplied reason="explanation"><foreign>vacam</foreign></supplied> <supplied reason="explanation"><foreign>vacam</foreign></supplied> Palamaṇṭalakkōṉ <hi rend="italic">alias</hi>
+                    <gap reason="ellipsis"/>
+                    Pirāntakaṉ Kuṉṟaṉ,
+                    unaging and undying great goats
                     as a pious donation for Kuṉṟaṉ,<note>The one of the hill, that is, Śiva residing in Tirumutukuṉṟam.</note>
-                    as long as the moon and the sun,
-                    through <supplied reason="explanation"><foreign>vacam</foreign></supplied> Palamaṇṭalakkōṉ <hi rend="italic">alias</hi>
-                    <gap reason="ellipsis"/>
-                    Pirāntakaṉ Kuṉṟaṉ 
+                    for as long as the moon and the sun.
                 </p>
                 
-                <p n="3"></p>
+                <p n="3"><gap reason="ellipsis"/> he is appointed to perpetually measure one <foreign>uḻakku</foreign> of ghee.</p>
                 
-                <p n="3"></p>
+                <p n="3"><supplied reason="subaudible">These</supplied> goats <gap reason="ellipsis"/> <supplied reason="subaudible">are under the</supplied> protection of the Paṉmāheśvarars.</p>
                 
-                <p n="3"></p>                
-                    
+                <p n="3"><supplied reason="subaudible">There is</supplied> one lamp put <gap reason="ellipsis"/></p>                
+                
             </div>
             
             <div type="commentary"/>
