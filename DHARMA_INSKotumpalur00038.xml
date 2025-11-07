@@ -84,11 +84,19 @@
                     <lb n="01"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 
+                <p><lb n="1"/>kō-c-caṭaiya-<supplied reason="lost">paṉmar-āṉa tiri-puvaṉa</supplied>-<unclear>cakkara-vattikaḷ</unclear></p>
                 
+                <lg>
+                    <l n="1">koṅ<unclear>k’ ī</unclear><supplied reason="lost">ḻaṅ</supplied> <unclear>ko</unclear>ṇṭu koṭuvaṭuku koṭaḻittu-k</l> 
+                    <l n="2">ka<lb n="2" break="no"/><unclear>ṅkai vaṭa-karaiyum</unclear> kāviri<unclear>yuṅ</unclear> kai-y-<supplied reason="lost">k</supplied> koṇṭu</l>
+                    <l n="3">tiṅkaḷar vañceḻumalaṟtāṟto<lb n="3" break="no"/><supplied reason="lost">māṉ</supplied> . . . <unclear>poṅku</unclear></l>
+                    <l n="4"><unclear>punaṟ</unclear>caṭaiyo<supplied reason="lost">n</supplied> <unclear>tiru</unclear>-puliyūr v<choice><orig>i</orig><reg>ī</reg></choice>ṟṟ-iruntu</l>                
+                    <l n="5">v<choice><orig><unclear>i</unclear></orig><reg>ī</reg></choice>rar Abh<unclear>i</unclear><hi rend="grantha">ṣe</hi>kamum vi<hi rend="grantha">ja</hi><lb n="4" break="no"/><unclear>yar Api</unclear><hi rend="grantha"><unclear>ṣe</unclear></hi>kam<unclear>u</unclear>m</l>
+                </lg>
                 
-                <p>
-                    <lb n="1"/>...
-                </p>
+                <p><unclear>pa</unclear><supplied reason="lost">ṇ</supplied><unclear>ṇi</unclear>-y-aruḷiya <hi rend="grantha">śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice><supplied reason="lost">ra-p</supplied><unclear>ā</unclear>ṇṭiya-tēvaṟku yāṇṭu 10 7 vatu <hi rend="grantha">siṃha</hi>-nā<supplied reason="omitted">yaṟ</supplied>
+                    <lb n="5" break="no"/>ṟu pū<hi rend="grantha">rva</hi>-pa<hi rend="grantha">kṣa</hi>ttu <unclear>viyā</unclear>ḻa-k-kiḻamaiyum <hi rend="grantha">da</hi>cam<unclear>i</unclear>yum peṟṟa mūlattu <unclear>nā</unclear>ḷ</p>
+                
                 
             </div>
             
@@ -122,7 +130,7 @@
                         <citedRange unit="item">379</citedRange>
                         <citedRange unit="page">TBC</citedRange>         
                     </bibl>
-                                                            
+                    
                     <bibl n="SII">
                         <ptr target="bib:SrinivasaRao1979_01"/>
                         <citedRange unit="item">131</citedRange>
