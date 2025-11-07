@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>Stone-inscription (base of wall). Records the donation of goats for maintaining a perpetual lamp for Mahādeva of Tirumutukuṉṟam in Koṭumpāḷūr.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -91,13 +91,16 @@
                 
                 <p>
                     Iraṭṭa-pāṭi-koṇṭa-cōḻa-vaḷanāṭṭ’ uṟattūr-kūṟṟattu koṭumpāḷūr tiru-mutu-kunṟattu <supplied reason="lost">ma</supplied><hi rend="grantha">hā-de</hi>varkku tiru-non=tā-viḷakk’ o<choice><orig>n</orig><reg>ṉ</reg></choice>ṟukku In-nāṭṭi <gap reason="lost" quantity="8" unit="character"/> tu vaṭat <gap reason="lost" quantity="16" unit="character"/>
-                    <lb n="2"/>ṭi me <gap reason="lost" quantity="3" unit="character"/> Ūrāḷi-nāta<choice><orig>n</orig><reg>ṉ</reg></choice> Ampala-k-kūtta<choice><orig>n</orig><reg>ṉ</reg></choice>-āṉa cōḻa-viccātira-p-peraiya<choice><orig>n</orig><reg>ṉ</reg></choice>-ēṉ E<choice><orig>n</orig><reg>ṉ</reg></choice> makaṉ ku<choice><orig>n</orig><reg>ṉ</reg></choice>ṟa<choice><orig>n</orig><reg>ṉ</reg></choice><unclear>uk</unclear>ku tanmam-āka-c can=tirātittar uḷḷavu <gap reason="lost" quantity="4" unit="character"/> k koṭumpāḷūr iṭ<hi rend="grantha">ai</hi>ya<choice><orig>n</orig><reg>ṉ</reg></choice> pirān=taka<choice><orig>n</orig><reg>ṉ</reg></choice> ku<choice><orig>n</orig><reg>ṉ</reg></choice>ṟa<choice><orig>n</orig><reg>ṉ</reg></choice>-āṉa pala-maṇṭala-k-kō<choice><orig>n</orig><reg>ṉ</reg></choice> vacam cāva m<choice><orig>u</orig><reg>ū</reg></choice>vā-p pē<supplied reason="lost">r-āṭu</supplied>
+                    <lb n="2"/>ṭi me <gap reason="lost" quantity="3" unit="character"/> Ūrāḷi-nāta<choice><orig>n</orig><reg>ṉ</reg></choice> Ampala-k-kūtta<choice><orig>n</orig><reg>ṉ</reg></choice>-āṉa cōḻa-viccātira-p-pēraiya<choice><orig>n</orig><reg>ṉ</reg></choice>-ēṉ E<choice><orig>n</orig><reg>ṉ</reg></choice> makaṉ ku<choice><orig>n</orig><reg>ṉ</reg></choice>ṟa<choice><orig>n</orig><reg>ṉ</reg></choice><unclear>uk</unclear>ku tanmam-āka-c can=tirātittar uḷḷavu <gap reason="lost" quantity="4" unit="character"/> k koṭumpāḷūr iṭ<hi rend="grantha">ai</hi>ya<choice><orig>n</orig><reg>ṉ</reg></choice> pirān=taka<choice><orig>n</orig><reg>ṉ</reg></choice> ku<choice><orig>n</orig><reg>ṉ</reg></choice>ṟa<choice><orig>n</orig><reg>ṉ</reg></choice>-āṉa pala-maṇṭala-k-kō<choice><orig>n</orig><reg>ṉ</reg></choice> vacam cāva m<choice><orig>u</orig><reg>ū</reg></choice>vā-p pē<supplied reason="lost">r-āṭu</supplied>
+                    <lb n="3"/>koṇ <gap reason="lost" quantity="8" unit="character"/>
                 </p>
-                <p>                    
-                    <lb n="3"/>koṇ <gap reason="lost" quantity="8" unit="character"/> nittam uḻakku neyy aḷakka kaṭava<choice><orig>n</orig><reg>ṉ</reg></choice>
+                <p>
+                    nittam uḻakku neyy aḷakka kaṭava<choice><orig>n</orig><reg>ṉ</reg></choice>
                 </p>
                 <p>
                     <gap reason="lost" quantity="4" unit="character"/> Aṭi<unclear>t</unclear>ta v-āṭu nūṟu
+                </p>
+                <p>
                     <hi rend="grantha">panmāheśvara-rakṣai</hi>
                 </p>
                 <p>
@@ -184,13 +187,13 @@
                 
                 <p n="1">Sixth year of the king Vikkirama Cōḻa.</p>
                 
-                <p n="1-2">
+                <p n="1-3">
                     For one perpetual lamp for the Mahādeva of Tirumutukuṉṟam in Koṭumpāḷūr in the Uṟattūrkūṟṟam in the Iraṭṭapāṭikoṇṭacōḻavaḷanāṭu
-                    I, Cōḻa Viccātira Peraiyaṉ <hi rend="italic">alias</hi> Ūrāḷinātaṉ Ampalakkūttaṉ from this <foreign>nāṭu</foreign>
+                    I, Cōḻa Viccātira Pēraiyaṉ <hi rend="italic">alias</hi> Ūrāḷinātaṉ Ampalakkūttaṉ from this <foreign>nāṭu</foreign>
                     <gap reason="ellipsis"/>
                     <supplied reason="subaudible">and</supplied> my son,
                     <supplied reason="lost">we have put</supplied>
-                    in the care of <supplied reason="explanation"><foreign>vacam</foreign></supplied> <supplied reason="explanation"><foreign>vacam</foreign></supplied> Palamaṇṭalakkōṉ <hi rend="italic">alias</hi>
+                    in the care of <supplied reason="explanation"><foreign>vacam</foreign></supplied> Palamaṇṭalakkōṉ <hi rend="italic">alias</hi>
                     <gap reason="ellipsis"/>
                     Pirāntakaṉ Kuṉṟaṉ,
                     unaging and undying great goats
@@ -198,11 +201,15 @@
                     for as long as the moon and the sun.
                 </p>
                 
-                <p n="3"><gap reason="ellipsis"/> he is appointed to perpetually measure one <foreign>uḻakku</foreign> of ghee.</p>
+                <p n="3">He is appointed to perpetually measure one <foreign>uḻakku</foreign> of ghee.</p>
                 
-                <p n="3"><supplied reason="subaudible">These</supplied> goats <gap reason="ellipsis"/> <supplied reason="subaudible">are under the</supplied> protection of the Paṉmāheśvarars.</p>
+                <p n="3"><gap reason="ellipsis"/> one hundred goats.</p>
                 
-                <p n="3"><supplied reason="subaudible">There is</supplied> one lamp put <gap reason="ellipsis"/></p>                
+                <p n="3">
+                    <supplied reason="subaudible">This is under the</supplied> protection of the Paṉmāheśvarars.
+                </p>
+                
+                <p n="3"><supplied reason="subaudible">There is</supplied> one lamp put/given <gap reason="ellipsis"/></p>                
                 
             </div>
             
