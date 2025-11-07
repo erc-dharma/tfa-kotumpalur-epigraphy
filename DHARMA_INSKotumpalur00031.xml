@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Koṭumpāḷūr, Muccukuṇḍeśvara temple, time of Parakesarivarman, year <unclear>14</unclear></title>
+                <title>Koṭumpāḷūr, Muccukuṇḍeśvara temple, time of Parakesarivarman, year <supplied reason="lost">14</supplied></title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>Stone-inscription (base of wall, lower tier).</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
