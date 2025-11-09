@@ -110,18 +110,51 @@
                     <lb n="10" break="no"/>rattil-t tīṭṭu-p-paṭiyā<unclear>lum</unclear> Uḷvāri-p-paṭiyāḷum koṇṭa po<choice><orig>nn</orig><reg>ṉṉ</reg></choice>āy Iraṭṭitta po<choice><orig>n</orig><reg>ṉ</reg></choice>
                     <lb n="11"/><choice><orig>ṉ</orig><reg>n</reg></choice>ūṟṟu Oru-pati<choice><orig>n</orig><reg>ṉ</reg></choice> kaḻañcu cōḻiya<choice><orig>n</orig><reg>ṉ</reg></choice> kācu Aṟu-nūṟṟu Eḻupatiṉāl v<choice><orig>i</orig><reg>ī</reg></choice>ra-pāṇṭiya<choice><orig>n</orig><reg>ṉ</reg></choice> kācu vāci⌈
                     <lb n="12" break="no"/><unclear>peṟ</unclear>ṟi-kk kācu Āy<unclear>i</unclear>rattu Aimpatum ko<unclear>ṇ</unclear>ṭa ce 1 ṉāl ce 2 ṉāl kācukkum <num value="17"><g type="numeral">10</g> <unclear>7</unclear></num> vatu <supplied reason="lost">Āvaṉi</supplied> mātaṅ<surplus>k</surplus>
-                    <lb n="13" break="no"/>koṇ<unclear>ṭa</unclear> paṇam nūṟṟu Aimpatiṉāl kācu 10 1000 5 100 5 m poṉ nūṟṟu Orupati<choice><orig>n</orig><reg>ṉ</reg></choice> kaḻañcukkum ...
-                    
+                    <lb n="13" break="no"/>koṇ<unclear>ṭa</unclear> paṇam nūṟṟu Aimpatiṉāl kācu 10 1000 5 100 5 m poṉ nūṟṟu Orupati<choice><orig>n</orig><reg>ṉ</reg></choice> kaḻañcukkum kācu pa<choice><orig>n</orig><reg>ṉ</reg></choice>ṉirāyi
+                    <lb n="14" break="no"/>rattu Aiñ-nūṟṟu Aiñcukkum c<choice><orig>i</orig><reg>ī</reg></choice>-paṇṭārattukku Oṭukka Eṅkaḷukku <unclear>Uṟpa</unclear>tti Illāta paṭiyāl Eṅkaḷ kāṇi
+                    <lb n="15" break="no"/>yāṉa kuṭi-k-kāṭukaḷ-p <unclear>piḷḷaiyarāya</unclear>r kuṭikkāṭum vaiyyakattaraiyaṉ kuṭikkāṭum puliya<choice><orig>n</orig><reg>ṉ</reg></choice> vattarāya<choice><orig>n</orig><reg>ṉ</reg></choice>
+                    <lb n="16" break="no"/>kuṭikkāṭu Iraṇṭum <unclear>kanta</unclear>rāyan kuṭikkāṭum Āka-k <unclear>ku</unclear>ṭikkāṭu Aiñcum viṟpata<supplied reason="omitted">r</supplied>kk’ icaintu Ik-kuṭi-k kāṭukaḷi-
+                    <lb n="17" break="no"/>l <unclear>kanta</unclear>rāya<choice><orig>n</orig><reg>ṉ</reg></choice> <unclear>kuṭi-k-kāṭ</unclear><supplied reason="lost">ṭukku pe</supplied>ru-n<unclear>āṅk’ ellai</unclear> y-āvatu
                 </p>
             </div>
             
             <div type="apparatus">
                 <listApp>
                     <app loc="0">
-                        <lem/>
-                        <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/>
-                        <rdg source="bib:SrinivasaRao1979_01"/>
+                        <lem></lem>
+                        <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"></rdg>
+                        <rdg source="bib:SrinivasaRao1979_01"></rdg>
                     </app>
+                    
+                    <app loc="11">
+                        <lem>kaḻañcu cōḻiya<choice><orig>n</orig><reg>ṉ</reg></choice> kācu</lem>
+                        <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02">kaḻapacoḻiyan kācu</rdg>
+                        <rdg source="bib:SrinivasaRao1979_01">paḻañcoḻiyankācu</rdg>
+                    </app>
+                    
+                    <app loc="12">
+                        <lem source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02">ce 1 ṉāl ce 2 ṉāl</lem>
+                        <rdg source="bib:SrinivasaRao1979_01">ceraṉāl cevaṉāl (?)</rdg>
+                    </app>
+                    
+                    <app loc="14">
+                        <lem><unclear>Uṟpa</unclear>tti</lem>
+                        <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"><hi rend="grantha">ha</hi>tti</rdg>
+                        <rdg source="bib:SrinivasaRao1979_01"><hi rend="grantha"><unclear>ha</unclear></hi>tti</rdg>
+                    </app>
+                    
+                    <app loc="15">
+                        <lem>kuṭikkāṭukaḷp <unclear>piḷḷaiyarāya</unclear>r</lem>
+                        <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02">kuṭikkāṭu kiḷippiḷḷaiyarāyar</rdg>
+                        <rdg source="bib:SrinivasaRao1979_01">kuṭikkāṭukaḷ pāṇṭiyarāyar</rdg>
+                    </app>
+                    
+                    <app loc="16">
+                        <lem>viṟpata<supplied reason="omitted">r</supplied>kkicaintu</lem>
+                        <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02">viṟpata<supplied reason="omitted">ṟ</supplied>kkicaintu</rdg>
+                        <rdg source="bib:SrinivasaRao1979_01">viṟpataṟkicaintu</rdg>
+                    </app>
+                    
                 </listApp>
             </div>
             
@@ -143,6 +176,9 @@
                     have given/made a donation.
                 </p>
                 
+                <p n="9-17">
+                    ...
+                </p>
             </div>
             
             <div type="commentary">
@@ -160,13 +196,13 @@
                     <bibl n="IPS">
                         <ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/>
                         <citedRange unit="item">379</citedRange>
-                        <citedRange unit="page">TBC</citedRange>         
+                        <citedRange unit="page">255-257</citedRange>         
                     </bibl>
                     
                     <bibl n="SII">
                         <ptr target="bib:SrinivasaRao1979_01"/>
                         <citedRange unit="item">131</citedRange>
-                        <citedRange unit="page">TBC</citedRange>         
+                        <citedRange unit="page">104-105</citedRange>         
                     </bibl>          
                     
                 </listBibl>
