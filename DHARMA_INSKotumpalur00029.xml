@@ -153,10 +153,10 @@
                     
                     <app loc="5">
                         <lem>nilam <gap reason="lost" quantity="6" unit="character"/>
-                    c co paṭi</lem>
+                            c co paṭi</lem>
                         <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">nilam nālumā cerupaṭi</rdg>
                     </app>                    
-                      
+                    
                     <app loc="5">
                         <lem>puraviṟ curukki kuṭi n<choice><orig>i</orig><reg>ī</reg></choice>kki</lem>
                         <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">pura viṟaṉi nīkki kuṭinīṅka</rdg>
@@ -206,7 +206,10 @@
                 
             </div>
             
-            <div type="commentary"/>
+            <div type="commentary">
+                <p>The same individuals (Mayiṉmālai Irukkaivēḷār, Mūvēntavēḷāṉ of Ollaiyūrnāṭu) appear also in a similar transaction in <ref target="DHARMA_INSKotumpalur00031"/>.</p>
+                
+            </div>
             
             <div type="bibliography">	
                 

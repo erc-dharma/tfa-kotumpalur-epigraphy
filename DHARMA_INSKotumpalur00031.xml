@@ -81,25 +81,122 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/>...
+                    <lb n="1"/>
+                    <milestone n="A" unit="zone" type="pagelike"/>
+                    kō-p-para-kēcari-paṉmaṟku yāṇṭu <unclear>pa</unclear><supplied reason="lost">tiṉālāvatu</supplied>
+                </p>
+                
+                <p>
+                    <supplied reason="lost">Ivv-āṇṭu</supplied> <supplied reason="lost">ma</supplied><unclear>yi</unclear>ṉmālai Irukkaivēḷar paṇi<unclear>y</unclear><supplied reason="lost">āl</supplied> <supplied reason="omitted">tēva</supplied><unclear>ka</unclear>ṉmikaḷōm perumāḷ <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" quantity="9" unit="character"/> kaḷattū<supplied reason="omitted">r</supplied> Irukka Uṭaiyā<unclear>r</unclear> mayimālai Irukkaivēḷar <gap reason="lost" quantity="4" unit="character"/> <supplied reason="lost">cenma-nakka<choice><orig>n</orig><reg>ṉ</reg></choice> tēcikar-āṉa</supplied>-p paṟṟa Itukku-p pirāyacittam ā
+                    <lb n="3" break="no"/>ka <supplied reason="lost">Ollaiyūr</supplied>-nā<supplied reason="lost">ṭ</supplied>ṭu <unclear>m</unclear><choice><orig><unclear>u</unclear></orig><reg>ū</reg></choice>vē<choice><orig>ṉ</orig><reg>n</reg></choice>tavēḷāṉai Aḻaittu nā<unclear>ya</unclear>ṉāṟku tēvatānam-āka nilañ col Eṉṟa Iṭattu vi<supplied reason="lost">ṇṉa</supplied>ppa <supplied reason="lost">paṇṇa-p peṟṟu kuṭikki</supplied>
+                    <lb n="4"/><unclear>E</unclear> Uṇṭ’ eṉṟu viṇṇa<supplied reason="omitted">p</supplied>pañ ce<supplied reason="omitted">y</supplied>ya Uṭaiyar  <unclear>ti</unclear>ru-mutu-kuṉṟam-uṭaiya ma<hi rend="grantha">hā</hi>-tēvaṟk<unclear>u</unclear> tiruv<choice><sic>a</sic><corr>o</corr></choice>ttayām cantiku Arici pa<unclear>ta</unclear>k<supplied reason="lost">ku</supplied> kaṟi-y-amutu tayir-amutu mi<supplied reason="lost">ḷa</supplied><unclear>k’ a</unclear>mutu
+                    <lb n="5"/> tiru-viḷakk’ <supplied reason="omitted">eṇṇey</supplied> Uṭpata tēvata<choice><orig>n</orig><reg>ṉ</reg></choice>a<supplied reason="omitted">m</supplied> <supplied reason="omitted">kaṇṭu  naṭuniravi Ēra</supplied>mpaḷḷam puraviṟ curukki Iṟaiyilil iḻicci kuṭi n<choice><orig>i</orig><reg>ī</reg></choice>kki  tēvatā<choice><orig>n</orig><reg>ṉ</reg></choice>añ ceytu kuṭu<supplied reason="lost">t</supplied>
+                    
+                    <lb n="6"/><milestone n="B" unit="zone" type="pagelike"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                </p>
+                <p>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    cōḻa <gap reason="lost" extent="unknown" unit="character"/> kku <gap reason="lost" extent="unknown" unit="character"/> <unclear>ḷa</unclear>ttu <gap reason="lost" extent="unknown" unit="character"/> kku 
+                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> ṭa-pārkku <supplied reason="lost">Ellai kī</supplied><unclear>ḻa</unclear>-k-kuṭi Ellai<unclear>kku</unclear> <supplied reason="lost">teṟku</supplied> ku<supplied reason="lost">ṭu</supplied>tēṉ mayiṉmālai Irukkaivēḷār paṇiyāl Ollaiyūr nāṭṭu m<choice><orig>u</orig><reg>ū</reg></choice>vēntavēḷaṉ-ēṉ
+                </p>
+                <p>
+                    paṉmā<hi rend="grantha">he</hi> <gap reason="lost" extent="unknown" unit="character"/>
                 </p>
                 
             </div>
             
             <div type="apparatus">
-                
+                <!--Complete with variant readings from Āvaṇam-->
+                <listApp>
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01"></rdg>
+                    </app>
+                    
+                    <app loc="2">
+                        <lem>paṟṟa</lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">paṭṭa</rdg>
+                    </app>
+                    
+                    <app loc="4">
+                        <lem>pa<unclear>ta</unclear>k<supplied reason="lost">ku</supplied> kaṟiyamutu</lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">patakkukku mamutu</rdg>
+                    </app>
+                    
+                    <app loc="5">
+                        <lem>tēvatānañ</lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">tēvatāṉan</rdg>
+                    </app>
+                    
+                    <app loc="5">
+                        <lem></lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01"></rdg>
+                    </app>
+                    
+                    <app loc="5">
+                        <lem>ceytu kuṭu<supplied reason="lost">t</supplied></lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">ceytu</rdg>
+                    </app>
+                    
+                    <app loc="6">
+                        <lem><gap reason="lost" extent="unknown" unit="character"/> cōḻa <gap reason="lost" extent="unknown" unit="character"/> kku <gap reason="lost" extent="unknown" unit="character"/> <unclear>ḷa</unclear>ttu <gap reason="lost" extent="unknown" unit="character"/> kku <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> ṭapārkku</lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01"><gap reason="lost" extent="unknown" unit="character"/> paṭikki Ellai kīḻpārkellai kuttaṭikku <gap reason="lost" extent="unknown" unit="character"/> mēlpārkellai vīracōḻaṉ tiṭalukku vaṭapārkku</rdg>
+                    </app>
+                    
+                    <app loc="7">
+                        <lem><supplied reason="lost">kī</supplied><unclear>ḻa</unclear>kkuṭi</lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">kīḻkuṭi</rdg>
+                    </app>
+                    
+                    <app loc="7">
+                        <lem>mayiṉmālai</lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">mayimālai</rdg>
+                    </app>
+                    
+                    <app loc="7">
+                        <lem>muvēntavēḷaṉēṉ </lem>
+                        <rdg source="bib:Pāskaraṉ+Irājēntiraṉ_2004_01">mūvēntavēḷaṉē</rdg>
+                    </app>                    
+                    
+                </listApp>
             </div>
             
-            <div type="translation" resp="part:emfr"/>
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1"><supplied reason="lost">fourteenth</supplied> year of the king Parakesarivarman.</p>
+                
+                <p n="2-6">
+                    In this year,
+                    by order of Mayiṉmalai Irukkaivēḷāṟ,
+                    we, the temple officers,
+                    ...
+                    <supplied reason="lost">this is the manner in which</supplied>
+                    ...
+                    made a donation.
+                </p>
+                
+                <p n="6">
+                    I, Mūvēntavēḷāṉ of Ollaiyūr,
+                    by order of Mayiṉmalai Irukkaivēḷāṟ, 
+                    I have given.
+                </p>
+                
+                <p n="6"><supplied reason="subaudible">This is under the</supplied> <supplied reason="lost">protection</supplied> of the Paṉmāheśvarar-s.</p>
+            </div>
             
-            <div type="commentary"/>
+            <div type="commentary">
+                <p>The same individuals (Mayiṉmālai Irukkaivēḷār, Mūvēntavēḷāṉ of Ollaiyūrnāṭu) appear also in a similar transaction in <ref target="DHARMA_INSKotumpalur00031"/>.</p>
+            </div>
             
             <div type="bibliography">	
                 
                 <p>Edited (6 lines instead of 7) in <bibl><ptr target="bib:Pāskaraṉ+Irājēntiraṉ_2004_01"/></bibl> (Āvaṇam 15.10.2).</p>
-                <p>This edition by Emmanuel Francis based on autopsy and photos.</p>
+                <p>This edition by Emmanuel Francis based on autopsy and photos, and for lost portions on readings from <bibl><ptr target="bib:Pāskaraṉ+Irājēntiraṉ_2004_01"/></bibl>.</p>
                 
-                 <listBibl type="primary">
+                <listBibl type="primary">
                     
                     <bibl n="Āvaṇam">
                         <ptr target="bib:Pāskaraṉ+Irājēntiraṉ_2004_01"/>
