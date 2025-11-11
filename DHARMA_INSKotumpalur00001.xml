@@ -163,7 +163,7 @@
                 </lg>
                 
                 <lg n="11" met="anuṣṭubh">
-                    <l n="a" enjamb="yes">tasmai kālamukhā<lb n="B21" break="no"/><seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg> na-</l>
+                    <l n="a" enjamb="yes">tasmai kālamukhā<lb n="B21" break="no"/><seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg> na</l>
                     <l n="b">yati-mukhyāya yādavaḥ</l>
                     <l n="c" enjamb="yes">prādād ekādaśa-grāma</l>
                     <l n="d">-vinibandhaM bṛhan-maṭhaM <g type="pc">.</g></l>
@@ -220,16 +220,19 @@
                     <l></l>
                 </p>
                 <p n="7" rend="stanza">
-                    <l></l>
+                    <l>While this Kalpataru for the sages, this moon for the lotuses who are the two hands of kings of the earth, this favorite of the earth, of victory, of brilliance, of fortune, of glory, of eloquence, governed the earth,</l>
+                    <l>The only sharpness was found in a pair of eyes, instability in their eyelashes, darkness in their hair, weakness in their delicate female bodies, and mutual pressure in their pairs of breasts.</l>
                 </p>
                 <p n="8" rend="stanza">
-                    <l></l>
+                    <l>His virtuous wives were named Kaṟṟaḷi and Varaguṇā ;</l>
+                    <l>Kaṟṟaḷi was the mother of the very sweet Parāntaka and of Aditya.</l>
                 </p>
                 <p n="9" rend="stanza">
-                    <l></l>
+                    <l>The venerable Srī-Mallikārjuna, from Mathurā, born into the <foreign>gotra</foreign> of the Ātreyas, disciple of Vidyārāśi (the treasure of knowledge) who is a treasure of asceticism, was a master of the entirety <supplied reason="lost">of the Vedas</supplied>.</l>
                 </p>
                 <p n="10" rend="stanza">
-                    <l></l>
+                    <l>After having established the triple <foreign>vimāna</foreign> and having installed Maheśvara/Śiva,</l>
+                    <l>In his own name and the names of his wives, <supplied reason="subaudible">Bhūti</supplied> donated a great <foreign>maṭha</foreign>.</l>
                 </p>
                 <p n="11" rend="stanza">
                     <l></l>
@@ -285,29 +288,33 @@
                     <l>Kaṟṟaḷi fut la mère des extrêmement beaux<note>Le redoublement de <foreign>kamra</foreign> dans le composé semble avoir valeur intensive.</note> Parāntaka et Āditya.</l>
                 </p>
                 <p n="9" rend="stanza">
-                    <l></l>
+                    <l>Né dans le <foreign>gotra</foreign> des Ātreya, le vénérable et glorieux Mallikārjuna, originaire de Mathurā, disciple du trésor d’austérité Vidyārāśi<note>Trésor de connaissance.</note>, était un connaisseur de l’entièreté des <supplied reason="lost">Veda</supplied>.</l>
                 </p>
                 <p n="10" rend="stanza">
-                    <l></l>
+                    <l>Après avoir établi ce triple <foreign>vimāna</foreign></l>
+                    <l>Et y avoir installé Maheśvara<note>Śiva.</note>,</l>
+                    <l>En son propre nom et en celui de ses deux bien-aimées,</l>
+                    <l>Il<note>Bhūti Vikramakesarin.</note> lui<note>Vidyārāśi.</note> donna un grand monastère.</l>
                 </p>
                 <p n="11" rend="stanza">
-                    <l></l>
+                    <l>A cet éminent ascète <supplied reason="lost">de la doctrine</supplied> <supplied reason="explanation"><foreign>ādhyāna</foreign>?</supplied> des Kālamukha, le Yadava</l>
+                    <l>A donné un grand monastère dont dépendent onze villages.</l>
                 </p>
                 <p n="12" rend="stanza">
-                    <l></l>
+                    <l>Ce roi <supplied reason="lost">a donné</supplied> un grand monastère à <supplied reason="subaudible">ce</supplied> maître pour la jouissance de cinquante ascètes Asitavaktra</l>
+                    <l><supplied reason="lost">Et, pour le culte</supplied> de Maheśvara, des offrandes de nourriture <supplied reason="explanation"><foreign>naivedya</foreign></supplied>, du parfum <supplied reason="explanation"><foreign>gandha</foreign></supplied>, des fleurs <supplied reason="explanation"><foreign>kusuma</foreign></supplied>, de l'<foreign>akṣata</foreign><note>Turmeric selon <bibl><ptr target="bib:SrinivasaAiyar1941_01"/></bibl>.</note>, de l'encens <supplied reason="explanation"><foreign>dhūpa</foreign></supplied>, des lampes <supplied reason="explanation"><foreign>dīpa</foreign></supplied>, du bétel <supplied reason="explanation"><foreign>tāmbūla</foreign></supplied>, <supplied reason="lost">et</supplied> <gap reason="lost"/></l>
                 </p>
             </div>
             
-            <!--<div type="commentary">
-                
-                </div>-->
+            <div type="commentary">
+                <p>Several stanzas are metrically peculiar. Stanza 2 is an unstandard <foreign>ra-vipulā</foreign>. Stanza 4 is only an hemistich of Śārdūlavikrīḍita. Stanza 5 is only an hemistich of Sragdharā. Stanza 8 is made a metrically correct Gīti by the deletion of supernumerary syllables as indicated by crossing-out marks.</p>
+            </div>
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/B/1907/129).</p>
-                <p>Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS 14); in <bibl><ptr target="bib:NilakanthaSastri1933_01"/></bibl>, with a facsimile; in <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl> (<ref target="DHARMA_INSSIIv23p0i0129">SII 23.129</ref>).</p>
-                <p>Translated in <bibl><ptr target="bib:SrinivasaAiyar1941_01"/></bibl> (IPS 14), <bibl><ptr target="bib:NilakanthaSastri1933_01"/></bibl>. </p>
-                <p>This edition by Emmanuel Francis, based on the facsimile in <bibl><ptr target="bib:NilakanthaSastri1933_01"/></bibl>, autopsy and photographs (Emmanuel Francis).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/B/1907/129), in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_01"/></bibl> (IPS 14).</p>
+                <p>Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> and translated in <bibl><ptr target="bib:SrinivasaAiyar1941_01"/></bibl> (IPS 14). Edited and translated in <bibl><ptr target="bib:NilakanthaSastri1933_01"/></bibl>, with a facsimile. Edited with a summary  in <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl> (<ref target="DHARMA_INSSIIv23p0i0129">SII 23.129</ref>).</p>
+                <p>This edition by Emmanuel Francis, based on the facsimile in <bibl><ptr target="bib:NilakanthaSastri1933_01"/></bibl>, autopsy and photographs (Emmanuel Francis). This French translation by Emmanuel Francis. This English translation by Emmanuel Francis and Padma Kaimal.</p>
                 
                 <listBibl type="primary">
                     
@@ -339,15 +346,20 @@
                     </bibl>
                     
                     <bibl>
-                        <ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_01"/>
-                        <citedRange unit="item">14</citedRange>
-                        <citedRange unit="page">2</citedRange>
+                        <ptr target="bib:Lorenzen1991_01"/>
+                        <citedRange unit="page">166</citedRange>
                     </bibl>
                     
                     <bibl>
                         <ptr target="bib:SrinivasaAiyar1941_01"/>
                         <citedRange unit="item">14</citedRange>
                         <citedRange unit="page">15-18</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_01"/>
+                        <citedRange unit="item">14</citedRange>
+                        <citedRange unit="page">2</citedRange>
                     </bibl>
                     
                 </listBibl>
