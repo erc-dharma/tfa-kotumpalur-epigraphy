@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Koṭumpāḷūr, Muccukuṇḍeśvara temple, time of Māṟavarmar <supplied reason="lost">Sundara Pāṇḍya</supplied>, year lost</title>
+                <title>Koṭumpāḷūr, Muccukuṇḍeśvara temple, time of Māṟavarmar <supplied reason="lost">Sundara Pāṇḍya</supplied>, year <unclear>5 + 1</unclear></title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Stone-inscriptio (wall and base of wall).</summary>
+                        <summary>Stone-inscription (wall and base of wall).</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -87,18 +87,21 @@
                 </ab> 
                 <p>
                     <supplied reason="lost">kō<!--kompu clear--></supplied>-māṟa-paṉ<unclear>mar</unclear>-āṉa tiri-puva<unclear>ṉa</unclear>-<supplied reason="lost">cak</supplied>kara-varttikaḷ cōḻa <gap reason="lost" quantity="2" unit="character"/>
-                    <lb n="2"/>...
-                    <lb n="3"/>ṇṭu I<hi rend="grantha">ṣa</hi>pa-<unclear>nā</unclear>yaṟṟu Apara-pa<hi rend="grantha">kṣa</hi>ttu-c ..
+                    <lb n="2" break="no"/><unclear>ṭu</unclear> vaḻaṅkiya <gap reason="lost" quantity="15" unit="character"/> <unclear>5</unclear> vat<unclear>i</unclear>ṉ Et<unclear>i</unclear>r <unclear>ā</unclear><supplied reason="lost">m ā</supplied> 
+                    <lb n="3" break="no"/>ṇṭu I<hi rend="grantha">ṣa</hi>pa-<unclear>nā</unclear>yaṟṟu Apara-pa<hi rend="grantha">kṣa</hi>ttu-c caṉi-k<unclear>kiḻa</unclear>m<unclear>aiyu mu</unclear>lamum <gap reason="lost" quantity="4" unit="character"/>
                     <lb n="4"/><gap reason="lost" quantity="6" unit="character"/>
                 </p>
                 <p>
                     <supplied reason="lost">ka</supplied><unclear>ṭa</unclear>laṭaiyāt-ilaṅkai-koṇṭa-cōḻa-vaḷanāṭṭu Uṟat<unclear>tū</unclear><supplied reason="lost">r</supplied>
-                    <lb n="5"/><gap reason="lost" quantity="4" unit="character"/> <supplied reason="lost">ko</supplied>ṭumpāḷūr Uṭaiyār tiru-mutu-kuṉṟam-uṭaiya nāya<choice><orig>n</orig><reg>ṉ</reg></choice>ārku...
+                    <lb n="5"/><gap reason="lost" quantity="4" unit="character"/> <supplied reason="lost">ko</supplied>ṭumpāḷūr Uṭaiyār tiru-mutu-kuṉṟam-uṭaiya nāya<choice><orig>n</orig><reg>ṉ</reg></choice>ārku Iv
                     <lb n="6"/>...
                     <lb n="7"/>...
                     <lb n="8"/>...
                     <lb n="9"/>...
-                    <lb n="10"/>...
+                    <lb n="10" break="no"/>ṭutta paṭikku E<supplied reason="lost">llai</supplied> y-āvatu
+                </p>
+                <p>
+                    k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟk’ e[llai] <gap reason="lost" quantity="10" unit="character"/> Āḻaki<supplied reason="lost">ya</supplied> <unclear>ma</unclear>
                     <lb n="11"/>...
                     <lb n="12"/>...
                     
