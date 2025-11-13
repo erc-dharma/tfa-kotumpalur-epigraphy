@@ -86,22 +86,21 @@
                     <hi rend="grantha">svasti śrī</hi>
                 </ab> 
                 <p>
-                    <supplied reason="lost">kō<!--kompu clear--></supplied>-māṟa-paṉ<unclear>mar</unclear>-āṉa tiri-puva<unclear>ṉa</unclear>-<supplied reason="lost">cak</supplied>kara-varttikaḷ cōḻa <gap reason="lost" quantity="2" unit="character"/>
-                    <lb n="2" break="no"/><unclear>ṭu</unclear> vaḻaṅkiya <gap reason="lost" quantity="15" unit="character"/> <unclear>5</unclear> vat<unclear>i</unclear>ṉ Et<unclear>i</unclear>r <unclear>ā</unclear><supplied reason="lost">m ā</supplied> 
-                    <lb n="3" break="no"/>ṇṭu I<hi rend="grantha">ṣa</hi>pa-<unclear>nā</unclear>yaṟṟu Apara-pa<hi rend="grantha">kṣa</hi>ttu-c caṉi-k<unclear>kiḻa</unclear>m<unclear>aiyu mu</unclear>lamum <gap reason="lost" quantity="4" unit="character"/>
-                    <lb n="4"/><gap reason="lost" quantity="6" unit="character"/>
+                    <supplied reason="lost">kō<!--kompu clear--></supplied>-māṟa-paṉ<unclear>mar</unclear>-āṉa tiri-puva<unclear>ṉa</unclear>-<supplied reason="lost">cak</supplied>kara-varttikaḷ cōḻa-<supplied reason="lost">nā</supplied>
+                    <lb n="2" break="no"/><unclear>ṭu</unclear> vaḻaṅki-y-a<supplied reason="lost">ruḷiya <hi rend="grantha">śrī-</hi>cuntara-pāṇṭiya-tēvaṟku yāṇṭu</supplied>  <unclear>5</unclear> vat<unclear>i</unclear>ṉ Et<unclear>i</unclear>r <unclear>ā</unclear><supplied reason="lost">m ā</supplied> 
+                    <lb n="3" break="no"/>ṇṭu I<hi rend="grantha">ṣa</hi>pa-<unclear>nā</unclear>yaṟṟu Apara-pa<hi rend="grantha">kṣa</hi>ttu-c caṉi-k<unclear>kiḻa</unclear>m<unclear>aiyu mu</unclear>lamum <supplied reason="lost">peṟṟa nāḷ</supplied>
                 </p>
-                <p>
-                    <supplied reason="lost">ka</supplied><unclear>ṭa</unclear>laṭaiyāt-ilaṅkai-koṇṭa-cōḻa-vaḷanāṭṭu Uṟat<unclear>tū</unclear><supplied reason="lost">r</supplied>
-                    <lb n="5"/><gap reason="lost" quantity="4" unit="character"/> <supplied reason="lost">ko</supplied>ṭumpāḷūr Uṭaiyār tiru-mutu-kuṉṟam-uṭaiya nāya<choice><orig>n</orig><reg>ṉ</reg></choice>ārku Iv
-                    <lb n="6"/>...
-                    <lb n="7"/>...
-                    <lb n="8"/>...
-                    <lb n="9"/>...
+                <p>                    
+                    <lb n="4"/><supplied reason="lost">kōṉāṭ-āṉa ka</supplied><unclear>ṭa</unclear>l-aṭaiyāt-ilaṅkai-koṇṭa-cōḻa-vaḷanāṭṭu Uṟat<unclear>tū</unclear><supplied reason="lost">r</supplied>
+                    <lb n="5"/><supplied reason="lost">kūṟṟattu ko</supplied>ṭumpāḷūr Uṭaiyār tiru-mutu-kuṉṟam-uṭaiya nāya<choice><orig>n</orig><reg>ṉ</reg></choice>ārku Iv
+                    <lb n="6"/><gap reason="lost" quantity="6" unit="character"/> ḷaṉ piccaṉ toṇṭan-āṉa vikkirama-pāṇṭiya-paṉmar-<unclear>āṉ</unclear>a
+                    <lb n="7"/><gap reason="lost" quantity="10" unit="character"/> <unclear>ku</unclear>-t tiruvottacāmacantikku<unclear>n</unclear> tiru-<unclear>v-a</unclear>mutukkum <unclear>tayir-a</unclear>mu 
+                    <lb n="8"/><supplied reason="lost">tu</supplied> <gap reason="lost" quantity="1" unit="line"/>
+                    <lb n="9"/><gap reason="lost" quantity="1" unit="character"/> <unclear>luppai</unclear>kkuṭ <gap reason="lost" quantity="3" unit="character"/> <unclear>k</unclear> kuṭi niṅkā-<unclear>t</unclear> <gap reason="lost" quantity="6" unit="character"/> <unclear>t</unclear> tiru-k-kalveṭ<unclear>ṭi ku</unclear>
                     <lb n="10" break="no"/>ṭutta paṭikku E<supplied reason="lost">llai</supplied> y-āvatu
                 </p>
                 <p>
-                    k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟk’ e[llai] <gap reason="lost" quantity="10" unit="character"/> Āḻaki<supplied reason="lost">ya</supplied> <unclear>ma</unclear>
+                    k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟk’ e<supplied reason="lost">llai</supplied> <gap reason="lost" quantity="10" unit="character"/> Āḻaki<supplied reason="lost">ya</supplied> <unclear>ma</unclear>
                     <lb n="11"/>...
                     <lb n="12"/>...
                     
@@ -114,6 +113,7 @@
             </div>
             
             <div type="apparatus">
+                <!--complete apparatus with variant readings in IPS-->
                 <listApp>
                     <app loc="0">
                         <lem></lem>
@@ -129,7 +129,7 @@
             <div type="bibliography">	
                 
                 <p>Reported in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_01"/></bibl> (IPS 299).</p>
-                <p>Edited (12 first lines only) in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> and translated in <bibl><ptr target="bib:SrinivasaAiyar1941_01"/></bibl> (IPS 299)</p>
+                <p>Edited (12 first lines only) in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> and translated in <bibl><ptr target="bib:SrinivasaAiyar1941_01"/></bibl> (IPS 299).</p>
                 <p>This edition by Emmanuel Francis based on autopsy and photos.</p>
                 
                 <listBibl type="primary">
