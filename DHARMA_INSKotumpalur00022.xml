@@ -100,14 +100,22 @@
                     <lb n="10" break="no"/>ṭutta paṭikku E<supplied reason="lost">llai</supplied> y-āvatu
                 </p>
                 <p>
-                    k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟk’ e<supplied reason="lost">llai</supplied> <gap reason="lost" quantity="10" unit="character"/> Āḻaki<supplied reason="lost">ya</supplied> <unclear>ma</unclear>
-                    <lb n="11"/>...
-                    <lb n="12"/>...
+                    <list>
+                        <item>k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟk’ e<supplied reason="lost">llai</supplied> <gap reason="lost" quantity="10" unit="character"/> Aḻaki<supplied reason="lost">ya</supplied> <unclear>ma</unclear>
+                    <lb n="11"/><gap reason="lost" quantity="2" unit="character"/> vāṉa-c-catur<unclear>v</unclear>ēti-maṅkalattu El<unclear>l</unclear>ai <gap reason="lost" quantity="8" unit="character"/></item>
+                        
+                        <item><supplied reason="lost">te</supplied><unclear>ṉ</unclear>-pāṟk’ el
+                    <lb n="12"/><supplied reason="lost">lai</supplied> <gap reason="lost" quantity="10" unit="character"/> kku  vaṭakku<supplied reason="subaudible">m</supplied></item>
+                        
+                        <item>mēl-pāṟk’ ellai marutūril <unclear>kū</unclear> <gap reason="lost" quantity="3" unit="character"/>
                     
                     <milestone n="B" unit="zone" type="pagelike"/>
-                    <lb n="13"/>...
-                    <lb n="14"/>...
-                    <lb n="15"/>...
+                    <lb n="13"/><gap reason="lost" quantity="20" unit="character"/> ka-p poṉ veḷḷāṟ<supplied reason="lost">ṟuk</supplied>
+                    <lb n="14" break="no"/><supplied reason="lost">ku</supplied> t teṟkum</item></list> Āka Icainta pe<supplied reason="lost">ru</supplied>-nāṉk’ ellaikk’ uṭpaṭṭa v<choice><sic>a</sic><corr>i</corr></choice>ḷai-nilam Añcu mā
+                </p>
+                <p>
+                    Iṉ-ṉi
+                    <lb n="15"/><supplied reason="lost">la</supplied><unclear>m</unclear> Añcu māvukkuṅ kaṭamai 
                 </p> 
                 
             </div>
