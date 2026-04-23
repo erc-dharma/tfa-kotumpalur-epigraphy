@@ -40,11 +40,11 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary/>
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -54,19 +54,13 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide"
-                key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib"
-                    matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part"
-                    matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -96,7 +90,7 @@
                     <lb n="3"/>
                     <unclear>m</unclear> Aṭaiyār <gap reason="lost" quantity="8" unit="character"/> koṭumpai Ālaṅ-kōyil <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" quantity="8" unit="character"/> <supplied reason="lost">tiru-mu</supplied>tu-kuṉ‧
                     <lb n="4" break="no"/>                    
-                    ṟaṭṭai paṭi putuk·kit·tē canikaḻ· tak·kaṇāmūr·t·<unclear>t</unclear>i <supplied reason="lost">ti</supplied><unclear>ru</unclear>-māl ayaṉum<unclear>·</unclear> <unclear>vā</unclear><supplied reason="lost">cal iru-pālarum vai</supplied>ttāṉ <g type="gomutraFinal">.</g>
+                    ṟaṭṭai paṭi putuk·kit·tē canikaḻ· tak·kaṇāmūr·t·<unclear>t</unclear>i <supplied reason="lost">ti</supplied><unclear>ru</unclear>-māl ayaṉum<unclear>·</unclear> <unclear>vā</unclear><supplied reason="lost">cal iru-pālarum vai</supplied>ttāṉ <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                 </p>
                 
             </div>
@@ -106,8 +100,8 @@
                 <listApp>
                     
                     <app loc="0">
-                        <lem></lem>
-                        <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"></rdg>
+                        <lem/>
+                        <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/>
                     </app>
                     
                     <app loc="1">
