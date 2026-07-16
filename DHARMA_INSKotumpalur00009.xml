@@ -17,7 +17,7 @@
                     </persName>
                 </respStmt></titleStmt>
             <publicationStmt>
-                <authority>DHARMA</authority>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris</pubPlace>
                 <idno type="filename">DHARMA_INSKotumpalur00009.xml</idno>
                 <availability>
