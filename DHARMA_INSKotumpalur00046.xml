@@ -31,7 +31,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Stone-inscription mentioning the Ṛṣabha of a temple named Bhūtīśvara and, seemingly, a donation by Vīrapāṇḍya for coating/gilding it.</summary>
+                        <summary>Stone-inscription mentioning the r̥ṣabha of a temple named Bhūtīśvara and, seemingly, a donation by Vīrapāṇḍya for coating/gilding it.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -64,7 +64,7 @@
                 </p>
                 <p>
                     tiru-p-pūti
-                    <lb n="3" break="no"/>-c-cuvarattu <hi rend="grantha">ṛṣa</hi>pa
+                    <lb n="3" break="no"/>-c-cuvarattu <hi rend="grantha">r̥ṣa</hi>pa
                     <lb n="4" break="no"/>-p-perumāṉaṭikaḷuk 
                     <lb n="5" break="no"/>ku-p <unclear>pūcc' iṭa v</unclear><choice><orig><unclear>i</unclear></orig><reg>ī</reg></choice><unclear>ra-pā</unclear> 
                     <lb n="6" break="no"/>ṇṭi <gap reason="lost" quantity="18" unit="character"/>
@@ -85,7 +85,7 @@
             <div type="translation" resp="part:emfr">
                 <p n="1">Fortune!</p>
                 <p n="1-2">5th year.<note>Probably of <unclear>Vīrapāṇḍya</unclear>, mentioned in lines 5-6.</note></p>
-                <p n="2-6"><unclear>So as to put</unclear> <supplied reason="explanation"><foreign>iṭa</foreign></supplied> <unclear>a coating/gilding</unclear> <supplied reason="explanation"><foreign>pūccu</foreign></supplied> for the lord <supplied reason="explanation"><foreign>perumāṉatikaḷ</foreign></supplied> Rṣapa<note>Sanskrit Ṛṣabha.</note> of the glorious Pūticcuvaram<note>Sanskrit Bhutīśvara.</note>, <unclear>Vīrapāṇḍya</unclear> <gap reason="lost"/> </p>
+                <p n="2-6"><unclear>So as to put</unclear> <supplied reason="explanation"><foreign>iṭa</foreign></supplied> <unclear>a coating/gilding</unclear> <supplied reason="explanation"><foreign>pūccu</foreign></supplied> for the lord <supplied reason="explanation"><foreign>perumāṉatikaḷ</foreign></supplied> Rṣapa<note>Sanskrit r̥ṣabha.</note> of the glorious Pūticcuvaram<note>Sanskrit Bhutīśvara.</note>, <unclear>Vīrapāṇḍya</unclear> <gap reason="lost"/> </p>
             </div>
             
             <div type="commentary">
